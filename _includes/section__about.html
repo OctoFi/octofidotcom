@@ -1,0 +1,23 @@
+<section class="about">
+  {% if include.divider == true %}
+    <div class="wrap"><hr/></div>
+    {% endif %}
+  <div class="wrap grid">
+
+    <div class="about__image">
+      <img src="{{ '/images/profile.jpg' | relative_url }}" alt="">
+
+      {% include component-socials.html %}
+    </div>
+
+    <div class="about__content">
+      <h2 class="title">About us</h2>
+      <p class="subtitle subtitle--light">We're a team of seasoned professionals.
+      </p>
+
+      <p>We defintely bring salt and pepper to the table. Between us we've got eight limbs and eight years in crypto. Cooked to perfection. <i>Octimal.</i></p>
+
+      <a href="https://twitter.com/intent/follow?screen_name=octofinance&tw_p=followbutton" class="cta button--fill" target="_blank">Follow Us</a>
+    </div>
+  </div>
+</section>

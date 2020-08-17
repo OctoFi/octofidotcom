@@ -1,0 +1,21 @@
+<footer class="footer">
+	<div class="wrap grid">
+
+		{% if site.data.settings.footer_settings.logo_image %}
+		<a href="{{ site.baseurl }}/" class="footer__logo">
+			<img src="{{ site.data.settings.footer_settings.logo_image | relative_url }}" class="footer__logo__img">
+		</a>
+		{% else %}
+		<a href="{{ site.baseurl }}/" class="footer__title">
+			🐙 {{ site.data.settings.basic_settings.site_title }}
+		</a>
+		{% endif %}
+
+		<div class="footer__copyright">
+			{% if site.data.settings.footer_settings.tagline %}
+			<p>{{ site.data.settings.footer_settings.tagline }}</p>
+			{% endif %}
+			<span class="footnote">© {{ 'now' | date: "%Y" }} {{ site.data.settings.basic_settings.site_title }}</span>
+		</div>
+
+	</div>
