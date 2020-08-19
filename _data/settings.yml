@@ -12,6 +12,10 @@ menu_settings:
       url: '/'
     - title: 'Blog'
       url: '/blog/'
+    - title: 'GitHub'
+      url: 'https://github.com/octofi'
+    - title: 'Twitter'
+      url: 'https://twitter.com/octofinance'
 
 footer_settings:
   logo_image: 
@@ -25,8 +29,8 @@ post_settings:
   grid_spacing: 10
 
 contact_settings:
-  email_address: ''
-  form_action: 'https://formspree.io/8@octo.fi'
+  email_address: 'hello@octo.fi'
+  form_action: 'https://formspree.io/hello@octo.fi'
   confirmation_url: '/thanks'
   email_subject: 'Let me know when you go live'
   send_button_text: 'Submit'
@@ -180,6 +184,6 @@ font_settings:
 advanced_settings:
   ajax_loading: true
   analytics_code: ""
-  custom_styles: ""
+  custom_styles: ".particle {position: absolute; will-change: transform; pointer-events: none;}"
   header_js: ""
   footer_js: ""

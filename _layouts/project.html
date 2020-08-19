@@ -27,6 +27,15 @@ layout: default
 				{{ page.content }}
 			</article>
 			
+			<div class="post__more grid">
+				{% if page.previous.url %}
+				<a class="prev-project subtitle" href="{{ page.previous.url | relative_url }}">{{page.previous.title}}</a>
+				{% endif %}
+				{% if page.next.url %}
+				<a class="next-project subtitle" href="{{ page.next.url | relative_url }}">{{ page.next.title }}</a>
+				{% endif %}
+			</div>
+			
 		</div>
 
 	</section>

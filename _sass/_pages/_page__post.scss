@@ -328,17 +328,43 @@
     @extend .label--small;
     margin-bottom: 8px;
   }
+  
+  .prev-project::before,
+  .next-project::before {
+    display: block;
+    @extend .label--small;
+    margin-bottom: 8px;
+  }
 
   .prev-post::before {
     content: "Previous Post";
   }
 
+  .prev-project::before {
+    content: "Previous Project";
+  }
+
   .next-post::before {
     content: "Next Post";
+  }
+  
+  .next-project::before {
+    content: "Next Project";
   }
 
   .prev-post::after,
   .next-post::after {
+    content: "";
+    display: block;
+    width: 20px;
+    height: 12px;
+    background: url($baseurl + "/images/icons/arrow-left-gray.svg") center center no-repeat;
+    position: absolute;
+    top: calc(50% - 6px);
+  }
+
+  .prev-project::after,
+  .next-project::after {
     content: "";
     display: block;
     width: 20px;
@@ -353,7 +379,16 @@
     transform: rotate(180deg);
   }
 
+  .next-project::after {
+    right: 30px;
+    transform: rotate(180deg);
+  }
+
   .prev-post {
+    text-align: right;
+  }
+  
+  .prev-project {
     text-align: right;
   }
 
