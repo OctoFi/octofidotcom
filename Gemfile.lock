@@ -249,6 +249,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   jekyll (= 3.8.5)
+  jekyll-feed
   jekyll-paginate
   jekyll-sitemap
 
