@@ -12,10 +12,10 @@ menu_settings:
       url: '/'
     - title: 'Blog'
       url: '/blog/'
-    - title: 'GitHub'
-      url: 'https://github.com/octofi'
     - title: 'Twitter'
       url: 'https://twitter.com/octofinance'
+    - title: 'GitHub'
+      url: 'https://github.com/octofi'
 
 footer_settings:
   logo_image: 

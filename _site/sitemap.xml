@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://octo.fi/thanks</loc>
-<lastmod>2020-08-21T16:12:31+10:00</lastmod>
-</url>
-<url>
 <loc>https://octo.fi/blog/defi-infra</loc>
 <lastmod>2020-08-14T10:00:00+10:00</lastmod>
 </url>
