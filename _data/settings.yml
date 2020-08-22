@@ -10,12 +10,14 @@ menu_settings:
   menu_items:
     - title: 'Projects'
       url: '/'
+    - title: 'Octoken'
+      url: '/project/token/'
+    - title: 'Aquafarm'
+      url: '/project/aquafarm/'
+    - title: 'Tentacle'
+      url: '/project/tentacle/'
     - title: 'Blog'
       url: '/blog/'
-    - title: 'Twitter'
-      url: 'https://twitter.com/octofinance'
-    - title: 'GitHub'
-      url: 'https://github.com/octofi'
 
 footer_settings:
   logo_image: 
@@ -38,7 +40,7 @@ contact_settings:
 social_settings:
   facebook_url: ''
   twitter_url: 'https://twitter.com/octofinance'
-  email_url: 'mailto:hello@octo.fi'
+  envelope_url: 'mailto:hello@octo.fi'
   telegram_url: 'https://t.me/OctoFiNews'
   instagram_url: ''
   snapchat_url: ''
