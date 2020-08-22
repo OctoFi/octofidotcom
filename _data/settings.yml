@@ -38,6 +38,8 @@ contact_settings:
 social_settings:
   facebook_url: ''
   twitter_url: 'https://twitter.com/octofinance'
+  email_url: 'mailto:hello@octo.fi'
+  telegram_url: 'https://t.me/OctoFiNews'
   instagram_url: ''
   snapchat_url: ''
   youtube_url: ''
