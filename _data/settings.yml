@@ -8,14 +8,12 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'Projects'
-      url: '/'
     - title: 'Octoken'
       url: '/project/token'
     - title: 'Aquafarm'
       url: '/project/aquafarm'
-    - title: 'Tentacle'
-      url: '/project/tentacle'
+    - title: 'Tentacles'
+      url: '/project/tentacles'
     - title: 'Blog'
       url: '/blog/'
 
