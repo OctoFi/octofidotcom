@@ -21,15 +21,21 @@ At the center of these concerns is centralization. We understand that innovators
 
 ## Trust undermines DeFi’s potential 
 
-Many thought leaders within the broader cryptocurrency community have explored the importance of decentralization across the entire stack of an application. While more and more people are interacting with permissionless systems, whether these systems are in fact trustless is increasingly scrutinized. These concerns are exacerbated by the tendency for value locked to move between protocols so erratically. After all, these human actions are often driven by emotions rather than logic, and such fear, uncertainty, and doubt can force users to make irrational decisions. 
+Many thought leaders within the broader cryptocurrency community have explored the importance of decentralization across the entire stack of an application. While more and more people are interacting with permissionless systems, whether these systems are in fact trustless is increasingly scrutinized. 
 
-For those who’ve been in the crypto space long enough, it’s widely accepted that choosing your sources wisely and widely, is essential for the simple fact that individual data sources are more likely manipulated. We can learn from the mistakes of those who’ve been burned by having too much trust in a single entity. There should be no single points of failure when we are pioneering decentralized technologies and intermediary risks should be mitigated however possible in order to legitimize DeFi. Centralized entities require trust, are easily corrupted, and ensuring users can better spread risks associated with early adoption should be a core focus of the user experience. 
+These concerns are exacerbated by the tendency for value locked to move between protocols so erratically. After all, these human actions are often driven by emotions rather than logic, and such fear, uncertainty, and doubt can force users to make irrational decisions. 
+
+For those who’ve been in the crypto space long enough, it’s widely accepted that choosing your sources wisely and widely, is essential for the simple fact that individual data sources are more likely manipulated. We can learn from the mistakes of those who’ve been burned by having too much trust in a single entity. 
+
+There should be no single points of failure when we are pioneering decentralized technologies and intermediary risks should be mitigated however possible in order to legitimize DeFi. Centralized entities require trust, are easily corrupted, and ensuring users can better spread risks associated with early adoption should be a core focus of the user experience. 
 
 ## Introducing OctoFi
 
 OctoFi is a next generation open source platform providing decentralized finance oracles tentacles for DeFi. We believe that the term ‘oracle’ itself implies unreasonable dependence on a single source of truth. In most cases, an oracle is viewed as singular, and while we appreciate their importance, we foresee the existence of many, all of which are auditable against one another. 
 
-Within the decentralized finance world, individuals shall act as proxies to an aggregation of oracular data sources, in order to optimize their own participation and interaction with an ever expanding landscape of protocols. OctoFi users will benefit from an ‘octomized’ structure whereby 'tentacles' connect them with various applications, while leveraging truly open and transparent infrastructure. Stakeholders will play an important role in data validation while pioneering a new frontier of community governance for long term, sustainable adaptability.
+Within the decentralized finance world, individuals shall act as proxies to an aggregation of oracular data sources, in order to optimize their own participation and interaction with an ever expanding landscape of protocols. 
+
+OctoFi users will benefit from an ‘octomized’ structure whereby 'tentacles' connect them with various applications, while leveraging truly open and transparent infrastructure. Stakeholders will play an important role in data validation while pioneering a new frontier of community governance for long term, sustainable adaptability.
 
 ## Octoken - where it all begins
 
