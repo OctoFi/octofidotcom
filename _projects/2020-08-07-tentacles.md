@@ -8,7 +8,7 @@ accent_color: '#4C60E6'
 gallery_images: 
 ---
 
-[GitHub progress:](https://github.com/octofi/tentacle):
+[GitHub progress](https://github.com/octofi/tentacle):
 
 ![40%](https://progress-bar.dev/40/?width=200)
 
