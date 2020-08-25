@@ -1,7 +1,7 @@
 ---
 title: Governance Token Mechanisms for Octoken Holders
 date: 2020-08-15 00:00:00
-description: 
+description: In order to achieve the best possible distribution of ownership, OCTO governance tokens shall be disbursed through various mechanisms.
 featured_image: '/images/2.jpg'
 ---
 
