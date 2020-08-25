@@ -1,6 +1,6 @@
 ---
 title: Bonding Curve Sale Details for OCTO Governance Token
-date: 2020-08-16 00:00:00
+date: 2020-08-22 00:00:00
 description: 
 featured_image: '/images/3.jpg'
 ---

@@ -1,6 +1,6 @@
 ---
 title: Infrastructure for Decentralized Finance with Tentacles
-date: 2020-08-14 00:00:00
+date: 2020-08-16 00:00:00
 description: OctoFi users will benefit from an ‘octomized’ structure whereby 'tentacles' connect them with various applications, while leveraging truly open and transparent infrastructure.
 featured_image: '/images/1.jpg'
 ---
