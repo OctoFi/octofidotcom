@@ -7,13 +7,13 @@ featured_image: '/images/3.jpg'
 
 <p class="subtitle" id="timer">Bonding curve in...</p>
 
-OctoFi will distribute the OCTO governance token through the Octoken project, a bonding curve distribution starting 14 September 2020 at 00:00 UTC. We welcome all those who support the development of the DeFI ecosystem and a total of 125,000 tokens are being made available to participants.
+OctoFi will distribute the OCTO governance token through the Octoken project, a bonding curve distribution starting 14 September 2020 at 00:00 UTC. We welcome all those who support the development of the DeFi ecosystem and a total of 125,000 tokens are being made available to participants.
 
 ## What is a bonding curve offering?
 
 [Bonding curves are smart contracts](https://medium.com/coinmonks/token-bonding-curves-explained-7a9332198e0e) designed to provide tokens with their own market by creating buy and sell functions. Token prices increase and decrease as they are bought and sold from the contract respectively. The number of tokens on the market, and the average price of each token per transfer batch, are the characteristics that determine a trade.
 
-Buyers gain control over the project and team, to a degree, thanks to the contract autonomously creating a market and remaining 100% collateralised at all times. Bonding curve participants can essentially sell tokens back at any time, through a fair and transparent means of distributing governance rights.
+Buyers gain control over the project and team, to a degree, thanks to the contract autonomously creating a market and remaining 100% collateralized at all times. Bonding curve participants can essentially sell tokens back at any time, through a fair and transparent means of distributing governance rights.
 
 > “...risks are minimised, requiring both the developer and the vote to be compromised to cause any real damage.” — [Vitalik Buterin](https://ethresear.ch/t/explanation-of-daicos/465)
 
@@ -25,7 +25,7 @@ It is critical to the project that early adopters are incentivized to foster a s
 
 ![](/images/projects/curve.png)
 
-Inspired by the ‘sigmoid bonding curve’ model, OctoFi shall remunerate early supporters for their participation and commitment to DeFi in the broader sense, rather than favouring short term speculators. As explained in our governance mechanisms post, the Octoken project is the first mechanism through which we are decentralizing governance of OctoFi.
+Inspired by the ‘sigmoid bonding curve’ model, OctoFi shall remunerate early supporters for their participation and commitment to DeFi in the broader sense, rather than favoring short term speculators. As explained in our governance mechanisms post, the Octoken project is the first mechanism through which we are decentralizing governance of OctoFi.
 
 | Batch        | Allocation	  | Price (USDC) |
 |--------------|--------------|--------------|
@@ -40,7 +40,7 @@ Inspired by the ‘sigmoid bonding curve’ model, OctoFi shall remunerate early
 | 009		   | 16,000       | $0.98 		 |
 | 010		   | 17,000       | $1.08 		 |
 
-Bonding curves are a newer concept and their implementations are improving thanks to the collaborative nature of decentralized finance. In support of fostering innovation and our commitment to ongoing improvement, all contracts shall be open source for auditing by whoever else would like to contribute.
+Bonding curves are a newer concept and their implementations are improving thanks to the collaborative nature of decentralized finance. In support of fostering innovation and our commitment to ongoing improvement, all contracts are open source for auditing by anyone who'd would like to contribute.
 
 Full details of the Octoken bonding curve distribution and decentralized exchange allocation of the OCTO governance token are [available here](/project/token).
 
@@ -48,7 +48,7 @@ Full details of the Octoken bonding curve distribution and decentralized exchang
 
 * Allocation of 125,000 OCTO for bonding curve sale
 * Equates to 15.625% of total supply with 800,000 hard cap.
-* Starting 14 September 2020 at 00:00 UT
+* Starting 14 September 2020 at 00:00 UTC
 * Ending when allocation sold out
 * Initial price of $0.18
-* Accepting USDC
+* Denominated in USDC
