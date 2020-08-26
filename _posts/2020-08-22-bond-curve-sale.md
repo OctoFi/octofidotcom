@@ -13,7 +13,7 @@ OctoFi will distribute the OCTO governance token through the Octoken project, a 
 
 [Bonding curves are smart contracts](https://medium.com/coinmonks/token-bonding-curves-explained-7a9332198e0e) designed to provide tokens with their own market by creating buy and sell functions. Token prices increase and decrease as they are bought and sold from the contract respectively. The number of tokens on the market, and the average price of each token per transfer batch, are the characteristics that determine a trade.
 
-Buyers gain control over the project and team, to a degree, thanks to the contract autonomously creating a market and remaining 100% collateralized at all times. Bonding curve participants can essentially sell tokens back at any time, through a fair and transparent means of distributing governance rights.
+Buyers gain control over the project and team, to a degree, thanks to the contract autonomously creating a market and remaining 100% collateralized at all times. Bonding curve participants can essentially sell tokens back at any time over a uniswap marketplace pair, for a fair and transparent means of distributing governance rights.
 
 > “...risks are minimised, requiring both the developer and the vote to be compromised to cause any real damage.” — [Vitalik Buterin](https://ethresear.ch/t/explanation-of-daicos/465)
 
