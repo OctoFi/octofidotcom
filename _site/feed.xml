@@ -1,1 +1,282 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://octo.fi/feed.xml" rel="self" type="application/atom+xml" /><link href="https://octo.fi/" rel="alternate" type="text/html" /><updated>2020-08-21T16:12:31+10:00</updated><id>https://octo.fi/feed.xml</id><title type="html">OctoFi</title><subtitle>Decentralized Finance Tentacles</subtitle><entry><title type="html">Interest Pool for Earning Yield</title><link href="https://octo.fi/blog/interest-pool" rel="alternate" type="text/html" title="Interest Pool for Earning Yield" /><published>2020-08-17T10:00:00+10:00</published><updated>2020-08-17T10:00:00+10:00</updated><id>https://octo.fi/blog/interest-pool</id><content type="html" xml:base="https://octo.fi/blog/interest-pool">&lt;p&gt;Details coming soon…&lt;/p&gt;</content><author><name></name></author><summary type="html">Details coming soon…</summary></entry><entry><title type="html">Bonding Curve Sale Details</title><link href="https://octo.fi/blog/bond-curve-sale" rel="alternate" type="text/html" title="Bonding Curve Sale Details" /><published>2020-08-16T10:00:00+10:00</published><updated>2020-08-16T10:00:00+10:00</updated><id>https://octo.fi/blog/bond-curve-sale</id><content type="html" xml:base="https://octo.fi/blog/bond-curve-sale">&lt;p&gt;Details coming soon…&lt;/p&gt;</content><author><name></name></author><summary type="html">Details coming soon…</summary></entry><entry><title type="html">Governance Token Mechanisms</title><link href="https://octo.fi/blog/gov-token-mech" rel="alternate" type="text/html" title="Governance Token Mechanisms" /><published>2020-08-15T10:00:00+10:00</published><updated>2020-08-15T10:00:00+10:00</updated><id>https://octo.fi/blog/gov-token-mech</id><content type="html" xml:base="https://octo.fi/blog/gov-token-mech">&lt;p&gt;Details coming soon…&lt;/p&gt;</content><author><name></name></author><summary type="html">Details coming soon…</summary></entry><entry><title type="html">Infrastructure for Decentralized Finance</title><link href="https://octo.fi/blog/defi-infra" rel="alternate" type="text/html" title="Infrastructure for Decentralized Finance" /><published>2020-08-14T10:00:00+10:00</published><updated>2020-08-14T10:00:00+10:00</updated><id>https://octo.fi/blog/defi-infra</id><content type="html" xml:base="https://octo.fi/blog/defi-infra">&lt;p&gt;Details coming soon…&lt;/p&gt;</content><author><name></name></author><summary type="html">Details coming soon…</summary></entry></feed>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-08-28T01:19:28+10:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">octofidotcom</title><subtitle>Website for OctoFi: Decentralized Finance Tentacles. Hosted on Github Pages.</subtitle><entry><title type="html">Interest Pool for Earning Yield with Octokens</title><link href="http://localhost:4000/blog/interest-pool" rel="alternate" type="text/html" title="Interest Pool for Earning Yield with Octokens" /><published>2020-08-25T10:00:00+10:00</published><updated>2020-08-25T10:00:00+10:00</updated><id>http://localhost:4000/blog/interest-pool</id><content type="html" xml:base="http://localhost:4000/blog/interest-pool">&lt;p&gt;OctoFi is dedicated to achieving the best possible distribution of OCTO governance tokens among holders. With that commitment we are thrilled to announce &lt;a href=&quot;/project/aquafarm&quot;&gt;Aquafarm&lt;/a&gt;, our interest (and airdrop) program providing an attractive incentive scheme for investors.&lt;/p&gt;
+
+&lt;p&gt;Both private and public sale participants will be able to assign tokens to our interest yielding smart contract, to earn additional OCTO for 3, 6, and 12 month runtimes.&lt;/p&gt;
+
+&lt;h2 id=&quot;interest-program-overview&quot;&gt;Interest program overview&lt;/h2&gt;
+
+&lt;p&gt;A total of 200,000 OCTO split equally between interest yielding contract and airdrop, has been allocated to the interest program. Private sale investors cannot assign their Octokens early, and are afforded the same interest program access as public participants — the interface will be made available at &lt;a href=&quot;https://earn.octo.fi&quot;&gt;earn.octo.fi&lt;/a&gt; only.&lt;/p&gt;
+
+&lt;p&gt;An additional bonus yield is rewarded to supporters who take part in the first batch, scaled accordingly to their nominated runtime. Depending on the demand shown for the interest program, further bonus schemes may be opened, pending the relevant discussions required to revise the conditions.&lt;/p&gt;
+
+&lt;p&gt;Upon completion of the bonding curve sale, the interest program launch can be expected soon after. Our blog will be used as the first instance for all official announcements, then immediately dispersed across our twitter, telegram, and mailing list in accordance with UTC timezone scheduling.&lt;/p&gt;
+
+&lt;h2 id=&quot;interest-program-details&quot;&gt;Interest program details&lt;/h2&gt;
+
+&lt;p&gt;We’ve chosen to keep the program simple with measures to prevent any means by which private investors would have an advantage.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Runtime&lt;/th&gt;
+      &lt;th&gt;Interest rate p.a.&lt;/th&gt;
+      &lt;th&gt;Batch 001 bonus p.a.&lt;/th&gt;
+      &lt;th&gt;Total accrual&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;3 months&lt;/td&gt;
+      &lt;td&gt;10%&lt;/td&gt;
+      &lt;td&gt;2.5%&lt;/td&gt;
+      &lt;td&gt;12.5% p.a.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;6 months&lt;/td&gt;
+      &lt;td&gt;15%&lt;/td&gt;
+      &lt;td&gt;5%&lt;/td&gt;
+      &lt;td&gt;20% p.a.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;12 months&lt;/td&gt;
+      &lt;td&gt;22%&lt;/td&gt;
+      &lt;td&gt;10%&lt;/td&gt;
+      &lt;td&gt;32% p.a.&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;As detailed in the above table, the yield for respective interest program runtimes are as follows:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Three (3) months: 10% per annum&lt;/li&gt;
+  &lt;li&gt;Six (6) months: 15% per annum&lt;/li&gt;
+  &lt;li&gt;Twelve (12) months: 22% per annum&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;For investors participating in the first batch of the interest program, bonus yield as follows:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Three (3) months: bonus 2.5% per annum&lt;/li&gt;
+  &lt;li&gt;Six (6) months: bonus 5% per annum&lt;/li&gt;
+  &lt;li&gt;Twelve (12) months: bonus 10% per annum&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;To better incentivize mid to long term runtimes, the 200,000 OCTO allocation is split equally between the standard interest program, and airdrops disbursed to addresses completing at least six (6) months of runtime.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;100,000 for interest program yield payments&lt;/li&gt;
+  &lt;li&gt;100,000 for interest program airdrop payments&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Airdrops are specified as 100 OCTO to each address that successfully completes six (6) months runtime of the interest program — obviously limited to the first 1,000 holders to do so.&lt;/p&gt;
+
+&lt;h2 id=&quot;interest-program-future&quot;&gt;Interest program future&lt;/h2&gt;
+
+&lt;p&gt;Additional yield bearing integrations shall be made pending community decisions made. The &lt;a href=&quot;https://earn.octo.fi&quot;&gt;earn.octo.fi&lt;/a&gt; interface is intended to be used to provide maximum value to Octonauts.&lt;/p&gt;
+
+&lt;p&gt;All official announcements will be made on our blog first and foremost. Following completion of the bonding curve, we will announce official commencement for the interest program. The program will run perpetually until the interest program allocation is exhausted.&lt;/p&gt;
+
+&lt;p&gt;In the leadup to the launch of the interest program we will publish official tutorials and user guides on the blog for those interested in participating.&lt;/p&gt;
+
+&lt;p class=&quot;subtitle&quot; id=&quot;timer&quot;&gt;Bonding curve in...&lt;/p&gt;
+
+&lt;p&gt;Full details of the Octoken bonding curve distribution and decentralized exchange allocation of the OCTO governance token are &lt;a href=&quot;/project/token&quot;&gt;available here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;In the meantime, come and wrap your tenties around our octoMemes on &lt;a href=&quot;https://twitter.com/octofinance&quot;&gt;twitter&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html">OctoFi is dedicated to achieving the best possible distribution of OCTO governance tokens among holders. With that commitment we are thrilled to announce Aquafarm, our interest (and airdrop) program providing an attractive incentive scheme for investors.</summary></entry><entry><title type="html">Bonding Curve Sale Details for OCTO Governance Token</title><link href="http://localhost:4000/blog/bond-curve-sale" rel="alternate" type="text/html" title="Bonding Curve Sale Details for OCTO Governance Token" /><published>2020-08-22T10:00:00+10:00</published><updated>2020-08-22T10:00:00+10:00</updated><id>http://localhost:4000/blog/bond-curve-sale</id><content type="html" xml:base="http://localhost:4000/blog/bond-curve-sale">&lt;p class=&quot;subtitle&quot; id=&quot;timer&quot;&gt;Bonding curve in...&lt;/p&gt;
+
+&lt;p&gt;OctoFi will distribute the OCTO governance token through the Octoken project, a bonding curve distribution starting 14 September 2020 at 00:00 UTC. We welcome all those who support the development of the DeFi ecosystem and a total of 125,000 tokens are being made available to participants.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-is-a-bonding-curve-offering&quot;&gt;What is a bonding curve offering?&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://medium.com/coinmonks/token-bonding-curves-explained-7a9332198e0e&quot;&gt;Bonding curves are smart contracts&lt;/a&gt; designed to provide tokens with their own market by creating buy and sell functions. Token prices increase and decrease as they are bought and sold from the contract respectively. The number of tokens on the market, and the average price of each token per transfer batch, are the characteristics that determine a trade.&lt;/p&gt;
+
+&lt;p&gt;Buyers gain control over the project and team, to a degree, thanks to the contract autonomously creating a market and remaining 100% collateralized at all times. Bonding curve participants can essentially sell tokens back at any time over a uniswap marketplace pair, for a fair and transparent means of distributing governance rights.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“…risks are minimised, requiring both the developer and the vote to be compromised to cause any real damage.” — &lt;a href=&quot;https://ethresear.ch/t/explanation-of-daicos/465&quot;&gt;Vitalik Buterin&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;By distributing governance in such a way, token bonding curves provide fairness and transparency. They are a sustainable way of striking a balance between the team and project supporters, to hold everyone accountable in the best interests of the community.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-octoken-bonding-curve-offering&quot;&gt;The Octoken bonding curve offering&lt;/h2&gt;
+
+&lt;p&gt;It is critical to the project that early adopters are incentivized to foster a supportive environment and as such, longevity for the governance token’s utility. The bonding curve distribution method has been chosen as the first method for getting OCTO governance tokens into the hands of public stakeholders. The only prior allocation made is that of 200,000 OCTO among a small strategic cohort to ensure the best possible deployment and transition for the project.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/projects/curve.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Inspired by the ‘sigmoid bonding curve’ model, OctoFi shall remunerate early supporters for their participation and commitment to DeFi in the broader sense, rather than favoring short term speculators. As explained in our governance mechanisms post, the Octoken project is the first mechanism through which we are decentralizing governance of OctoFi.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Batch&lt;/th&gt;
+      &lt;th&gt;Allocation&lt;/th&gt;
+      &lt;th&gt;Price (USDC)&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;001&lt;/td&gt;
+      &lt;td&gt;8,000&lt;/td&gt;
+      &lt;td&gt;$0.18&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;002&lt;/td&gt;
+      &lt;td&gt;9,000&lt;/td&gt;
+      &lt;td&gt;$0.28&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;003&lt;/td&gt;
+      &lt;td&gt;10,000&lt;/td&gt;
+      &lt;td&gt;$0.38&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;004&lt;/td&gt;
+      &lt;td&gt;11,000&lt;/td&gt;
+      &lt;td&gt;$0.48&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;005&lt;/td&gt;
+      &lt;td&gt;12,000&lt;/td&gt;
+      &lt;td&gt;$0.58&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;006&lt;/td&gt;
+      &lt;td&gt;13,000&lt;/td&gt;
+      &lt;td&gt;$0.68&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;007&lt;/td&gt;
+      &lt;td&gt;14,000&lt;/td&gt;
+      &lt;td&gt;$0.78&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;008&lt;/td&gt;
+      &lt;td&gt;15,000&lt;/td&gt;
+      &lt;td&gt;$0.88&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;009&lt;/td&gt;
+      &lt;td&gt;16,000&lt;/td&gt;
+      &lt;td&gt;$0.98&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;010&lt;/td&gt;
+      &lt;td&gt;17,000&lt;/td&gt;
+      &lt;td&gt;$1.08&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Bonding curves are a newer concept and their implementations are improving thanks to the collaborative nature of decentralized finance. In support of fostering innovation and our commitment to ongoing improvement, all contracts are open source for auditing by anyone who’d would like to contribute.&lt;/p&gt;
+
+&lt;p&gt;Full details of the Octoken bonding curve distribution and decentralized exchange allocation of the OCTO governance token are &lt;a href=&quot;/project/token&quot;&gt;available here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Bonding curve summary:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Allocation of 125,000 OCTO for bonding curve sale&lt;/li&gt;
+  &lt;li&gt;Equates to 15.625% of total supply with 800,000 hard cap.&lt;/li&gt;
+  &lt;li&gt;Starting 14 September 2020 at 00:00 UTC&lt;/li&gt;
+  &lt;li&gt;Ending when allocation sold out&lt;/li&gt;
+  &lt;li&gt;Initial price of $0.18&lt;/li&gt;
+  &lt;li&gt;Denominated in USDC&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">Bonding curve in...</summary></entry><entry><title type="html">Governance Token Mechanisms for Octoken Holders</title><link href="http://localhost:4000/blog/gov-token-mech" rel="alternate" type="text/html" title="Governance Token Mechanisms for Octoken Holders" /><published>2020-08-19T10:00:00+10:00</published><updated>2020-08-19T10:00:00+10:00</updated><id>http://localhost:4000/blog/gov-token-mech</id><content type="html" xml:base="http://localhost:4000/blog/gov-token-mech">&lt;p&gt;The OCTO governance token is an essential part of the OctoFi ecosystem and is designed to foster the creation of decentralized finance &lt;s&gt;oracles&lt;/s&gt; tentacles. Absolute openness and transparency are the underlying principles through which the Octoken Project will equip stakeholders to support the wider community in general.&lt;/p&gt;
+
+&lt;p&gt;DeFi’s integrity depends on reliable data, much of which is provided by oracles and related infrastructure. The systems comprising OctoFi are governed through the OCTO governance token otherwise known as — ‘Octoken’ — intended to be held by a decentralized community of ‘Octonauts’ who are incentivized to govern efficiently and effectively.&lt;/p&gt;
+
+&lt;p&gt;OctoFi is dedicated to supporting the emergence of a user-owned financial ecosystem whose best interests are well aligned. In order to achieve the best possible distribution of ownership, OCTO governance tokens shall be disbursed through various mechanisms. As explained in greater detail throughout the Octoken project page, the bonding curve is step one, but let’s take a look at the broader picture.&lt;/p&gt;
+
+&lt;h2 id=&quot;octoken-allocations&quot;&gt;Octoken allocations&lt;/h2&gt;
+
+&lt;p&gt;The total 800,000 OCTO supply is allocated as follows:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;Bonding curve:&lt;/strong&gt; 125,000 OCTO for public sale commencing 14 September 2020 at 00:00 UTC as per the &lt;a href=&quot;/project/token&quot;&gt;full details provided&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Interest program:&lt;/strong&gt; 200,000 OCTO split equally between interest yielding contract and airdrop, both reserved for private and public sale investors.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Early backers:&lt;/strong&gt; 200,000 OCTO among small strategic cohort gathered during inception to ensure best possible deployment and transition.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Project reserve:&lt;/strong&gt; 275,000 OCTO assigned to transparent project fund for allocation by governance token holders pending decisions made on subsequent DAO proposals.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;octoken-distribution-mechanisms&quot;&gt;Octoken distribution mechanisms&lt;/h2&gt;
+
+&lt;p&gt;OctoFi will utilise a number of governance distribution mechanisms to begin decentralizing from day one, including the initial bonding curve distribution, incentives for long term holders, ecosystem utilisation, participation in governance, and funding of project improvements.&lt;/p&gt;
+
+&lt;h3 id=&quot;1-octoken-project&quot;&gt;1. Octoken project&lt;/h3&gt;
+
+&lt;p&gt;OCTO governance tokens will be distributed through a bonding curve sale that commences 14 September 2020 at 00:00 UTC. A total of 125,000 tokens will be made available to participants and we welcome those who support the development of the DeFi ecosystem.&lt;/p&gt;
+
+&lt;p&gt;By distributing governance in such a way, token bonding curves provide fairness and transparency. They are a sustainable way of striking a balance between the team and project supporters, to hold everyone accountable in the best interests of the community. It is critical to the project that early adopters are incentivized to foster a supportive environment and as such, longevity for the governance token’s utility.&lt;/p&gt;
+
+&lt;h3 id=&quot;2-aquafarm-project&quot;&gt;2. Aquafarm project&lt;/h3&gt;
+
+&lt;p&gt;OctoFi’s interest (and airdrop) program provides an attractive incentive scheme for holding governance tokens for 3, 6, and 12 month runtimes. Our own smart contract, and furthermore additional lending solutions, will provide the yield required for what we are calling Aquafarming. While the interest program allocation is specified, the potential for developing further yield bearing apps for OCTO holders is within reach in the near future.&lt;/p&gt;
+
+&lt;h3 id=&quot;3-tentacles-project&quot;&gt;3. Tentacles project&lt;/h3&gt;
+
+&lt;p&gt;Decentralized finance &lt;s&gt;oracles&lt;/s&gt; tentacles are the core component of the OctoFi ecosystem. All Octonauts, regardless of holdings, are encouraged to participate in the various applications associated with their OCTO tokens.&lt;/p&gt;
+
+&lt;p&gt;As a community we are committed to advancing an open and transparent standard for data oracles that are truly owned and operated by token holders. As part of the Tentacles platform, further token distributions are associated with:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Remuneration for sourcing and provisioning data collection&lt;/li&gt;
+  &lt;li&gt;Funding development resources and platform support&lt;/li&gt;
+  &lt;li&gt;Gaining access to live data feeds and API marketplace&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;octoken-governance-functions&quot;&gt;Octoken governance functions&lt;/h2&gt;
+
+&lt;p&gt;The primary use-case afforded by project supporters will be the foundational governance decisions. During early stages, OCTO governance tokens shall be used for the following:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Participating in voting to settle governance decisions&lt;/li&gt;
+  &lt;li&gt;Verifying data tentacles and support systems with staking&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Reminder:&lt;/strong&gt; the Octoken bonding curve distribution and decentralized exchange allocation of the OCTO governance token commences 14 September 2020 — &lt;a href=&quot;/project/token&quot;&gt;full details on the project page&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html">The OCTO governance token is an essential part of the OctoFi ecosystem and is designed to foster the creation of decentralized finance oracles tentacles. Absolute openness and transparency are the underlying principles through which the Octoken Project will equip stakeholders to support the wider community in general.</summary></entry><entry><title type="html">Infrastructure for Decentralized Finance with Tentacles</title><link href="http://localhost:4000/blog/defi-infra" rel="alternate" type="text/html" title="Infrastructure for Decentralized Finance with Tentacles" /><published>2020-08-16T10:00:00+10:00</published><updated>2020-08-16T10:00:00+10:00</updated><id>http://localhost:4000/blog/defi-infra</id><content type="html" xml:base="http://localhost:4000/blog/defi-infra">&lt;p&gt;We are in a time of unprecedented change and Ethereans the world over have risen to the challenge. As financial institutions refuse to act in the best interests of the people, Decentralized Finance (DeFi) is transforming legacy products into permissionless protocols.&lt;/p&gt;
+
+&lt;p&gt;During the depths of crypto winter, projects such as Synthetix, Compound, and many more have grown at an exponential rate. During their meteoric rise the need for essential infrastrastructure has come to the forefront and the market has responded, with support for projects delivering critical services that support DeFi’s ever changing technology landscape.&lt;/p&gt;
+
+&lt;p&gt;As new blockchain use-cases emerge from DeFi, project teams must rise to the challenge in creating the ‘money legos’ that make truly decentralized applications possible. Unlike the centralized equivalents who rely on a select few, the burgeoning DeFi industry has its own unique set of requirements and constraints when it comes to third party service providers.&lt;/p&gt;
+
+&lt;h2 id=&quot;only-as-good-as-those-on-which-you-depend&quot;&gt;Only as good as those on which you depend&lt;/h2&gt;
+
+&lt;p&gt;When it comes to composability, many platforms face problems regarding interdependence on other services. Great strides are being made to address concerns around transparency and auditability of external solutions, but individual users are still exposed to risks stemming from ambiguity.&lt;/p&gt;
+
+&lt;p&gt;Data oracles aim to provide accurate and dependable data for a broadening range of applications, but concerns around how they source and process data are yet to be addressed. Inconsistencies lead to exploits by bad actors and while strong competition within each sector provides assurance that these risks will be mitigated, their success depends on much more than just quality, accessibility, and auditability.&lt;/p&gt;
+
+&lt;p&gt;At the center of these concerns is centralization. We understand that innovators must forgo decentralization to some degree in certain cases, but resisting the easy route is critical if we are to succeed. The DeFi space moves quickly, obsolescence is always on the horizon, and the inherent permissionless-ness is attracting competent technologists at an ever increasing rate.&lt;/p&gt;
+
+&lt;h2 id=&quot;trust-undermines-defis-potential&quot;&gt;Trust undermines DeFi’s potential&lt;/h2&gt;
+
+&lt;p&gt;Many thought leaders within the broader cryptocurrency community have explored the importance of decentralization across the entire stack of an application. While more and more people are interacting with permissionless systems, whether these systems are in fact trustless is increasingly scrutinized.&lt;/p&gt;
+
+&lt;p&gt;These concerns are exacerbated by the tendency for value locked to move between protocols so erratically. After all, these human actions are often driven by emotions rather than logic, and such fear, uncertainty, and doubt can force users to make irrational decisions.&lt;/p&gt;
+
+&lt;p&gt;For those who’ve been in the crypto space long enough, it’s widely accepted that choosing your sources wisely and widely, is essential for the simple fact that individual data sources are more likely manipulated. We can learn from the mistakes of those who’ve been burned by having too much trust in a single entity.&lt;/p&gt;
+
+&lt;p&gt;There should be no single points of failure when we are pioneering decentralized technologies and intermediary risks should be mitigated however possible in order to legitimize DeFi. Centralized entities require trust, are easily corrupted, and ensuring users can better spread risks associated with early adoption should be a core focus of the user experience.&lt;/p&gt;
+
+&lt;h2 id=&quot;introducing-octofi&quot;&gt;Introducing OctoFi&lt;/h2&gt;
+
+&lt;p&gt;OctoFi is a next generation open source platform providing decentralized finance oracles tentacles for DeFi. We believe that the term ‘oracle’ itself implies unreasonable dependence on a single source of truth. In most cases, an oracle is viewed as singular, and while we appreciate their importance, we foresee the existence of many, all of which are auditable against one another.&lt;/p&gt;
+
+&lt;p&gt;Within the decentralized finance world, individuals shall act as proxies to an aggregation of oracular data sources, in order to optimize their own participation and interaction with an ever expanding landscape of protocols.&lt;/p&gt;
+
+&lt;p&gt;OctoFi users will benefit from an ‘octomized’ structure whereby ‘tentacles’ connect them with various applications, while leveraging truly open and transparent infrastructure. Stakeholders will play an important role in data validation while pioneering a new frontier of community governance for long term, sustainable adaptability.&lt;/p&gt;
+
+&lt;h2 id=&quot;octoken---where-it-all-begins&quot;&gt;Octoken - where it all begins&lt;/h2&gt;
+
+&lt;p&gt;OctoFi infrastructure is designed for frictionless oversight by incentivised stakeholders who share in its best interests. Data sourcing, provisioning, verification, quality assurance, storage, and consumption, all utilise the such tokenomics for effective governance.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;OCTO governance tokens are essential to:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Participating in voting to settle governance decisions&lt;/li&gt;
+  &lt;li&gt;Remuneration for sourcing and provisioning data collection&lt;/li&gt;
+  &lt;li&gt;Verifying data tentacles and support systems with staking&lt;/li&gt;
+  &lt;li&gt;Funding development resources and platform support&lt;/li&gt;
+  &lt;li&gt;Gaining access to live data feeds and API marketplace&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Our flagship project, &lt;a href=&quot;/projects/token&quot;&gt;Octoken&lt;/a&gt;, includes bonding curve distribution and decentralized exchange allocation of the OCTO governance token commencing 14 September 2020.&lt;/p&gt;</content><author><name></name></author><summary type="html">We are in a time of unprecedented change and Ethereans the world over have risen to the challenge. As financial institutions refuse to act in the best interests of the people, Decentralized Finance (DeFi) is transforming legacy products into permissionless protocols.</summary></entry></feed>
