@@ -8,6 +8,8 @@ header_settings:
 
 menu_settings:
   menu_items:
+    - title: 'Roadmap'
+      url: '/'
     - title: 'Octoken'
       url: '/project/token'
     - title: 'Aquafarm'
