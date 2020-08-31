@@ -9,9 +9,11 @@ gallery_images:
   - project-tentacle.jpg 
 ---
 
-[GitHub progress](https://github.com/octofi/tentacle):
+Progress:
 
-![40%](https://progress-bar.dev/40/?width=200)
+![40% complete](https://progress-bar.dev/40/?width=200)
+
+[github.com/octofi/tentacle](https://github.com/octofi/tentacle)
 
 When the universe is infinitely expanding, why would you limit your yield farming to the earth? There's a whole galaxy of gains to wrap your space tentacles around.
 

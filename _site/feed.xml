@@ -1,4 +1,48 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-08-29T19:38:02+10:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">octofidotcom</title><subtitle>Website for OctoFi: Decentralized Finance Tentacles. Hosted on Github Pages.</subtitle><entry><title type="html">Project Reserve for Transparent Improvement Funding</title><link href="http://localhost:4000/blog/project-reserve" rel="alternate" type="text/html" title="Project Reserve for Transparent Improvement Funding" /><published>2020-08-28T10:00:00+10:00</published><updated>2020-08-28T10:00:00+10:00</updated><id>http://localhost:4000/blog/project-reserve</id><content type="html" xml:base="http://localhost:4000/blog/project-reserve">&lt;p&gt;Openness and transparency are central to OctoFi’s mission in the delivery of decentralized finance &lt;s&gt;oracles&lt;/s&gt; tentacles. Innovation will be supported by a dedicated fund of governance tokens, or a project reserve, that shall be delegated to foster progress and developments within the DeFi ecosystem.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-08-31T17:33:17+10:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">octofidotcom</title><subtitle>Website for OctoFi: Decentralized Finance Tentacles. Hosted on Github Pages.</subtitle><entry><title type="html">Why You Can’t Find “Our Community” On This Website</title><link href="http://localhost:4000/blog/community" rel="alternate" type="text/html" title="Why You Can't Find &quot;Our Community&quot; On This Website" /><published>2020-08-30T10:00:00+10:00</published><updated>2020-08-30T10:00:00+10:00</updated><id>http://localhost:4000/blog/community</id><content type="html" xml:base="http://localhost:4000/blog/community">&lt;p&gt;&lt;em&gt;TL;DR - If it ain’t organic, it ain’t community.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;We’ve been around crypto long enough to know a thing or two.&lt;/p&gt;
+
+&lt;p&gt;You may already be aware that between us we’ve got eight limbs and eight years experience. We bring salt and pepper to the table. And tentacles.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Here’s a few observations:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Moderating a community is time intensive, distracting, and counterproductive.&lt;/li&gt;
+  &lt;li&gt;Many teams start their ‘community’ themselves and censor its participants.&lt;/li&gt;
+  &lt;li&gt;Most projects deploy their ‘blog’ to a piece of shit walled garden.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;None of the above points sound very open, transparent, or decentralized.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Regarding platforms where observations were made:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Discord&lt;/strong&gt; is essentially a feature-rich chat room for gamers and yet seems to be used for a lot of governance discussions. Quite cumbersome considering it doesn’t even have nested replies and anything worth reading is gone in a flash. There’s also loads of bots that interfere with proceedings.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Telegram Groups&lt;/strong&gt; get overrun by spammers and bots, and the majority of time spent is on swinging the ban hammer around. At least it has nested replies, but without the ability to host channels and break up the discussions, groups are analagous to troll boxes.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Discourse&lt;/strong&gt; is much the same as Discord, but better suited to governance, as its intended purpose is for running a forum. Seems a reasonable choice for hosting discussions.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Reddit&lt;/strong&gt; is the power hungry moderator’s censorship paradise. Most crypto communities have far exceeded their use-by-dates with the exception of a few smaller ones.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Medium&lt;/strong&gt; may as well be a piece of dogshit on the bottom of the prison-issue canvas slip-ons awaiting Craig Wright’s arrival. They hold content ransom behind paywalls and are centralized AF.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“If you can deploy smart contracts to Ethereum then surely you can deploy a Jekyll-powered, RSS-enabled blog to GitHub Pages (for FREE) and write some Markdown, ffs.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Reason for our sharing of these thoughts is that the community itself can choose to congregate wherever they see fit. We won’t be moderating, or creating any communities, but are more than happy to join if you would like to create and moderate your own.&lt;/p&gt;
+
+&lt;p&gt;Everything we do is open source (this website included) and building is our priority. That’s why we aren’t wasting our time with so-called “community-management” and if there is to be a “community” it may as well be grass roots certified organic.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;On that note, here’s everything you should be aware of:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/octofi&quot;&gt;&lt;strong&gt;GitHub&lt;/strong&gt;&lt;/a&gt; for progress&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/blog/&quot;&gt;&lt;strong&gt;Blog&lt;/strong&gt;&lt;/a&gt; for updates&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://dao.octo.fi&quot;&gt;&lt;strong&gt;Aragon&lt;/strong&gt;&lt;/a&gt; for governance&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Anything we have to say will hit the blog first and is shared to Twitter, our Telegram Channel, and our mailing list. You can find all those &lt;a href=&quot;#get-updates&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Pro tip: our mailing list is hooked up to our &lt;a href=&quot;https://octo.fi/feed.xml&quot;&gt;RSS feed&lt;/a&gt; and bonding curve commences 14 September 2020 at 00:00 UTC at &lt;a href=&quot;https://buy.octo.fi&quot;&gt;buy.octo.fi&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html">TL;DR - If it ain’t organic, it ain’t community.</summary></entry><entry><title type="html">Project Reserve for Transparent Improvement Funding</title><link href="http://localhost:4000/blog/project-reserve" rel="alternate" type="text/html" title="Project Reserve for Transparent Improvement Funding" /><published>2020-08-28T10:00:00+10:00</published><updated>2020-08-28T10:00:00+10:00</updated><id>http://localhost:4000/blog/project-reserve</id><content type="html" xml:base="http://localhost:4000/blog/project-reserve">&lt;p&gt;Openness and transparency are central to OctoFi’s mission in the delivery of decentralized finance &lt;s&gt;oracles&lt;/s&gt; tentacles. Innovation will be supported by a dedicated fund of governance tokens, or a project reserve, that shall be delegated to foster progress and developments within the DeFi ecosystem.&lt;/p&gt;
 
 &lt;p&gt;As a truly community focused initiative, incentives are aligned to the benefit of stakeholders and the long term viability of the project itself. The OctoFi reserve is designed with two main objectives in mind:&lt;/p&gt;
 
