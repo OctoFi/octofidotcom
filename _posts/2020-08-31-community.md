@@ -1,5 +1,5 @@
 ---
-title: Why You Can't Find "Our Community" On This Website
+title: Why You Can't Find Our Community On This Website
 date: 2020-08-30 00:00:00
 description: We don't have a Discord, Telegram Group, Reddit, Discourse, or even a Medium. Here's why.
 featured_image: '/images/6.jpg'
