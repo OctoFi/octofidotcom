@@ -22,7 +22,7 @@ The total 800,000 OCTO supply is allocated as follows:
 
 ## Octoken distribution mechanisms
 
-OctoFi will utilise a number of governance distribution mechanisms to begin decentralizing from day one, including the initial bonding curve distribution, incentives for long term holders, ecosystem utilisation, participation in governance, and funding of project improvements. 
+OctoFi will utilize a number of governance distribution mechanisms to begin decentralizing from day one, including the initial bonding curve distribution, incentives for long term holders, ecosystem utilization, participation in governance, and funding of project improvements. 
 
 ### 1. Octoken project
 

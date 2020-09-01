@@ -7,7 +7,7 @@ featured_image: '/images/1.jpg'
 
 We are in a time of unprecedented change and Ethereans the world over have risen to the challenge. As financial institutions refuse to act in the best interests of the people, Decentralized Finance (DeFi) is transforming legacy products into permissionless protocols. 
 
-During the depths of crypto winter, projects such as Synthetix, Compound, and many more have grown at an exponential rate. During their meteoric rise the need for essential infrastrastructure has come to the forefront and the market has responded, with support for projects delivering critical services that support DeFi’s ever changing technology landscape.
+During the depths of crypto winter, projects such as Synthetix, Compound, and many more have grown at an exponential rate. During their meteoric rise the need for essential infrastructure has come to the forefront and the market has responded, with support for projects delivering critical services that support DeFi’s ever changing technology landscape.
 
 As new blockchain use-cases emerge from DeFi, project teams must rise to the challenge in creating the ‘money legos’ that make truly decentralized applications possible. Unlike the centralized equivalents who rely on a select few, the burgeoning DeFi industry has its own unique set of requirements and constraints when it comes to third party service providers.
 
