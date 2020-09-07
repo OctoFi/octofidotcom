@@ -1,4 +1,53 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-09-01T18:03:19+10:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">octofidotcom</title><subtitle>Website for OctoFi: Decentralized Finance Tentacles. Hosted on Github Pages.</subtitle><entry><title type="html">Why You Can’t Find Our Community On This Website</title><link href="http://localhost:4000/blog/community" rel="alternate" type="text/html" title="Why You Can't Find Our Community On This Website" /><published>2020-08-30T10:00:00+10:00</published><updated>2020-08-30T10:00:00+10:00</updated><id>http://localhost:4000/blog/community</id><content type="html" xml:base="http://localhost:4000/blog/community">&lt;p&gt;&lt;em&gt;TL;DR - If it ain’t organic, it ain’t community.&lt;/em&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-09-07T15:42:11+10:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">octofidotcom</title><subtitle>Website for OctoFi: Decentralized Finance Tentacles. Hosted on Github Pages.</subtitle><entry><title type="html">Public Testing of OctoFi DEX for Bonding Curve</title><link href="http://localhost:4000/blog/dex-test" rel="alternate" type="text/html" title="Public Testing of OctoFi DEX for Bonding Curve" /><published>2020-09-07T10:00:00+10:00</published><updated>2020-09-07T10:00:00+10:00</updated><id>http://localhost:4000/blog/dex-test</id><content type="html" xml:base="http://localhost:4000/blog/dex-test">&lt;p&gt;We have completed public testing of our DEX in preparation for our upcoming bonding curve sale. Please find the outcome below, which can serve well as a tutorial for those interested in participating.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Step 1:&lt;/strong&gt; Go to &lt;a href=&quot;https://buy.otco.fi&quot;&gt;buy.octo.fi&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/7-1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Step 2:&lt;/strong&gt; Click on “Connect Wallet” in the top right corner and connect with your favourite wallet&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/7-2.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Step 3:&lt;/strong&gt; Now as you are connected to our DEX, you have to access your Wallet with “My Wallet”&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/7-3.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Step 4:&lt;/strong&gt; Unlock your USDC by clicking on the small 🔒 (padlock icon) and confirm via Metamask prompt.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/7-4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Step 5:&lt;/strong&gt; Go back to the main frontend and set your market order (or limited order if you are able to wait until the order is filled) - Buy OCTO and you are done&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/7-5.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;All trades are visible over etherscan “DEX trades” (Octonerd fact: we are utilizing 0x Protocol).&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://etherscan.io/token/0x7240aC91f01233BaAf8b064248E80feaA5912BA3#tokenTrade&quot;&gt;etherscan.io/token/0x7240aC91f01233BaAf8b064248E80feaA5912BA3#tokenTrade&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/7-6.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;We have tested everything and set a high standard, as we plan to do so with all of our products. To check the first successful trade transactions go to: &lt;a href=&quot;https://etherscan.io/tx/0x54ca4bdccf90950817c145e96e1d6400197d698805e8b2ec65b87ab26a2413e7&quot;&gt;etherscan.io/tx/0x54ca4bdccf90950817c145e96e1d6400197d698805e8b2ec65b87ab26a2413e7&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;bonding-curve-summary&quot;&gt;Bonding Curve Summary&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Allocation of 125,000 OCTO for bonding curve sale&lt;/li&gt;
+  &lt;li&gt;Equates to 15.625% of total supply with 800,000 hard cap&lt;/li&gt;
+  &lt;li&gt;Starting 14 September 2020 at 00:00 UTC&lt;/li&gt;
+  &lt;li&gt;Ending when allocation sold out&lt;/li&gt;
+  &lt;li&gt;Initial price of $0.18&lt;/li&gt;
+  &lt;li&gt;Accepting USDC&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;All official announcements will be made on our blog first and foremost. Following completion of the bonding curve, we will announce official commencement for the interest program &lt;a href=&quot;https://earn.octo.fi&quot;&gt;earn.octo.fi&lt;/a&gt; with our &lt;a href=&quot;/project/aquafarm&quot;&gt;Aquafarm&lt;/a&gt;. The program will run perpetually until the interest program allocation is exhausted.&lt;/p&gt;
+
+&lt;p&gt;In the leadup to the launch of the interest program we will publish official tutorials and user guides on the blog for those interested in participating.&lt;/p&gt;
+
+&lt;p class=&quot;subtitle&quot; id=&quot;timer&quot;&gt;Bonding curve in...&lt;/p&gt;
+
+&lt;p&gt;Full details of the Octoken bonding curve distribution and decentralized exchange allocation of the OCTO governance token are &lt;a href=&quot;/project/token&quot;&gt;available here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Best wishes from your Octonauts in the OctoLab.&lt;/p&gt;</content><author><name></name></author><summary type="html">We have completed public testing of our DEX in preparation for our upcoming bonding curve sale. Please find the outcome below, which can serve well as a tutorial for those interested in participating.</summary></entry><entry><title type="html">Why You Can’t Find Our Community On This Website</title><link href="http://localhost:4000/blog/community" rel="alternate" type="text/html" title="Why You Can't Find Our Community On This Website" /><published>2020-08-30T10:00:00+10:00</published><updated>2020-08-30T10:00:00+10:00</updated><id>http://localhost:4000/blog/community</id><content type="html" xml:base="http://localhost:4000/blog/community">&lt;p&gt;&lt;em&gt;TL;DR - If it ain’t organic, it ain’t community.&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;We’ve been around crypto long enough to know a thing or two.&lt;/p&gt;
 
