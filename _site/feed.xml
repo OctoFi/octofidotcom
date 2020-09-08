@@ -1,4 +1,93 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-09-07T15:42:11+10:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">octofidotcom</title><subtitle>Website for OctoFi: Decentralized Finance Tentacles. Hosted on Github Pages.</subtitle><entry><title type="html">Public Testing of OctoFi DEX for Bonding Curve</title><link href="http://localhost:4000/blog/dex-test" rel="alternate" type="text/html" title="Public Testing of OctoFi DEX for Bonding Curve" /><published>2020-09-07T10:00:00+10:00</published><updated>2020-09-07T10:00:00+10:00</updated><id>http://localhost:4000/blog/dex-test</id><content type="html" xml:base="http://localhost:4000/blog/dex-test">&lt;p&gt;We have completed public testing of our DEX in preparation for our upcoming bonding curve sale. Please find the outcome below, which can serve well as a tutorial for those interested in participating.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-09-08T13:22:12+10:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">octofidotcom</title><subtitle>Website for OctoFi: Decentralized Finance Tentacles. Hosted on Github Pages.</subtitle><entry><title type="html">Simple Breakdown of the OctoFi Project Roadmap</title><link href="http://localhost:4000/blog/roadmap" rel="alternate" type="text/html" title="Simple Breakdown of the OctoFi Project Roadmap" /><published>2020-09-08T10:00:00+10:00</published><updated>2020-09-08T10:00:00+10:00</updated><id>http://localhost:4000/blog/roadmap</id><content type="html" xml:base="http://localhost:4000/blog/roadmap">&lt;p&gt;Open source software projects with distributed teams are complex beasts with many dependencies, asynchronous communications, and endless moving parts.&lt;/p&gt;
+
+&lt;p&gt;In order to clearly demonstrate what’s planned for OctoFi, we’ve decided to provide a super simple breakdown of the project roadmap, and set a precedent for clarity and transparency.&lt;/p&gt;
+
+&lt;h2 id=&quot;portfolio&quot;&gt;Portfolio&lt;/h2&gt;
+
+&lt;p&gt;The homepage serves as a portfolio of sorts, with a series of projects that encompass the OctoFi ecosystem and its rollout. But in between major milestones such as Octoken, Aquafarm, and Tentacles, there are smaller but equally important deliverables.&lt;/p&gt;
+
+&lt;div class=&quot;gallery full-width&quot; data-columns=&quot;1&quot;&gt;&lt;img src=&quot;/images/projects/project-octoken.jpg&quot; /&gt;&lt;img src=&quot; /images/projects/project-aquafarm.jpg&quot; /&gt;&lt;img src=&quot; /images/projects/project-tentacle.jpg
+	&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;This post aims to demonstrate what lies ahead and very simply distill relevant information into different formats. This should hopefully ensure that the community remain on the same page as development, and that when we are transitioning to the Aragon DAO, everything of importance is captured clearly and concisely.&lt;/p&gt;
+
+&lt;h2 id=&quot;roadmap&quot;&gt;Roadmap&lt;/h2&gt;
+
+&lt;p&gt;The below table is a very simple roadmap that uses footnotes — like this one&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; here — next to each project name. These link to further information beneath the table, where you can find a description and any relevant links.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Project&lt;/th&gt;
+      &lt;th&gt;Progress&lt;/th&gt;
+      &lt;th&gt;Release date&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Octoken&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;https://progress-bar.dev/100/?width=200&quot; alt=&quot;100% complete&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;14 Sep 20&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Aquafarm&lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;https://progress-bar.dev/80/?width=200&quot; alt=&quot;80% complete&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;01 Oct 20&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;DEX/CEX&lt;sup id=&quot;fnref:4&quot;&gt;&lt;a href=&quot;#fn:4&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;https://progress-bar.dev/60/?width=200&quot; alt=&quot;60% complete&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;02 Oct 20&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Aquarium&lt;sup id=&quot;fnref:5&quot;&gt;&lt;a href=&quot;#fn:5&quot; class=&quot;footnote&quot;&gt;5&lt;/a&gt;&lt;/sup&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;https://progress-bar.dev/55/?width=200&quot; alt=&quot;55% complete&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;03 Oct 20&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;DAOctopus&lt;sup id=&quot;fnref:6&quot;&gt;&lt;a href=&quot;#fn:6&quot; class=&quot;footnote&quot;&gt;6&lt;/a&gt;&lt;/sup&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;https://progress-bar.dev/50/?width=200&quot; alt=&quot;50% complete&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;10 Oct 20&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Tentacles&lt;sup id=&quot;fnref:7&quot;&gt;&lt;a href=&quot;#fn:7&quot; class=&quot;footnote&quot;&gt;7&lt;/a&gt;&lt;/sup&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;https://progress-bar.dev/40/?width=200&quot; alt=&quot;40% complete&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;01 Nov 20&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Please note the progress bars are estimations made by us devevelopers upon each commit we push to our GitHub repositories.&lt;/p&gt;
+
+&lt;p&gt;Also, when reading the descriptions below you can click the return icon to scroll precisely back to the project referenced.&lt;/p&gt;
+
+&lt;p&gt;If well received we may implement this simple roadmap on the homepage.&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;This is an example footnote as mentioned prior to the table. To return to the precise reference, simply click the return icon here &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot;&gt;
+      &lt;p&gt;Bonding curve sale for the $OCTO governance token commences 14 September 2020 at 00:00 UTC &lt;a href=&quot;/project/token&quot;&gt;as explained here&lt;/a&gt; and will take place at &lt;a href=&quot;https://buy.octo.fi&quot;&gt;buy.octo.fi&lt;/a&gt; &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:3&quot;&gt;
+      &lt;p&gt;Interest program rewarding $OCTO governance token holders locking their octokens for &lt;a href=&quot;/project/aquafarm&quot;&gt;runtimes detailed here&lt;/a&gt; will operate at &lt;a href=&quot;https://earn.octo.fi&quot;&gt;earn.octo.fi&lt;/a&gt; from 01 October 2020 &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:4&quot;&gt;
+      &lt;p&gt;Decentralized and centralized exchange listings will occur on an ongoing basis from 02-10 October 2020 and beyond as enquiries are made &lt;a href=&quot;#fnref:4&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:5&quot;&gt;
+      &lt;p&gt;Detailed transparency report will be published on 03 October 2020 and cover topics such as use of funds, bonding curve sale results, project reserve funding, and more &lt;a href=&quot;#fnref:5&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:6&quot;&gt;
+      &lt;p&gt;Community governance voting and other transparency measures will commence on our Aragon DAO at &lt;a href=&quot;https://dao.octo.fi&quot;&gt;dao.octo.fi&lt;/a&gt; from 10 October 2020 &lt;a href=&quot;#fnref:6&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:7&quot;&gt;
+      &lt;p&gt;Tentacles, our core oracle project for the DeFi ecosystem, will go into alpha release on 01 November 2020 and is feedback submission is open to $OCTO governance token holders &lt;a href=&quot;#fnref:7&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name></name></author><summary type="html">Open source software projects with distributed teams are complex beasts with many dependencies, asynchronous communications, and endless moving parts.</summary></entry><entry><title type="html">Public Testing of OctoFi DEX for Bonding Curve</title><link href="http://localhost:4000/blog/dex-test" rel="alternate" type="text/html" title="Public Testing of OctoFi DEX for Bonding Curve" /><published>2020-09-07T10:00:00+10:00</published><updated>2020-09-07T10:00:00+10:00</updated><id>http://localhost:4000/blog/dex-test</id><content type="html" xml:base="http://localhost:4000/blog/dex-test">&lt;p&gt;We have completed public testing of our DEX in preparation for our upcoming bonding curve sale. Please find the outcome below, which can serve well as a tutorial for those interested in participating.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Step 1:&lt;/strong&gt; Go to &lt;a href=&quot;https://buy.otco.fi&quot;&gt;buy.octo.fi&lt;/a&gt;&lt;/p&gt;
 
