@@ -9,7 +9,7 @@ header_settings:
 menu_settings:
   menu_items:
     - title: 'Roadmap'
-      url: '/'
+      url: '/blog/roadmap'
     - title: 'Octoken'
       url: '/project/token'
     - title: 'Aquafarm'
