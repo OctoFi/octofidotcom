@@ -9,21 +9,21 @@
 
 	<!-- Page Info -->
 	<link rel="shortcut icon" href="/images/favicon.png">
-	<title>Blog – OctoFi</title>
-	<meta name="description" content="Our only official channel for announcements.">
+	<title>Smart Contract Security Audit – OctoFi</title>
+	<meta name="description" content="Smart contract security is paramount for any decentralized application that holds or controls the flow of users’ hard-earned funds.">
 
 	<!-- Twitter Card -->
 	<meta name="twitter:card" content="summary_large_image">
 	<meta name="twitter:title"
-		content="Blog – OctoFi">
-	<meta name="twitter:description" content="Our only official channel for announcements.">
-	<meta name="twitter:image:src" content="http://localhost:4000/images/demo.jpg">
+		content="Smart Contract Security Audit – OctoFi">
+	<meta name="twitter:description" content="Smart contract security is paramount for any decentralized application that holds or controls the flow of users’ hard-earned funds.">
+	<meta name="twitter:image:src" content="http://localhost:4000/images/9.jpg">
 
 	<!-- Facebook OpenGraph -->
 	<meta property="og:title"
-		content="Blog – OctoFi" />
-	<meta property="og:description" content="Our only official channel for announcements." />
-	<meta property="og:image" content="http://localhost:4000/images/demo.jpg" />
+		content="Smart Contract Security Audit – OctoFi" />
+	<meta property="og:description" content="Smart contract security is paramount for any decentralized application that holds or controls the flow of users’ hard-earned funds." />
+	<meta property="og:image" content="http://localhost:4000/images/9.jpg" />
 
 	
 	<!-- Font Embed Code -->
@@ -71,7 +71,7 @@
 
 
 <body class="loading ajax-loading"
-	data-site-url="http://localhost:4000" data-page-url="/blog/page-2/">
+	data-site-url="http://localhost:4000" data-page-url="/blog/security-audit">
 <div id="content">
 
 	<header class="header--main">
@@ -156,7 +156,7 @@
 
 	<div class="page">
 		<div class="page__content"
-			data-page-title="Blog – OctoFi">
+			data-page-title="Smart Contract Security Audit – OctoFi">
 			
 			<section class="contact">
   <button class="button--close-modal"></button>
@@ -190,68 +190,140 @@
 </section>
 
 			
-			<div class="page-blog">
-	<header class="header--single">
+			<div class="page-post">
+
+	<header class="post__header header--single">
+		
 		<div class="wrap">
-			<h1 class="header__title">Blog</h1>
-			<p class="header__subtitle subtitle--light">Our <b>only</b> official channel for announcements.</p>
+			<h1 class="post__title">Smart Contract Security Audit</h1>
+			<time class="post__date label">09 September 2020</time>
 		</div>
+
+		<img src="/images/9.jpg" class="post__featured-image">
+
 	</header>
 
-	<section class="all-posts">
-		<div class="wrap">
-			<div class="posts__list grid">
-				
-				
-				<article class="post post-new">
-					<div class="grid">
-						<a href="/blog/gov-token-mech">
-							<div class="post__image"
-								style="background-image: url(/images/2.jpg)">
-							</div>
-						</a>
+	<section class="post-full">
 
-						<div class="post__content-wrap">
-							<div class="post__content">
-								<time class="post__date label--small">August 19, 2020</time>
-								<h2 class="post__title h4"><a href="/blog/gov-token-mech">Governance Token Mechanisms for Octoken Holders</a></h2>
-								<p class="post__subtitle"></p>
-								<p class="post__description">In order to achieve the best possible distribution of ownership, OCTO governance tokens shall be disbursed through various mechanisms.</p>
-								<a href="/blog/gov-token-mech" class="post__link button--text--accent --right">Keep Reading</a>
-							</div>
-						</div>
-					</div>
-				</article>
+		<div class="wrap">
+
+			<article class="post__content ">
+				<p>Smart contract security is paramount for any decentralized application that holds or controls the flow of users’ hard-earned funds.</p>
+
+<p>While we at OctoFi have written our code with care and prioritized security, software bugs are an inevitable fact of life for even the most diligent of development teams.</p>
+
+<p>Undergoing a security audit by a highly respected and thorough third party is of the utmost importance to ensuring our smart contracts run as designed. It also gives our users the confidence needed to deposit any amount of their cryptocurrency into the OctoFi Ecosystem.</p>
+
+<p>This is why we are pleased to announce that the OctoFi smart contracts on the Ethereum blockchain are currently undergoing some security audits and two reports can already be perused.</p>
+
+<h2 id="procedure">Procedure</h2>
+
+<p>In the audit process, the following crucial features of the code are considered:</p>
+
+<ul>
+  <li>Whether the code conforms to the specification.</li>
+  <li>Whether the code meets best coding practices.</li>
+  <li>Whether the code is secure.</li>
+</ul>
+
+<p><strong>The audit was done according to the following procedure:</strong></p>
+
+<p>Automated analysis:</p>
+
+<ul>
+  <li>Scan of project’s code base with Automated Scanner (Mythril, Slither, Solhint, HoneyBadger)</li>
+  <li>Manually verification (reject or confirm) all the issues found by tools (SWC-Registry, Overflow)</li>
+</ul>
+
+<p>Manual audit:</p>
+
+<ul>
+  <li>Inspection of the code and revert the initial algorithms of the protocol and then compare them with the specification</li>
+  <li>Manually analyze the code for security vulnerabilities</li>
+</ul>
+
+<p>Report:</p>
+
+<ul>
+  <li>Reflect all the gathered information in a report</li>
+</ul>
+
+<h2 id="results">Results</h2>
+
+<h3 id="octo-token-erc20-based-on-ethereum">OCTO Token (ERC20) based on Ethereum</h3>
+
+<p>Source: GitHub<sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup> Etherscan<sup id="fnref:2"><a href="#fn:2" class="footnote">2</a></sup></p>
+
+<p><strong>MythX (Tool by ConsenSys)</strong></p>
+
+<p>Findings: 3 (LOW)</p>
+
+<p><a href="https://github.com/octofi/octofi-smart-contract-audits/raw/master/octo-token/MythX_Audit_OCTO_Token_Contract.pdf">Download Audit</a></p>
+
+<hr />
+
+<p><strong>Securify</strong></p>
+
+<p>Findings: 2 (LOW)</p>
+
+<p><a href="https://github.com/octofi/octofi-smart-contract-audits/raw/master/octo-token/Securify_Audit_OCTO_Token_Contract.pdf">Download Audit</a></p>
+
+<h3 id="octo-yield-smart-contract-based-on-ethereum">OCTO Yield Smart Contract based on Ethereum</h3>
+
+<p>Source: GitHub<sup id="fnref:3"><a href="#fn:3" class="footnote">3</a></sup></p>
+
+<p><strong>MythX (Tool by ConsenSys)</strong></p>
+
+<p>Findings: 1 (LOW) 1 (MEDIUM)</p>
+
+<p><a href="https://github.com/octofi/octofi-smart-contract-audits/raw/master/octo-yield/MythX_Audit_OCTO_Yield_Contract.pdf">Download Audit</a></p>
+
+<hr />
+
+<p><strong>Securify</strong></p>
+
+<p>Findings: 13 (LOW)</p>
+
+<p><a href="https://github.com/octofi/octofi-smart-contract-audits/raw/master/octo-yield/Securify_Audit_OCTO_Yield_Contract.pdf">Download Audit</a></p>
+
+<h2 id="summary">Summary</h2>
+
+<p>A majority of the code was standard and copied from widely-used and reviewed contracts and as a result, a lot of the code was reviewed before. It correctly implemented widely-used and reviewed contracts for safe mathematical operations.</p>
+
+<p>The audit identified no major security vulnerabilities, at the moment of audit. A majority of the functions were self-explanatory, and standard documentation tags (such as @dev, @param, and @returns) were included.</p>
+
+<p>The libraries used are based on OpenZepplin codebase, such as Roles, IERC20, SafeMath, SafeERC20 etc.</p>
+
+<h2 id="disclaimer">Disclaimer</h2>
+
+<p><em>The audit does not give any warranties on the security of the code. One audit cannot be considered enough. It’s always recommended proceeding with several independent audits and a public bug bounty program to ensure the security of the code. Besides, security audit is not an investment advice.</em></p>
+
+<div class="footnotes">
+  <ol>
+    <li id="fn:1">
+      <p><a href="https://github.com/octofi/octofi-erc20-smart-contract/blob/master/contracts/OCTO_Token.sol">github.com/octofi/octofi-erc20-smart-contract/blob/master/contracts/OCTO_Token.sol</a> <a href="#fnref:1" class="reversefootnote">&#8617;</a></p>
+    </li>
+    <li id="fn:2">
+      <p><a href="https://etherscan.io/address/0x7240aC91f01233BaAf8b064248E80feaA5912BA3#code">etherscan.io/address/0x7240aC91f01233BaAf8b064248E80feaA5912BA3#code</a> <a href="#fnref:2" class="reversefootnote">&#8617;</a></p>
+    </li>
+    <li id="fn:3">
+      <p><a href="https://github.com/octofi/octofi-yield-smart-contract/blob/master/contracts/Octo_Yield.sol">github.com/octofi/octofi-yield-smart-contract/blob/master/contracts/Octo_Yield.sol</a> <a href="#fnref:3" class="reversefootnote">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+
+			</article>
+
+			<div class="post__more grid">
 				
-				
-				
-				<article class="post__card">
-  <a href="/blog/defi-infra" class="post__link">
-    <div class="post__image" style="background-image: url(/images/1.jpg)">
-    </div>
-    <time class="post__date label--small">August 16, 2020</time>
-    <h5 class="post__title subtitle">Infrastructure for Decentralized Finance with Tentacles</h5>
-  </a>
-</article>
+				<a class="prev-post subtitle" href="/blog/roadmap">Simple Breakdown of the OctoFi Project Roadmap</a>
 				
 				
 			</div>
+
 		</div>
+
 	</section>
-
-	
-
-	<section class="pagination">
-		<div class="wrap">
-			
-			<a href="/blog/"
-				class="button--text--accent --left pagination__prev">Newer Posts</a>
-			
-			
-		</div>
-	</section>
-
-	
 	
 	<section class="about">
   
@@ -378,7 +450,6 @@
   </div>
 </section>
 
-	
 </div>
 
 

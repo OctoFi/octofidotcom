@@ -50,6 +50,8 @@ Findings: 3 (LOW)
 
 [Download Audit](https://github.com/octofi/octofi-smart-contract-audits/raw/master/octo-token/MythX_Audit_OCTO_Token_Contract.pdf)
 
+---
+
 **Securify**
 
 Findings: 2 (LOW)
@@ -65,6 +67,8 @@ Source: GitHub[^3]
 Findings: 1 (LOW) 1 (MEDIUM)
 
 [Download Audit](https://github.com/octofi/octofi-smart-contract-audits/raw/master/octo-yield/MythX_Audit_OCTO_Yield_Contract.pdf)
+
+---
 
 **Securify** 
 

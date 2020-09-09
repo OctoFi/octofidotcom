@@ -1,4 +1,106 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-09-09T00:10:51+10:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">octofidotcom</title><subtitle>Website for OctoFi: Decentralized Finance Tentacles. Hosted on Github Pages.</subtitle><entry><title type="html">Simple Breakdown of the OctoFi Project Roadmap</title><link href="http://localhost:4000/blog/roadmap" rel="alternate" type="text/html" title="Simple Breakdown of the OctoFi Project Roadmap" /><published>2020-09-08T10:00:00+10:00</published><updated>2020-09-08T10:00:00+10:00</updated><id>http://localhost:4000/blog/roadmap</id><content type="html" xml:base="http://localhost:4000/blog/roadmap">&lt;p&gt;Open source software projects with distributed teams are complex beasts with many dependencies, asynchronous communications, and endless moving parts.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-09-09T10:32:09+10:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">octofidotcom</title><subtitle>Website for OctoFi: Decentralized Finance Tentacles. Hosted on Github Pages.</subtitle><entry><title type="html">Smart Contract Security Audit</title><link href="http://localhost:4000/blog/security-audit" rel="alternate" type="text/html" title="Smart Contract Security Audit" /><published>2020-09-09T10:00:00+10:00</published><updated>2020-09-09T10:00:00+10:00</updated><id>http://localhost:4000/blog/security-audit</id><content type="html" xml:base="http://localhost:4000/blog/security-audit">&lt;p&gt;Smart contract security is paramount for any decentralized application that holds or controls the flow of users’ hard-earned funds.&lt;/p&gt;
+
+&lt;p&gt;While we at OctoFi have written our code with care and prioritized security, software bugs are an inevitable fact of life for even the most diligent of development teams.&lt;/p&gt;
+
+&lt;p&gt;Undergoing a security audit by a highly respected and thorough third party is of the utmost importance to ensuring our smart contracts run as designed. It also gives our users the confidence needed to deposit any amount of their cryptocurrency into the OctoFi Ecosystem.&lt;/p&gt;
+
+&lt;p&gt;This is why we are pleased to announce that the OctoFi smart contracts on the Ethereum blockchain are currently undergoing some security audits and two reports can already be perused.&lt;/p&gt;
+
+&lt;h2 id=&quot;procedure&quot;&gt;Procedure&lt;/h2&gt;
+
+&lt;p&gt;In the audit process, the following crucial features of the code are considered:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Whether the code conforms to the specification.&lt;/li&gt;
+  &lt;li&gt;Whether the code meets best coding practices.&lt;/li&gt;
+  &lt;li&gt;Whether the code is secure.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;The audit was done according to the following procedure:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Automated analysis:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Scan of project’s code base with Automated Scanner (Mythril, Slither, Solhint, HoneyBadger)&lt;/li&gt;
+  &lt;li&gt;Manually verification (reject or confirm) all the issues found by tools (SWC-Registry, Overflow)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Manual audit:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Inspection of the code and revert the initial algorithms of the protocol and then compare them with the specification&lt;/li&gt;
+  &lt;li&gt;Manually analyze the code for security vulnerabilities&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Report:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Reflect all the gathered information in a report&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;results&quot;&gt;Results&lt;/h2&gt;
+
+&lt;h3 id=&quot;octo-token-erc20-based-on-ethereum&quot;&gt;OCTO Token (ERC20) based on Ethereum&lt;/h3&gt;
+
+&lt;p&gt;Source: GitHub&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; Etherscan&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;MythX (Tool by ConsenSys)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Findings: 3 (LOW)&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/octofi/octofi-smart-contract-audits/raw/master/octo-token/MythX_Audit_OCTO_Token_Contract.pdf&quot;&gt;Download Audit&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Securify&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Findings: 2 (LOW)&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/octofi/octofi-smart-contract-audits/raw/master/octo-token/Securify_Audit_OCTO_Token_Contract.pdf&quot;&gt;Download Audit&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;octo-yield-smart-contract-based-on-ethereum&quot;&gt;OCTO Yield Smart Contract based on Ethereum&lt;/h3&gt;
+
+&lt;p&gt;Source: GitHub&lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;MythX (Tool by ConsenSys)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Findings: 1 (LOW) 1 (MEDIUM)&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/octofi/octofi-smart-contract-audits/raw/master/octo-yield/MythX_Audit_OCTO_Yield_Contract.pdf&quot;&gt;Download Audit&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Securify&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Findings: 13 (LOW)&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/octofi/octofi-smart-contract-audits/raw/master/octo-yield/Securify_Audit_OCTO_Yield_Contract.pdf&quot;&gt;Download Audit&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;summary&quot;&gt;Summary&lt;/h2&gt;
+
+&lt;p&gt;A majority of the code was standard and copied from widely-used and reviewed contracts and as a result, a lot of the code was reviewed before. It correctly implemented widely-used and reviewed contracts for safe mathematical operations.&lt;/p&gt;
+
+&lt;p&gt;The audit identified no major security vulnerabilities, at the moment of audit. A majority of the functions were self-explanatory, and standard documentation tags (such as @dev, @param, and @returns) were included.&lt;/p&gt;
+
+&lt;p&gt;The libraries used are based on OpenZepplin codebase, such as Roles, IERC20, SafeMath, SafeERC20 etc.&lt;/p&gt;
+
+&lt;h2 id=&quot;disclaimer&quot;&gt;Disclaimer&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;The audit does not give any warranties on the security of the code. One audit cannot be considered enough. It’s always recommended proceeding with several independent audits and a public bug bounty program to ensure the security of the code. Besides, security audit is not an investment advice.&lt;/em&gt;&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://github.com/octofi/octofi-erc20-smart-contract/blob/master/contracts/OCTO_Token.sol&quot;&gt;github.com/octofi/octofi-erc20-smart-contract/blob/master/contracts/OCTO_Token.sol&lt;/a&gt; &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://etherscan.io/address/0x7240aC91f01233BaAf8b064248E80feaA5912BA3#code&quot;&gt;etherscan.io/address/0x7240aC91f01233BaAf8b064248E80feaA5912BA3#code&lt;/a&gt; &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:3&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://github.com/octofi/octofi-yield-smart-contract/blob/master/contracts/Octo_Yield.sol&quot;&gt;github.com/octofi/octofi-yield-smart-contract/blob/master/contracts/Octo_Yield.sol&lt;/a&gt; &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name></name></author><summary type="html">Smart contract security is paramount for any decentralized application that holds or controls the flow of users’ hard-earned funds.</summary></entry><entry><title type="html">Simple Breakdown of the OctoFi Project Roadmap</title><link href="http://localhost:4000/blog/roadmap" rel="alternate" type="text/html" title="Simple Breakdown of the OctoFi Project Roadmap" /><published>2020-09-08T10:00:00+10:00</published><updated>2020-09-08T10:00:00+10:00</updated><id>http://localhost:4000/blog/roadmap</id><content type="html" xml:base="http://localhost:4000/blog/roadmap">&lt;p&gt;Open source software projects with distributed teams are complex beasts with many dependencies, asynchronous communications, and endless moving parts.&lt;/p&gt;
 
 &lt;p&gt;In order to clearly demonstrate what’s planned for &lt;a href=&quot;/&quot;&gt;OctoFi&lt;/a&gt;, we’ve decided to provide a simple breakdown of the project roadmap, and set a precedent for clarity and transparency.&lt;/p&gt;
 

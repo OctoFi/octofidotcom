@@ -16,6 +16,8 @@ menu_settings:
       url: '/project/aquafarm'
     - title: 'Tentacles'
       url: '/project/tentacles'
+    - title: 'Audits'
+      url: '/blog/security-audit'
     - title: 'Blog'
       url: '/blog/'
 
@@ -64,7 +66,7 @@ social_settings:
   soundcloud_url: ''
   spotify_url: ''
   bandcamp_url: ''
-  linkedin_url: ''
+  linkedin_url: 'https://www.linkedin.com/company/octofinance'
 
 color_settings:
   background_color: '#ffffff'
