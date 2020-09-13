@@ -1,4 +1,90 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-09-13T21:33:50+10:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">octofidotcom</title><subtitle>Website for OctoFi: Decentralized Finance Tentacles. Hosted on Github Pages.</subtitle><entry><title type="html">How To Buy $OCTO During Bonding Curve</title><link href="http://localhost:4000/blog/octoken-tutorial" rel="alternate" type="text/html" title="How To Buy $OCTO During Bonding Curve" /><published>2020-09-13T21:30:00+10:00</published><updated>2020-09-13T21:30:00+10:00</updated><id>http://localhost:4000/blog/octoken-tutorial</id><content type="html" xml:base="http://localhost:4000/blog/octoken-tutorial">&lt;p&gt;This tutorial explains how buy $OCTO by participating in our bonding curve sale on 14 September 2020 at 00:00 UTC.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-09-14T09:16:23+10:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">octofidotcom</title><subtitle>Website for OctoFi: Decentralized Finance Tentacles. Hosted on Github Pages.</subtitle><entry><title type="html">How To Use Snapshot &amp;amp; Create Proposals</title><link href="http://localhost:4000/blog/snapshot-tutorial" rel="alternate" type="text/html" title="How To Use Snapshot &amp; Create Proposals" /><published>2020-09-14T09:00:00+10:00</published><updated>2020-09-14T09:00:00+10:00</updated><id>http://localhost:4000/blog/snapshot-tutorial</id><content type="html" xml:base="http://localhost:4000/blog/snapshot-tutorial">&lt;p&gt;Hey Octonauts,&lt;/p&gt;
+
+&lt;p&gt;If we’ve reached that stage of OctoFi and you are reading this, then we are  doing great, and proud to announce integration with Snapshot:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://dao.octo.fi&quot;&gt;dao.octo.fi&lt;/a&gt; –&amp;gt; &lt;a href=&quot;https://snapshot.page/#/octofi&quot;&gt;snapshot.page/#/octofi&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Openness and transparency are central to OctoFi’s mission in the delivery of decentralized finance &lt;s&gt;oracles&lt;/s&gt; tentacles, and an accessible governance tool such as Snapshot is an essential component.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/12-1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The primary use-case afforded by project supporters will be the foundational governance decisions. During early stages, OCTO governance tokens shall be used for the following:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Participating in voting to settle governance decisions&lt;/li&gt;
+  &lt;li&gt;Verifying data tentacles and support systems with staking&lt;/li&gt;
+  &lt;li&gt;Interest Program (Octo Yield)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;how-to-use-snapshot-as-proposal-creator&quot;&gt;How to use Snapshot as proposal creator&lt;/h4&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Go to &lt;a href=&quot;https://dao.octo.fi&quot;&gt;dao.octo.fi&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Click on the button in the right corner “Connect wallet”&lt;/li&gt;
+  &lt;li&gt;Connect with one of the three wallet providers, where you hold $OCTO&lt;/li&gt;
+  &lt;li&gt;Click on the button “New proposal” at the main page &lt;a href=&quot;https://snapshot.page/#/octofi&quot;&gt;snapshot.page/#/octofi&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Fill out the field Title:
+OIP-[consecutive number] Title of your Proposal&lt;/li&gt;
+  &lt;li&gt;Fill out the biggest field and tell the community about your idea or question, go into every detail. Don’t forget plans about how to execute the idea or question, and funding, if needed.&lt;/li&gt;
+  &lt;li&gt;Place the voting options&lt;/li&gt;
+  &lt;li&gt;Now go to the “Actions” box&lt;/li&gt;
+  &lt;li&gt;Select the start date&lt;/li&gt;
+  &lt;li&gt;Select the end date (Remember to give enough time for voting)&lt;/li&gt;
+  &lt;li&gt;Fill out the Snapshot block number (now it’s getting a bit crazy, read more about that number in the next section)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;Snapshot block number&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;This number is important to lock the state of community members who are able to vote.&lt;/p&gt;
+
+&lt;p&gt;Means if you come around a nice proposal and the block number is in the past and you don’t own any $OCTO yet or before the block number, you can’t vote.&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;H = h + ((t1 — t0) / a)&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Where:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;H&lt;/code&gt; = target block height&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;h&lt;/code&gt; = current block height&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;t0&lt;/code&gt; = current timestamp (in seconds)&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;t1&lt;/code&gt; = target timestamp (in seconds)&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;a&lt;/code&gt; = average time to solve a block (in seconds)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Easy right ?&lt;/p&gt;
+
+&lt;p&gt;Or…&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;last_block_number + ((future_time - time_now) / block_time)&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;So, for example, using a &lt;a href=&quot;https://www.epochconverter.com&quot;&gt;current epoch time&lt;/a&gt; of 1481214124, the epoch time of 1482537600 for midnight Christmas Eve, and the last block of 2771338:&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;2771338 + ((1482537600 - 1481214124) / 14) = 2865872&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Or just look at &lt;a href=&quot;https://etherscan.io/blocks&quot;&gt;etherscan.io/blocks&lt;/a&gt; and use the last block number ;-)&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Click on “Publish” and create the proposal&lt;/li&gt;
+  &lt;li&gt;Sign the message via your wallet and done&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 id=&quot;how-to-use-snapshot-for-voting&quot;&gt;How to use Snapshot for voting&lt;/h4&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Go to &lt;a href=&quot;https://dao.octo.fi&quot;&gt;dao.octo.fi&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Click on the button in the right corner “Connect wallet”&lt;/li&gt;
+  &lt;li&gt;Connect with one of the three wallet provider, where you hold $OCTO&lt;/li&gt;
+  &lt;li&gt;Click on the option you want to vote for&lt;/li&gt;
+  &lt;li&gt;Sign the message via your wallet and done&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;To test your voting capabilities, let’s start with a simple question.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://snapshot.page/#/octofi/proposal/QmWHHTcf4tF4XvJSyaZzL5BmhV2xwoFvBh5rBoqGWXvGvi&quot;&gt;&lt;em&gt;Who was Satoshi Nakamoto?&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Best wishes,&lt;/p&gt;
+
+&lt;p&gt;Dr Octavius.&lt;/p&gt;</content><author><name></name></author><summary type="html">Hey Octonauts,</summary></entry><entry><title type="html">How To Buy $OCTO During Bonding Curve</title><link href="http://localhost:4000/blog/octoken-tutorial" rel="alternate" type="text/html" title="How To Buy $OCTO During Bonding Curve" /><published>2020-09-13T21:30:00+10:00</published><updated>2020-09-13T21:30:00+10:00</updated><id>http://localhost:4000/blog/octoken-tutorial</id><content type="html" xml:base="http://localhost:4000/blog/octoken-tutorial">&lt;p&gt;This tutorial explains how buy $OCTO by participating in our bonding curve sale on 14 September 2020 at 00:00 UTC.&lt;/p&gt;
 
 &lt;p class=&quot;subtitle&quot; id=&quot;timer&quot;&gt;Bonding curve in...&lt;/p&gt;
 
@@ -656,56 +742,4 @@
   &lt;li&gt;Ending when allocation sold out&lt;/li&gt;
   &lt;li&gt;Initial price of $0.18&lt;/li&gt;
   &lt;li&gt;Denominated in USDC&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><summary type="html">Bonding curve in...</summary></entry><entry><title type="html">Governance Token Mechanisms for Octoken Holders</title><link href="http://localhost:4000/blog/gov-token-mech" rel="alternate" type="text/html" title="Governance Token Mechanisms for Octoken Holders" /><published>2020-08-19T10:00:00+10:00</published><updated>2020-08-19T10:00:00+10:00</updated><id>http://localhost:4000/blog/gov-token-mech</id><content type="html" xml:base="http://localhost:4000/blog/gov-token-mech">&lt;p&gt;The OCTO governance token is an essential part of the OctoFi ecosystem and is designed to foster the creation of decentralized finance &lt;s&gt;oracles&lt;/s&gt; tentacles. Absolute openness and transparency are the underlying principles through which the Octoken Project will equip stakeholders to support the wider community in general.&lt;/p&gt;
-
-&lt;p&gt;DeFi’s integrity depends on reliable data, much of which is provided by oracles and related infrastructure. The systems comprising OctoFi are governed through the OCTO governance token otherwise known as — ‘Octoken’ — intended to be held by a decentralized community of ‘Octonauts’ who are incentivized to govern efficiently and effectively.&lt;/p&gt;
-
-&lt;p&gt;OctoFi is dedicated to supporting the emergence of a user-owned financial ecosystem whose best interests are well aligned. In order to achieve the best possible distribution of ownership, OCTO governance tokens shall be disbursed through various mechanisms. As explained in greater detail throughout the Octoken project page, the bonding curve is step one, but let’s take a look at the broader picture.&lt;/p&gt;
-
-&lt;h2 id=&quot;octoken-allocations&quot;&gt;Octoken allocations&lt;/h2&gt;
-
-&lt;p&gt;The total 800,000 OCTO supply is allocated as follows:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;&lt;strong&gt;Bonding curve:&lt;/strong&gt; 125,000 OCTO for public sale commencing 14 September 2020 at 00:00 UTC as per the &lt;a href=&quot;/project/token&quot;&gt;full details provided&lt;/a&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Interest program:&lt;/strong&gt; 200,000 OCTO split equally between interest yielding contract and airdrop, both reserved for private and public sale investors.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Early backers:&lt;/strong&gt; 200,000 OCTO among small strategic cohort gathered during inception to ensure best possible deployment and transition.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Project reserve:&lt;/strong&gt; 275,000 OCTO assigned to transparent project fund for allocation by governance token holders pending decisions made on subsequent DAO proposals.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&quot;octoken-distribution-mechanisms&quot;&gt;Octoken distribution mechanisms&lt;/h2&gt;
-
-&lt;p&gt;OctoFi will utilize a number of governance distribution mechanisms to begin decentralizing from day one, including the initial bonding curve distribution, incentives for long term holders, ecosystem utilization, participation in governance, and funding of project improvements.&lt;/p&gt;
-
-&lt;h3 id=&quot;1-octoken-project&quot;&gt;1. Octoken project&lt;/h3&gt;
-
-&lt;p&gt;OCTO governance tokens will be distributed through a bonding curve sale that commences 14 September 2020 at 00:00 UTC. A total of 125,000 tokens will be made available to participants and we welcome those who support the development of the DeFi ecosystem.&lt;/p&gt;
-
-&lt;p&gt;By distributing governance in such a way, token bonding curves provide fairness and transparency. They are a sustainable way of striking a balance between the team and project supporters, to hold everyone accountable in the best interests of the community. It is critical to the project that early adopters are incentivized to foster a supportive environment and as such, longevity for the governance token’s utility.&lt;/p&gt;
-
-&lt;h3 id=&quot;2-aquafarm-project&quot;&gt;2. Aquafarm project&lt;/h3&gt;
-
-&lt;p&gt;OctoFi’s interest (and airdrop) program provides an attractive incentive scheme for holding governance tokens for 3, 6, and 12 month runtimes. Our own smart contract, and furthermore additional lending solutions, will provide the yield required for what we are calling Aquafarming. While the interest program allocation is specified, the potential for developing further yield bearing apps for OCTO holders is within reach in the near future.&lt;/p&gt;
-
-&lt;h3 id=&quot;3-tentacles-project&quot;&gt;3. Tentacles project&lt;/h3&gt;
-
-&lt;p&gt;Decentralized finance &lt;s&gt;oracles&lt;/s&gt; tentacles are the core component of the OctoFi ecosystem. All Octonauts, regardless of holdings, are encouraged to participate in the various applications associated with their OCTO tokens.&lt;/p&gt;
-
-&lt;p&gt;As a community we are committed to advancing an open and transparent standard for data oracles that are truly owned and operated by token holders. As part of the Tentacles platform, further token distributions are associated with:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Remuneration for sourcing and provisioning data collection&lt;/li&gt;
-  &lt;li&gt;Funding development resources and platform support&lt;/li&gt;
-  &lt;li&gt;Gaining access to live data feeds and API marketplace&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;octoken-governance-functions&quot;&gt;Octoken governance functions&lt;/h2&gt;
-
-&lt;p&gt;The primary use-case afforded by project supporters will be the foundational governance decisions. During early stages, OCTO governance tokens shall be used for the following:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Participating in voting to settle governance decisions&lt;/li&gt;
-  &lt;li&gt;Verifying data tentacles and support systems with staking&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Reminder:&lt;/strong&gt; the Octoken bonding curve distribution and decentralized exchange allocation of the OCTO governance token commences 14 September 2020 — &lt;a href=&quot;/project/token&quot;&gt;full details on the project page&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html">The OCTO governance token is an essential part of the OctoFi ecosystem and is designed to foster the creation of decentralized finance oracles tentacles. Absolute openness and transparency are the underlying principles through which the Octoken Project will equip stakeholders to support the wider community in general.</summary></entry></feed>
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">Bonding curve in...</summary></entry></feed>
