@@ -63,14 +63,6 @@
 	  gtag('config', 'UA-175900160-1', { 'anonymize_ip': true });
 	</script>
 	
-	<!-- Telegram chat embed -->
-	<script id="chatBroEmbedCode">
-		/* Chatbro Widget Embed Code Start */
-		function ChatbroLoader(chats,async){async=!1!==async;var params={embedChatsParameters:chats instanceof Array?chats:[chats],lang:navigator.language||navigator.userLanguage,needLoadCode:'undefined'==typeof Chatbro,embedParamsVersion:localStorage.embedParamsVersion,chatbroScriptVersion:localStorage.chatbroScriptVersion},xhr=new XMLHttpRequest;xhr.withCredentials=!0,xhr.onload=function(){eval(xhr.responseText)},xhr.onerror=function(){console.error('Chatbro loading error')},xhr.open('GET','//www.chatbro.com/embed.js?'+btoa(unescape(encodeURIComponent(JSON.stringify(params)))),async),xhr.send()}
-		/* Chatbro Widget Embed Code End */
-		ChatbroLoader({encodedChatId: '36joz'});
-	</script>
-	
 	
 	<!-- Extra Header JS Code -->
 	
@@ -115,10 +107,6 @@
 					
 					<li class="menu__list__item">
 						<a href="/project/tentacles" class="menu__list__item__link button--text">Tentacles</a>
-					</li>
-					
-					<li class="menu__list__item">
-						<a href="/blog/security-audit" class="menu__list__item__link button--text">Audits</a>
 					</li>
 					
 					<li class="menu__list__item">
@@ -437,6 +425,15 @@
 			<div class="recent-posts__list grid">
 				
 				<article class="post__card">
+  <a href="/blog/aquarium-one" class="post__link">
+    <div class="post__image" style="background-image: url(/images/10.jpg)">
+    </div>
+    <time class="post__date label--small">September 13, 2020</time>
+    <h5 class="post__title subtitle">Aquarium 001 (Transparency Report)</h5>
+  </a>
+</article>
+				
+				<article class="post__card">
   <a href="/blog/security-audit" class="post__link">
     <div class="post__image" style="background-image: url(/images/9.jpg)">
     </div>
@@ -451,15 +448,6 @@
     </div>
     <time class="post__date label--small">September 08, 2020</time>
     <h5 class="post__title subtitle">Simple Breakdown of the OctoFi Project Roadmap</h5>
-  </a>
-</article>
-				
-				<article class="post__card">
-  <a href="/blog/dex-test" class="post__link">
-    <div class="post__image" style="background-image: url(/images/7.jpg)">
-    </div>
-    <time class="post__date label--small">September 07, 2020</time>
-    <h5 class="post__title subtitle">Public Testing of OctoFi DEX for Bonding Curve</h5>
   </a>
 </article>
 				

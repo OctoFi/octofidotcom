@@ -16,8 +16,6 @@ menu_settings:
       url: '/project/aquafarm'
     - title: 'Tentacles'
       url: '/project/tentacles'
-    - title: 'Audits'
-      url: '/blog/security-audit'
     - title: 'Blog'
       url: '/blog/'
 
