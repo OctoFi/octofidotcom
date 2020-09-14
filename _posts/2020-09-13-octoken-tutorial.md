@@ -7,7 +7,7 @@ featured_image: '/images/11.jpg'
 
 This tutorial explains how buy $OCTO by participating in our bonding curve sale on 14 September 2020 at 00:00 UTC.
 
-<p class="subtitle" id="timer">Bonding curve in...</p>
+<p class="subtitle"><a href="https://twitter.com/octofinance/status/1305329689804681217?s=20">🎉 Public sale complete</a></p>
 
 #### Before you start 
 

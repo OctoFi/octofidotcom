@@ -15,6 +15,6 @@ function updateTimer() {
 
     document.getElementById("timer")
         .innerHTML =
-        '<a href="https://buy.octo.fi"><div>Bonding curve in ' + d + '<span>d </span>' + h + '<span>h </span>' + m + '<span>m </span>' + s + '<span>s</span></div></a>';
+        '<a href="https://twitter.com/octofinance/status/1305329689804681217?s=20"><div>Bonding curve complete.</div></a>';
 }
 setInterval('updateTimer()', 1000);

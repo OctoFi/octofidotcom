@@ -54,7 +54,7 @@ All official announcements will be made on our blog first and foremost. Followin
 
 In the leadup to the launch of the interest program we will publish official tutorials and user guides on the blog for those interested in participating. 
 
-<p class="subtitle" id="timer">Bonding curve in...</p>
+<p class="subtitle"><a href="https://twitter.com/octofinance/status/1305329689804681217?s=20">🎉 Public sale complete</a></p>
 
 Full details of the Octoken bonding curve distribution and decentralized exchange allocation of the OCTO governance token are [available here](/project/token).
 

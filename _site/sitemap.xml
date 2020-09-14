@@ -29,10 +29,6 @@
 <lastmod>2020-09-07T10:00:00+10:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/blog/roadmap</loc>
-<lastmod>2020-09-08T10:00:00+10:00</lastmod>
-</url>
-<url>
 <loc>http://localhost:4000/blog/security-audit</loc>
 <lastmod>2020-09-09T10:00:00+10:00</lastmod>
 </url>
@@ -47,6 +43,10 @@
 <url>
 <loc>http://localhost:4000/blog/snapshot-tutorial</loc>
 <lastmod>2020-09-14T09:00:00+10:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/blog/roadmap</loc>
+<lastmod>2020-09-14T13:00:00+10:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/project/token</loc>

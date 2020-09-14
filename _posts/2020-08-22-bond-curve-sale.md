@@ -5,7 +5,7 @@ description:
 featured_image: '/images/3.jpg'
 ---
 
-<p class="subtitle" id="timer">Bonding curve in...</p>
+<p class="subtitle"><a href="https://twitter.com/octofinance/status/1305329689804681217?s=20">🎉 Public sale complete</a></p>
 
 OctoFi will distribute the OCTO governance token through the Octoken project, a bonding curve distribution starting 14 September 2020 at 00:00 UTC. We welcome all those who support the development of the DeFi ecosystem and a total of 125,000 tokens are being made available to participants.
 

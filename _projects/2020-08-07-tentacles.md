@@ -19,6 +19,6 @@ When the universe is infinitely expanding, why would you limit your yield farmin
 
 More details coming soon...
 
-<p id="timer">Bonding curve in...</p>
+<p class="subtitle"><a href="https://twitter.com/octofinance/status/1305329689804681217?s=20">🎉 Public sale complete</a></p>
 
 [buy.octo.fi](https://buy.octo.fi)
