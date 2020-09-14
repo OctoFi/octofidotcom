@@ -1,4 +1,84 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-09-14T13:07:54+10:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">octofidotcom</title><subtitle>Website for OctoFi: Decentralized Finance Tentacles. Hosted on Github Pages.</subtitle><entry><title type="html">Simple Breakdown of the OctoFi Project Roadmap</title><link href="http://localhost:4000/blog/roadmap" rel="alternate" type="text/html" title="Simple Breakdown of the OctoFi Project Roadmap" /><published>2020-09-14T13:00:00+10:00</published><updated>2020-09-14T13:00:00+10:00</updated><id>http://localhost:4000/blog/roadmap</id><content type="html" xml:base="http://localhost:4000/blog/roadmap">&lt;p&gt;&lt;em&gt;Last updated 14 Sep 20&lt;/em&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-09-14T20:21:55+10:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">octofidotcom</title><subtitle>Website for OctoFi: Decentralized Finance Tentacles. Hosted on Github Pages.</subtitle><entry><title type="html">Aquarium 002 (Post Public Sale Transparency)</title><link href="http://localhost:4000/blog/aquarium-two" rel="alternate" type="text/html" title="Aquarium 002 (Post Public Sale Transparency)" /><published>2020-09-14T20:00:00+10:00</published><updated>2020-09-14T20:00:00+10:00</updated><id>http://localhost:4000/blog/aquarium-two</id><content type="html" xml:base="http://localhost:4000/blog/aquarium-two">&lt;p&gt;What a busy day!&lt;/p&gt;
+
+&lt;p&gt;First of all a huge thanks to everyone who participated in our public sale. While there were a few challenges along the way, the bonding curve distribution was completed successfully, and the project is onto the next phase.&lt;/p&gt;
+
+&lt;p&gt;This post serves to &lt;a href=&quot;https://twitter.com/octofinance/status/1305329689804681217?s=20&quot;&gt;formalise the tweet thread&lt;/a&gt; we sent out following the &lt;a href=&quot;/project/token&quot;&gt;Octoken project&lt;/a&gt; and provides a summary of which &lt;a href=&quot;/blog/roadmap&quot;&gt;roadmap items&lt;/a&gt; we are working to deliver next.&lt;/p&gt;
+
+&lt;h4 id=&quot;token-distributions&quot;&gt;Token Distributions&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;~125,000 $OCTO&lt;/strong&gt; allocated to public sale have been distributed among &lt;a href=&quot;https://etherscan.io/token/0x7240ac91f01233baaf8b064248e80feaa5912ba3#balances&quot;&gt;holders as shown here&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;~275,000 $OCTO&lt;/strong&gt; remaining in deployer address allocated to &lt;a href=&quot;https://etherscan.io/token/0x7240aC91f01233BaAf8b064248E80feaA5912BA3?a=0xd06777d9b02f677214073cc3c5338904cba7894a&quot;&gt;Project Reserve as shown here&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;~200,000 $OCTO&lt;/strong&gt; transferred to yield address for Aquafarm &lt;a href=&quot;https://etherscan.io/tx/0x4276dd25f6e24c9959c4beda09a5f487772019d2c94fd516947562bf3d2d202e&quot;&gt;Interest Program as as shown here&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;~200,000 $OCTO&lt;/strong&gt; disbursed to Early Backers including team and strategic cohort &lt;a href=&quot;https://etherscan.io/token/tokenholderchart/0x7240ac91f01233baaf8b064248e80feaa5912ba3&quot;&gt;as shown here with distribution diagram&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;You will notice that the two largest holders equate to 56.97% of the total 800k supply. These combined holdings actually belong to the community in the form of:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Project Reserve:&lt;/strong&gt; budget allocation that community will spend based on governance proposals and voting &lt;a href=&quot;https://octo.fi/blog/project-reserve&quot;&gt;as detailed here&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Interest Program:&lt;/strong&gt; allocated to interest yielding contract split evenly between runtime payouts and airdrop rewards &lt;a href=&quot;https://octo.fi/blog/interest-pool&quot;&gt;as explained in detail here&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Community governance is a major focus for the OctoFi project and as such we will be encouraging proposals and voting ASAP, but more on that later.&lt;/p&gt;
+
+&lt;h4 id=&quot;liquidity-provision&quot;&gt;Liquidity Provision&lt;/h4&gt;
+
+&lt;p&gt;There has been a flood of enquiries regarding when we would be taking care of liquidity provision and the short answer is: as soon as we are able, well rested, and ready to continue diligently.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Uniswap Pairs&lt;/strong&gt; have been created prior to the token distribution and the offical links are as follows (do not follow any other UniSwap related links to trade $OCTO):&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Token: &lt;a href=&quot;https://uniswap.info/token/0x7240ac91f01233baaf8b064248e80feaa5912ba3&quot;&gt;uniswap.info/token/0x7240ac91f01233baaf8b064248e80feaa5912ba3&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;USDC/OCTO: &lt;a href=&quot;https://uniswap.info/pair/0x1b87fde6af5396165fdadf7f532784622a824abf&quot;&gt;uniswap.info/pair/0x1b87fde6af5396165fdadf7f532784622a824abf&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;ETH/OCTO: &lt;a href=&quot;https://uniswap.info/pair/0xd7cfbcadaaf6475321cfcf3884f15a93400be658&quot;&gt;uniswap.info/pair/0xd7cfbcadaaf6475321cfcf3884f15a93400be658&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We understand the excitement regarding liquidity provision, and respect the importance, but above all else, as a two person team (8 limbs total) our main priorities are consistency and integrity.&lt;/p&gt;
+
+&lt;p&gt;Until we can completely hand over project to our community of token holders, we are taking extra care, and as you can imagine, the workload has been plentiful.&lt;/p&gt;
+
+&lt;h4 id=&quot;community-governance&quot;&gt;Community Governance&lt;/h4&gt;
+
+&lt;p&gt;We were recently delighted to have our pull request on Snapshot.Page merged and deployed, in order to have our very own “off-chain gasless multi-governance client with easy to verify and hard to contest results.”&lt;/p&gt;
+
+&lt;p&gt;Our governance interface is now live at &lt;a href=&quot;https://snapshot.page/#/octofi&quot;&gt;snapshot.page/#/octofi&lt;/a&gt; and we have since redirected our &lt;a href=&quot;https://dao.octo.fi&quot;&gt;dao.octo.fi&lt;/a&gt; subdomain from Aragon to Snapshot.&lt;/p&gt;
+
+&lt;p&gt;We wrote up a tutorial on &lt;a href=&quot;https://octo.fi/blog/snapshot-tutorial&quot;&gt;how to use Snapshot&lt;/a&gt; and create proposals, and after noticing no official instructions on Snapshot docs, repurposed ours.&lt;/p&gt;
+
+&lt;p&gt;We are really excited to have such awesome tools at our disposal and to show our appreciation, we &lt;a href=&quot;https://github.com/bonustrack/snapshot-docs/pull/1&quot;&gt;submitted a pull request&lt;/a&gt; to GitHub with our default version of the instructions.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/13-1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;You might notice we made a spelling mistake submitting this PR, but soon fixed it lol. Keep an eye out for the first proposals, where we would like help deciding the following:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Which community-run Telegram group is hangout of choice for the community, and deploy it to OctoFi’s website as a Trollbox (fun!).&lt;/li&gt;
+  &lt;li&gt;Details on who we should arrange for comprehensive security audits of OctoFi smart contracts etc.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;yield-farming&quot;&gt;Yield Farming&lt;/h4&gt;
+
+&lt;p&gt;Interest Program on Aquafarm is ready to go and will be officially announced with a tutorial very soon. You simply visit &lt;a href=&quot;https://earn.octo.fi&quot;&gt;earn.octo.fi&lt;/a&gt; to participate, an &lt;a href=&quot;/project/aquafarm&quot;&gt;overview is provided here&lt;/a&gt;, and the finer details are just around the corner.&lt;/p&gt;
+
+&lt;p&gt;To stay up to date with our roadmap, approximate delivery dates, progress of completion, and a maintained copy of our music festival style roadmap, keep an eye on &lt;a href=&quot;https://octo.fi/blog/roadmap&quot;&gt;octo.fi/blog/roadmap&lt;/a&gt; as we update it regularly, along with date of last change.&lt;/p&gt;
+
+&lt;h4 id=&quot;summary&quot;&gt;Summary&lt;/h4&gt;
+
+&lt;p&gt;Despite being a small team, we’ve got loads planned for all you tentacle lovers and will be keeping this website up to date. We’d rather you hear it hear first, rather than on social media… Because this site can actually be community owned, and as mentioned, is open source and welcoming contributions (no deleting the shooting octopi plz).&lt;/p&gt;
+
+&lt;p&gt;If anyone does want to contribute something, like a tutorial, or a useful resource, please &lt;a href=&quot;https://github.com/octofi/octofidotcom/issues&quot;&gt;open an issue here&lt;/a&gt; to discuss.&lt;/p&gt;
+
+&lt;p&gt;And finally, as of &lt;a href=&quot;/blog/roadmap&quot;&gt;today’s roadmap update&lt;/a&gt;, what’s ahead looks something like this:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;/project/aquafarm&quot;&gt;Aquafarm&lt;/a&gt; - 15 Sep 20&lt;/li&gt;
+  &lt;li&gt;DEX/CEX - 15 Sep 20&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://dao.octo.fi&quot;&gt;DAOctopus&lt;/a&gt; - 15 Sep 20
+&lt;a href=&quot;https://github.com/octofi?tab=repositories&quot;&gt;github.com/octofi?tab=repositories&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;See you at OCTOber Fest!&lt;/p&gt;</content><author><name></name></author><summary type="html">What a busy day!</summary></entry><entry><title type="html">Simple Breakdown of the OctoFi Project Roadmap</title><link href="http://localhost:4000/blog/roadmap" rel="alternate" type="text/html" title="Simple Breakdown of the OctoFi Project Roadmap" /><published>2020-09-14T13:00:00+10:00</published><updated>2020-09-14T13:00:00+10:00</updated><id>http://localhost:4000/blog/roadmap</id><content type="html" xml:base="http://localhost:4000/blog/roadmap">&lt;p&gt;&lt;em&gt;Last updated 14 Sep 20&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;Open source software projects with distributed teams are complex beasts with many dependencies, asynchronous communications, and endless moving parts.&lt;/p&gt;
 
@@ -645,103 +725,4 @@ OIP-[consecutive number] Title of your Proposal&lt;/li&gt;
 
 &lt;p&gt;Full details of the Octoken bonding curve distribution and decentralized exchange allocation of the OCTO governance token are &lt;a href=&quot;/project/token&quot;&gt;available here&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;In the meantime, come and wrap your tenties around our octoMemes on &lt;a href=&quot;https://twitter.com/octofinance&quot;&gt;twitter&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html">OctoFi is dedicated to achieving the best possible distribution of OCTO governance tokens among holders. With that commitment we are thrilled to announce Aquafarm, our interest (and airdrop) program providing an attractive incentive scheme for investors.</summary></entry><entry><title type="html">Bonding Curve Sale Details for OCTO Governance Token</title><link href="http://localhost:4000/blog/bond-curve-sale" rel="alternate" type="text/html" title="Bonding Curve Sale Details for OCTO Governance Token" /><published>2020-08-22T10:00:00+10:00</published><updated>2020-08-22T10:00:00+10:00</updated><id>http://localhost:4000/blog/bond-curve-sale</id><content type="html" xml:base="http://localhost:4000/blog/bond-curve-sale">&lt;p class=&quot;subtitle&quot;&gt;&lt;a href=&quot;https://twitter.com/octofinance/status/1305329689804681217?s=20&quot;&gt;🎉 Public sale complete&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;OctoFi will distribute the OCTO governance token through the Octoken project, a bonding curve distribution starting 14 September 2020 at 00:00 UTC. We welcome all those who support the development of the DeFi ecosystem and a total of 125,000 tokens are being made available to participants.&lt;/p&gt;
-
-&lt;h2 id=&quot;what-is-a-bonding-curve-offering&quot;&gt;What is a bonding curve offering?&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://medium.com/coinmonks/token-bonding-curves-explained-7a9332198e0e&quot;&gt;Bonding curves are smart contracts&lt;/a&gt; designed to provide tokens with their own market by creating buy and sell functions. Token prices increase and decrease as they are bought and sold from the contract respectively. The number of tokens on the market, and the average price of each token per transfer batch, are the characteristics that determine a trade.&lt;/p&gt;
-
-&lt;p&gt;Buyers gain control over the project and team, to a degree, thanks to the contract autonomously creating a market and remaining 100% collateralized at all times. Bonding curve participants can essentially sell tokens back at any time over a uniswap marketplace pair, for a fair and transparent means of distributing governance rights.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;“…risks are minimised, requiring both the developer and the vote to be compromised to cause any real damage.” — &lt;a href=&quot;https://ethresear.ch/t/explanation-of-daicos/465&quot;&gt;Vitalik Buterin&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;By distributing governance in such a way, token bonding curves provide fairness and transparency. They are a sustainable way of striking a balance between the team and project supporters, to hold everyone accountable in the best interests of the community.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-octoken-bonding-curve-offering&quot;&gt;The Octoken bonding curve offering&lt;/h2&gt;
-
-&lt;p&gt;It is critical to the project that early adopters are incentivized to foster a supportive environment and as such, longevity for the governance token’s utility. The bonding curve distribution method has been chosen as the first method for getting OCTO governance tokens into the hands of public stakeholders. The only prior allocation made is that of 200,000 OCTO among a small strategic cohort to ensure the best possible deployment and transition for the project.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/projects/curve.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Inspired by the ‘sigmoid bonding curve’ model, OctoFi shall remunerate early supporters for their participation and commitment to DeFi in the broader sense, rather than favoring short term speculators. As explained in our governance mechanisms post, the Octoken project is the first mechanism through which we are decentralizing governance of OctoFi.&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Batch&lt;/th&gt;
-      &lt;th&gt;Allocation&lt;/th&gt;
-      &lt;th&gt;Price (USDC)&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;001&lt;/td&gt;
-      &lt;td&gt;8,000&lt;/td&gt;
-      &lt;td&gt;$0.18&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;002&lt;/td&gt;
-      &lt;td&gt;9,000&lt;/td&gt;
-      &lt;td&gt;$0.28&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;003&lt;/td&gt;
-      &lt;td&gt;10,000&lt;/td&gt;
-      &lt;td&gt;$0.38&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;004&lt;/td&gt;
-      &lt;td&gt;11,000&lt;/td&gt;
-      &lt;td&gt;$0.48&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;005&lt;/td&gt;
-      &lt;td&gt;12,000&lt;/td&gt;
-      &lt;td&gt;$0.58&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;006&lt;/td&gt;
-      &lt;td&gt;13,000&lt;/td&gt;
-      &lt;td&gt;$0.68&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;007&lt;/td&gt;
-      &lt;td&gt;14,000&lt;/td&gt;
-      &lt;td&gt;$0.78&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;008&lt;/td&gt;
-      &lt;td&gt;15,000&lt;/td&gt;
-      &lt;td&gt;$0.88&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;009&lt;/td&gt;
-      &lt;td&gt;16,000&lt;/td&gt;
-      &lt;td&gt;$0.98&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;010&lt;/td&gt;
-      &lt;td&gt;17,000&lt;/td&gt;
-      &lt;td&gt;$1.08&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;Bonding curves are a newer concept and their implementations are improving thanks to the collaborative nature of decentralized finance. In support of fostering innovation and our commitment to ongoing improvement, all contracts are open source for auditing by anyone who’d would like to contribute.&lt;/p&gt;
-
-&lt;p&gt;Full details of the Octoken bonding curve distribution and decentralized exchange allocation of the OCTO governance token are &lt;a href=&quot;/project/token&quot;&gt;available here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Bonding curve summary:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Allocation of 125,000 OCTO for bonding curve sale&lt;/li&gt;
-  &lt;li&gt;Equates to 15.625% of total supply with 800,000 hard cap.&lt;/li&gt;
-  &lt;li&gt;Starting 14 September 2020 at 00:00 UTC&lt;/li&gt;
-  &lt;li&gt;Ending when allocation sold out&lt;/li&gt;
-  &lt;li&gt;Initial price of $0.18&lt;/li&gt;
-  &lt;li&gt;Denominated in USDC&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><summary type="html">🎉 Public sale complete</summary></entry></feed>
+&lt;p&gt;In the meantime, come and wrap your tenties around our octoMemes on &lt;a href=&quot;https://twitter.com/octofinance&quot;&gt;twitter&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html">OctoFi is dedicated to achieving the best possible distribution of OCTO governance tokens among holders. With that commitment we are thrilled to announce Aquafarm, our interest (and airdrop) program providing an attractive incentive scheme for investors.</summary></entry></feed>
