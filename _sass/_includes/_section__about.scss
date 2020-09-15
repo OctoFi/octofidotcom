@@ -23,6 +23,11 @@
       margin-bottom: 24px;
     }
   }
+  
+  .wrap-three {
+    grid-template-columns: 1fr 1fr 1fr;
+    padding-top: 20px;
+  }
 
   .title {
     margin-bottom: 16px;

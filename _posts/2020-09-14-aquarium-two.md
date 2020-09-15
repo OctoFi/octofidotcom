@@ -74,6 +74,7 @@ And finally, as of [today's roadmap update](/blog/roadmap), what's ahead looks s
 - [Aquafarm](/project/aquafarm) - 15 Sep 20
 - DEX/CEX - 15 Sep 20
 - [DAOctopus](https://dao.octo.fi) - 15 Sep 20
+
 [github.com/octofi?tab=repositories](https://github.com/octofi?tab=repositories)
 
 See you at OCTOber Fest!

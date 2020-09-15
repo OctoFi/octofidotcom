@@ -7,7 +7,7 @@
 
 .hero {
 	position: relative;
-	padding: 40px 0 160px;
+	padding: 40px 0 40px;
 
 	.wrap {
 		grid-gap: 0;
@@ -24,13 +24,40 @@
 
 	.intro {
 		position: relative;
-		max-width: 340px;
+		margin-top: 8px;
+		max-width: 480px;
 	}
 
 	.hero__cta {
 		position: absolute;
 		left: 0;
-		bottom: -70px;
+		bottom: -60px;
+	}
+	
+	.wrap-three {
+      grid-template-columns: 1fr 1fr 1fr;
+    }
+    
+    .btn-img {
+    display: block;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    cursor: pointer;
+    background-color: white;
+	}
+
+
+	.btn-img img {
+		display: block;
+	}
+
+	.btn-img:hover .img-wrap {
+		background-color: black;
+	}
+
+	.btn-img:hover img {
+		opacity: 0.6;
 	}
 
 	@include mq(tabletp) {
