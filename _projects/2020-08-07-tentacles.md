@@ -1,6 +1,6 @@
 ---
-title: 👷 Tentacles
-subtitle: Pricing oracle aggregator for <i>octomated</i> interchain lending — 01 November 2020.
+title: 🚧 Tentacles
+subtitle: Pricing oracle aggregator for <i>octomated</i> interchain lending — 01 November 2020 (UNDER CONSTRUCTION).
 date: 2020-08-09 00:00:00
 description: When the universe is infinitely expanding, why would you limit your yield farming to the earth? There's a whole galaxy of gains to wrap your space tentacles around.
 featured_image: project-tentacle.jpg

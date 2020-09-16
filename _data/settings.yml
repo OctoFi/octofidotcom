@@ -12,6 +12,8 @@ menu_settings:
       url: '/'
     - title: 'Roadmap'
       url: '/blog/roadmap'
+    - title: 'Docs'
+      url: 'https://docs.octo.fi'
     - title: 'Blog'
       url: '/blog/'
 
