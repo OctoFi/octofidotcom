@@ -2,7 +2,7 @@
 title: Tentacles 🚧
 subtitle: Pricing oracle aggregator for <i>octomated</i> interchain lending.
 date: 2020-08-09 00:00:00
-description: <img src="https://progress-bar.dev/60/?width=600" alt=""></a><br>When the universe is infinitely expanding, why would you limit your yield farming to the earth?
+description: <img src="https://progress-bar.dev/40/?width=600" alt=""></a><br>When the universe is infinitely expanding, why would you limit your yield farming to the earth?
 featured_image: project-tentacle.jpg
 accent_color: '#4C60E6'
 

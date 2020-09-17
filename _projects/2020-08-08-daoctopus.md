@@ -1,7 +1,7 @@
 ---
 title: DAOctopus ✅
 subtitle: Decentralized autonomous octopus community governance. 
-date: 2020-08-08 12:00:00
+date: 2020-08-08 00:00:00
 description: <img src="https://progress-bar.dev/100/?width=600" alt=""></a><br>Off-chain gasless multi-governance for Octoken holders with Snapshot.
 featured_image: project-daoctopus.jpg
 accent_color: '#4C60E6'

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-09-17T15:05:52+10:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">octofidotcom</title><subtitle>Website for OctoFi: Decentralized Finance Tentacles. Hosted on Github Pages.</subtitle><entry><title type="html">Simple Breakdown of the OctoFi Project Roadmap</title><link href="http://localhost:4000/blog/roadmap" rel="alternate" type="text/html" title="Simple Breakdown of the OctoFi Project Roadmap" /><published>2020-09-17T10:03:00+10:00</published><updated>2020-09-17T10:03:00+10:00</updated><id>http://localhost:4000/blog/roadmap</id><content type="html" xml:base="http://localhost:4000/blog/roadmap">&lt;p&gt;&lt;em&gt;Last updated 17 Sep 20&lt;/em&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-09-17T15:32:05+10:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">octofidotcom</title><subtitle>Website for OctoFi: Decentralized Finance Tentacles. Hosted on Github Pages.</subtitle><entry><title type="html">Simple Breakdown of the OctoFi Project Roadmap</title><link href="http://localhost:4000/blog/roadmap" rel="alternate" type="text/html" title="Simple Breakdown of the OctoFi Project Roadmap" /><published>2020-09-17T10:03:00+10:00</published><updated>2020-09-17T10:03:00+10:00</updated><id>http://localhost:4000/blog/roadmap</id><content type="html" xml:base="http://localhost:4000/blog/roadmap">&lt;p&gt;&lt;em&gt;Last updated 17 Sep 20&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;Open source software projects with distributed teams are complex beasts with many dependencies, asynchronous communications, and endless moving parts.&lt;/p&gt;
 
@@ -6,9 +6,9 @@
 
 &lt;h2 id=&quot;portfolio&quot;&gt;Portfolio&lt;/h2&gt;
 
-&lt;p&gt;The &lt;a href=&quot;/&quot;&gt;homepage&lt;/a&gt; serves as a portfolio of sorts, with a series of projects that encompass the OctoFi ecosystem and its rollout. But in between major milestones such as &lt;a href=&quot;/project/token&quot;&gt;Octoken&lt;/a&gt;, &lt;a href=&quot;/project/aquafarm&quot;&gt;Aquafarm&lt;/a&gt;, and &lt;a href=&quot;/project/tentacles&quot;&gt;Tentacles&lt;/a&gt;, there are smaller but equally important deliverables.&lt;/p&gt;
+&lt;p&gt;The &lt;a href=&quot;/&quot;&gt;homepage&lt;/a&gt; serves as a roadmap of sorts, with a series of projects that encompass the OctoFi ecosystem and its rollout. But in between major milestones such as &lt;a href=&quot;/project/token&quot;&gt;Octoken&lt;/a&gt;, &lt;a href=&quot;/project/aquafarm&quot;&gt;Aquafarm&lt;/a&gt;, and &lt;a href=&quot;/project/tentacles&quot;&gt;Tentacles&lt;/a&gt;, there are smaller but equally important deliverables.&lt;/p&gt;
 
-&lt;p&gt;This post aims to demonstrate what lies ahead and very simply distill relevant information into different formats. This should hopefully ensure that the community remain on the same page as development, get involved with DAO at our &lt;a href=&quot;https://dao.octo.fi&quot;&gt;Snapshot Page&lt;/a&gt;, and that everything of importance is captured clearly and concisely.&lt;/p&gt;
+&lt;p&gt;This post aims to demonstrate what lies ahead (at time of writing) and very simply distill relevant information into different formats. This should hopefully ensure that the community remain on the same page as development, get involved with DAO at our &lt;a href=&quot;https://dao.octo.fi&quot;&gt;Snapshot Page&lt;/a&gt;, and that everything of importance is captured clearly and concisely.&lt;/p&gt;
 
 &lt;h2 id=&quot;roadmap&quot;&gt;Roadmap&lt;/h2&gt;
 
@@ -21,17 +21,12 @@
     &lt;tr&gt;
       &lt;th&gt;Project&lt;/th&gt;
       &lt;th&gt;Progress&lt;/th&gt;
-      &lt;th&gt;Release date&lt;/th&gt;
+      &lt;th&gt;Release&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
       &lt;td&gt;Octoken&lt;/td&gt;
-      &lt;td&gt;&lt;img src=&quot;https://progress-bar.dev/100/?width=200&quot; alt=&quot;100% complete&quot; /&gt;&lt;/td&gt;
-      &lt;td&gt;COMPLETE&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Aquafarm&lt;/td&gt;
       &lt;td&gt;&lt;img src=&quot;https://progress-bar.dev/100/?width=200&quot; alt=&quot;100% complete&quot; /&gt;&lt;/td&gt;
       &lt;td&gt;ACTIVE&lt;/td&gt;
     &lt;/tr&gt;
@@ -42,17 +37,22 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;DEX/CEX&lt;/td&gt;
-      &lt;td&gt;&lt;img src=&quot;https://progress-bar.dev/90/?width=200&quot; alt=&quot;90% complete&quot; /&gt;&lt;/td&gt;
-      &lt;td&gt;IN PROGRESS&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;https://progress-bar.dev/70/?width=200&quot; alt=&quot;70% complete&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;ACTIVE&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Aquafarm&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;https://progress-bar.dev/60/?width=200&quot; alt=&quot;60% complete&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;ACTIVE&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Aquarium&lt;/td&gt;
-      &lt;td&gt;&lt;img src=&quot;https://progress-bar.dev/75/?width=200&quot; alt=&quot;75% complete&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;https://progress-bar.dev/60/?width=200&quot; alt=&quot;60% complete&quot; /&gt;&lt;/td&gt;
       &lt;td&gt;IN PROGRESS&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Tentacles&lt;/td&gt;
-      &lt;td&gt;&lt;img src=&quot;https://progress-bar.dev/60/?width=200&quot; alt=&quot;60% complete&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;https://progress-bar.dev/40/?width=200&quot; alt=&quot;40% complete&quot; /&gt;&lt;/td&gt;
       &lt;td&gt;IN PROGRESS&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
