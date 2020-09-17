@@ -57,6 +57,10 @@
 <lastmod>2020-09-17T10:03:00+10:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/blog/vote-1</loc>
+<lastmod>2020-09-18T00:30:00+10:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/project/token</loc>
 <lastmod>2020-08-07T10:00:00+10:00</lastmod>
 </url>
@@ -84,5 +88,8 @@
 </url>
 <url>
 <loc>http://localhost:4000/blog/page-2/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/blog/page-3/</loc>
 </url>
 </urlset>

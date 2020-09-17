@@ -1,4 +1,18 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-09-17T15:32:05+10:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">octofidotcom</title><subtitle>Website for OctoFi: Decentralized Finance Tentacles. Hosted on Github Pages.</subtitle><entry><title type="html">Simple Breakdown of the OctoFi Project Roadmap</title><link href="http://localhost:4000/blog/roadmap" rel="alternate" type="text/html" title="Simple Breakdown of the OctoFi Project Roadmap" /><published>2020-09-17T10:03:00+10:00</published><updated>2020-09-17T10:03:00+10:00</updated><id>http://localhost:4000/blog/roadmap</id><content type="html" xml:base="http://localhost:4000/blog/roadmap">&lt;p&gt;&lt;em&gt;Last updated 17 Sep 20&lt;/em&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-09-18T00:53:48+10:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">octofidotcom</title><subtitle>Website for OctoFi: Decentralized Finance Tentacles. Hosted on Github Pages.</subtitle><entry><title type="html">Farm, CEX, Audit, and Liquidity Voting Open Now!</title><link href="http://localhost:4000/blog/vote-1" rel="alternate" type="text/html" title="Farm, CEX, Audit, and Liquidity Voting Open Now!" /><published>2020-09-18T00:30:00+10:00</published><updated>2020-09-18T00:30:00+10:00</updated><id>http://localhost:4000/blog/vote-1</id><content type="html" xml:base="http://localhost:4000/blog/vote-1">&lt;p&gt;The first batch of community governance porposals are ready for your votes. Simply go to &lt;a href=&quot;https://dao.octo.fi&quot;&gt;dao.octo.fi&lt;/a&gt;, check the proposals, and have your say.&lt;/p&gt;
+
+&lt;p&gt;If you need instructions on using Snapshot check OIP-0.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Proposals:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://snapshot.page/#/octofi/proposal/QmWHHTcf4tF4XvJSyaZzL5BmhV2xwoFvBh5rBoqGWXvGvi&quot;&gt;OIP-0 How To Use Snapshot &amp;amp; Create Proposals&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://snapshot.page/#/octofi/proposal/QmPiv1s8wC3m6DbmR8PHbiMBu4VgxTneTqn2qKdReoAnHm&quot;&gt;OIP-1 Adding of functions to Aquafarm&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://snapshot.page/#/octofi/proposal/QmcTFXc7U8114JVCRrBmCTzkrTzqi5RKtk16wrKksLcfjY&quot;&gt;OIP-2 CEX Listings&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://snapshot.page/#/octofi/proposal/QmSdchXdZP4hi3TgzH8pT52QV3w1AFVNbSkGp4a9Koq3xC&quot;&gt;OIP-3 Smart Contract Audit&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://snapshot.page/#/octofi/proposal/QmUTqc1mXiVkZ4xTnJCBK3ExNHwQkxCZGrkx5D9EA83iBZ&quot;&gt;OIP-4 Adding of Uniswap liquidity&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Do Your Octopus Research #DYOR&lt;/p&gt;</content><author><name></name></author><summary type="html">The first batch of community governance porposals are ready for your votes. Simply go to dao.octo.fi, check the proposals, and have your say.</summary></entry><entry><title type="html">Simple Breakdown of the OctoFi Project Roadmap</title><link href="http://localhost:4000/blog/roadmap" rel="alternate" type="text/html" title="Simple Breakdown of the OctoFi Project Roadmap" /><published>2020-09-17T10:03:00+10:00</published><updated>2020-09-17T10:03:00+10:00</updated><id>http://localhost:4000/blog/roadmap</id><content type="html" xml:base="http://localhost:4000/blog/roadmap">&lt;p&gt;&lt;em&gt;Last updated 17 Sep 20&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;Open source software projects with distributed teams are complex beasts with many dependencies, asynchronous communications, and endless moving parts.&lt;/p&gt;
 
@@ -691,49 +705,4 @@ OIP-[consecutive number] Title of your Proposal&lt;/li&gt;
 
 &lt;p&gt;Anything we have to say will hit the blog first and is shared to Twitter, our Telegram Channel, and our mailing list. You can find all those &lt;a href=&quot;#get-updates&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;Pro tip: our mailing list is hooked up to our &lt;a href=&quot;https://octo.fi/feed.xml&quot;&gt;RSS feed&lt;/a&gt; and bonding curve commences 14 September 2020 at 00:00 UTC at &lt;a href=&quot;https://buy.octo.fi&quot;&gt;buy.octo.fi&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html">TL;DR - If it ain’t organic, it ain’t community.</summary></entry><entry><title type="html">Project Reserve for Transparent Improvement Funding</title><link href="http://localhost:4000/blog/project-reserve" rel="alternate" type="text/html" title="Project Reserve for Transparent Improvement Funding" /><published>2020-08-28T10:00:00+10:00</published><updated>2020-08-28T10:00:00+10:00</updated><id>http://localhost:4000/blog/project-reserve</id><content type="html" xml:base="http://localhost:4000/blog/project-reserve">&lt;p&gt;Openness and transparency are central to OctoFi’s mission in the delivery of decentralized finance &lt;s&gt;oracles&lt;/s&gt; tentacles. Innovation will be supported by a dedicated fund of governance tokens, or a project reserve, that shall be delegated to foster progress and developments within the DeFi ecosystem.&lt;/p&gt;
-
-&lt;p&gt;As a truly community focused initiative, incentives are aligned to the benefit of stakeholders and the long term viability of the project itself. The OctoFi reserve is designed with two main objectives in mind:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;&lt;strong&gt;The Autonomist:&lt;/strong&gt; within the ecosystem, &lt;a href=&quot;https://octo.fi/blog/gov-token-mech&quot;&gt;governance token mechanisms&lt;/a&gt; enable DAO participants to leverage Aragon in such a way that complete autonomy is achievable, and accelerated for the greater good.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;The Innovator:&lt;/strong&gt; project reserve funding shall be disbursed through the Octagon, a concept for community governed support of transparent (and accountable) contributions to open data initiatives within decentralized finance.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&quot;project-reserve-structure&quot;&gt;Project reserve structure&lt;/h2&gt;
-
-&lt;p&gt;With these objectives concerning accelerating autonomy and fostering innovation in mind, OctoFi has allocated 275,000 OCTO to the project reserve — representing 34.375% of the total supply of 800k.&lt;/p&gt;
-
-&lt;p&gt;Community-driven deployment of funds are intended to incentivise the open-source development of additional dapps, and supporting infrastructure for truly open and transparent data &lt;s&gt;oracles&lt;/s&gt; tentacles.&lt;/p&gt;
-
-&lt;h3 id=&quot;project-reserve-governance&quot;&gt;Project reserve governance&lt;/h3&gt;
-
-&lt;p&gt;Stakeholders are empowered to propose and vote on governance matters for the decentralized autonomous organization (DAO) deployed to the Aragon platform. The allocation and disbursement of funds relating to the project reserve is decided on by OCTO governance token holders themselves.&lt;/p&gt;
-
-&lt;p&gt;We understand the importance of effectively and efficiently managing these decisions and are committed to ensuring the best possible transition between launch and complete decentralization of project governance. Further details will be provided in the near future regarding early stage proposals and instructions for submission.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-octagon&quot;&gt;The Octagon&lt;/h2&gt;
-
-&lt;p&gt;Although in its early stages of development, the Octagon concept is based loosely on the ‘lab’ model, but tailored to community governance and incentives. While OctoFi as an ecosystem is intended to be fully autonomous, it’s important that stakeholders are met with the resources required to actually support innovation. That is, to incentivise the adoption of scalable &lt;s&gt;oracle&lt;/s&gt; tentacle infrastructure, both crowd sourced and crowd supported.&lt;/p&gt;
-
-&lt;p&gt;The OctoFi ecosystem is intended to provide the foundation for development of new data-driven applications, as well as the improvement of those already in operation. It is critical that the project reserve is managed with the best interests of the broader DeFi community in mind, as it is a collaborative approach, and by no means monopoly, that will enable the uprooting of legacy financial systems in favor of those which are decentralized.&lt;/p&gt;
-
-&lt;h3 id=&quot;the-octagon-structure&quot;&gt;The Octagon structure&lt;/h3&gt;
-
-&lt;p&gt;While the finer details of how the Octagon shall operate are essentially an upcoming governance decision, the basics are as follows:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;A think tank of thought leaders&lt;/strong&gt; focused on data and its utilisation throughout the DeFi space, including those well-versed in exchange, lending, trading, derivatives, insurance, interoperability, predictive technologies (such as AI/ML), and data privacy.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;A cohort of researchers and technologists&lt;/strong&gt; focused on the advancement of open-source contributions to R&amp;amp;D for infrastructure and applications that showcase the importance of an unambiguous data economy.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;A community of idealists&lt;/strong&gt; who are dedicated to protecting the integrity of the ecosystem by assembling to share ideas, proposals, criticisms, general knowledge, and host meaningful discussions that help shape OctoFi strategically.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;looking-ahead&quot;&gt;Looking ahead&lt;/h2&gt;
-
-&lt;p&gt;While OCTO holders are the ones granted rights to vote on project governance, the Octagon is intended to be open to all contributors, even those who are not stakeholders.&lt;/p&gt;
-
-&lt;p&gt;Their contributions are obviously limited in that they will not hold voting rights, but the community nature of the system is best aligned with open-source software practices.&lt;/p&gt;
-
-&lt;p&gt;In future posts we will deep dive into the governance platform at &lt;a href=&quot;https://dao.octo.fi&quot;&gt;dao.octo.fi&lt;/a&gt; in order to better demonstrate its functionality.&lt;/p&gt;
-
-&lt;p&gt;In the meantime, the team is focused on Octoken, the bonding curve commencing on 14 September 2020 at 00:00 UTC at &lt;a href=&quot;https://buy.octo.fi&quot;&gt;buy.octo.fi&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html">Openness and transparency are central to OctoFi’s mission in the delivery of decentralized finance oracles tentacles. Innovation will be supported by a dedicated fund of governance tokens, or a project reserve, that shall be delegated to foster progress and developments within the DeFi ecosystem.</summary></entry></feed>
+&lt;p&gt;Pro tip: our mailing list is hooked up to our &lt;a href=&quot;https://octo.fi/feed.xml&quot;&gt;RSS feed&lt;/a&gt; and bonding curve commences 14 September 2020 at 00:00 UTC at &lt;a href=&quot;https://buy.octo.fi&quot;&gt;buy.octo.fi&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html">TL;DR - If it ain’t organic, it ain’t community.</summary></entry></feed>
