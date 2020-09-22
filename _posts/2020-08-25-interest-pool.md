@@ -44,7 +44,7 @@ To better incentivize mid to long term runtimes, the 200,000 OCTO allocation is 
 * 100,000 for interest program yield payments
 * 100,000 for interest program airdrop payments
 
-Airdrops are specified as 100 OCTO to each address that successfully completes six (6) months runtime of the interest program — obviously limited to the first 1,000 holders to do so.
+Airdrops are specified as 100 OCTO to each address that successfully deposits a total of 100 OCTO[^1] and completes six (6) months runtime of the interest program — obviously limited to the first 1,000 holders to do so.
 
 ## Interest program future
 
@@ -59,3 +59,5 @@ In the leadup to the launch of the interest program we will publish official tut
 Full details of the Octoken bonding curve distribution and decentralized exchange allocation of the OCTO governance token are [available here](/project/token).
 
 In the meantime, come and wrap your tenties around our octoMemes on [twitter](https://twitter.com/octofinance).
+
+[^1]: Deposits less than 100 OCTO are still eligible, provided that additional deposits from same address total 100 OCTO. If less than 1000 addresses lock 100 OCTO for 6 months, and a portion of the 100k allocation remains, deposits of lesser amounts will be considered for airdrops of the remainder. This would be decided by way of community governance vote and prioritized in order of amount deposited (addresses who have deposited closer to 100 OCTO rank higher).
