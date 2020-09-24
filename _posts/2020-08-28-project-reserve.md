@@ -9,8 +9,8 @@ Openness and transparency are central to OctoFi’s mission in the delivery of d
 
 As a truly community focused initiative, incentives are aligned to the benefit of stakeholders and the long term viability of the project itself. The OctoFi reserve is designed with two main objectives in mind:
 
-1. **The Autonomist:** within the ecosystem, [governance token mechanisms](https://octo.fi/blog/gov-token-mech) enable DAO participants to leverage Aragon in such a way that complete autonomy is achievable, and accelerated for the greater good.
-2. **The Innovator:** project reserve funding shall be disbursed through the Octagon, a concept for community governed support of transparent (and accountable) contributions to open data initiatives within decentralized finance. 
+1. **Autonomy:** within the ecosystem, [governance token mechanisms](https://octo.fi/blog/gov-token-mech) enable DAO participants to leverage Aragon in such a way that complete autonomy is achievable, and accelerated for the greater good.
+2. **Innovation:** project reserve funding shall be disbursed through the Octagon, a concept for community governed support of transparent (and accountable) contributions to open data initiatives within decentralized finance. 
 
 ## Project reserve structure
 

@@ -31,7 +31,7 @@ There should be no single points of failure when we are pioneering decentralized
 
 ## Introducing OctoFi
 
-OctoFi is a next generation open source platform providing decentralized finance oracles tentacles for DeFi. We believe that the term ‘oracle’ itself implies unreasonable dependence on a single source of truth. In most cases, an oracle is viewed as singular, and while we appreciate their importance, we foresee the existence of many, all of which are auditable against one another. 
+OctoFi is a next generation open source platform providing decentralized finance <s>oracles</s> tentacles for DeFi. We believe that the term ‘oracle’ itself implies unreasonable dependence on a single source of truth. In most cases, an oracle is viewed as singular, and while we appreciate their importance, we foresee the existence of many, all of which are auditable against one another. 
 
 Within the decentralized finance world, individuals shall act as proxies to an aggregation of oracular data sources, in order to optimize their own participation and interaction with an ever expanding landscape of protocols. 
 
