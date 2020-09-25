@@ -10,12 +10,12 @@ menu_settings:
   menu_items:
     - title: 'Roadmap'
       url: '/'
-    - title: 'Github'
-      url: 'https://github.com/octofi'
+    - title: 'Start_Here'
+      url: 'https://docs.octo.fi'
     - title: 'Community'
       url: 'https://t.me/OctoFiCommunity'
-    - title: 'Docs'
-      url: 'https://docs.octo.fi'
+    - title: 'Github'
+      url: 'https://github.com/octofi'
     - title: 'Blog'
       url: '/blog/'
 
