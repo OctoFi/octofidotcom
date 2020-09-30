@@ -65,6 +65,10 @@
 <lastmod>2020-09-25T16:00:00+10:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/blog/vote-2</loc>
+<lastmod>2020-09-30T11:00:00+10:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/project/token</loc>
 <lastmod>2020-08-07T10:00:00+10:00</lastmod>
 </url>

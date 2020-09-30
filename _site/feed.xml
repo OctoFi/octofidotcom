@@ -1,4 +1,29 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-09-29T03:34:55+10:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">octofidotcom</title><subtitle>Website for OctoFi: Decentralized Finance Tentacles. Hosted on Github Pages.</subtitle><entry><title type="html">Brace Yourselves, OCTObrrr is coming…</title><link href="http://localhost:4000/blog/octobrrr" rel="alternate" type="text/html" title="Brace Yourselves, OCTObrrr is coming..." /><published>2020-09-25T16:00:00+10:00</published><updated>2020-09-25T16:00:00+10:00</updated><id>http://localhost:4000/blog/octobrrr</id><content type="html" xml:base="http://localhost:4000/blog/octobrrr">&lt;p&gt;OctoFi is a community driven project that relies on grassroots promotion from a passionate community of octonauts. Since day one, we’ve been very fortunate to have struck a chord with a cohort of early adopters.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-09-30T18:40:52+10:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">octofidotcom</title><subtitle>Website for OctoFi: Decentralized Finance Tentacles. Hosted on Github Pages.</subtitle><entry><title type="html">Aquafarm and CEX votes closed, CM Reward voting open!</title><link href="http://localhost:4000/blog/vote-2" rel="alternate" type="text/html" title="Aquafarm and CEX votes closed, CM Reward voting open!" /><published>2020-09-30T11:00:00+10:00</published><updated>2020-09-30T11:00:00+10:00</updated><id>http://localhost:4000/blog/vote-2</id><content type="html" xml:base="http://localhost:4000/blog/vote-2">&lt;p&gt;Tomorrow is the month we’ve all been waiting for and it’s almost #OCTOBRRR!&lt;/p&gt;
+
+&lt;p&gt;The following community governance votes just came to a close. Click through to see the results:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://snapshot.page/#/octofi/proposal/QmPiv1s8wC3m6DbmR8PHbiMBu4VgxTneTqn2qKdReoAnHm&quot;&gt;OIP-1 Adding of functions to Aquafarm&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://snapshot.page/#/octofi/proposal/QmcTFXc7U8114JVCRrBmCTzkrTzqi5RKtk16wrKksLcfjY&quot;&gt;OIP-2 CEX Listings&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;As you might already know, we go to the community for all important decisions. Like these two recent ones for adding Uniswap liquidity:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://snapshot.page/#/octofi/proposal/QmUTqc1mXiVkZ4xTnJCBK3ExNHwQkxCZGrkx5D9EA83iBZ&quot;&gt;OIP-4 Adding of Uniswap liquidity&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://snapshot.page/#/octofi/proposal/QmRGRQVzWDRcLq32hL6n41n8UJqJu7w1DS5H6wuH1duPnh&quot;&gt;OIP-5 Adding of Uniswap liquidity&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;New proposals ready for your votes:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://snapshot.page/#/octofi/proposal/QmZg2SnCzxQ7a2b4JMmEr8VnFVHBfLQYurfZeopFXL9pks&quot;&gt;OIP-6 Reward for founder of OctoFi Telegram Community&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;…OIP-7 up next for vote on which CEX we launch with first using funds allocated with OIP-2!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;If you need instructions, check &lt;a href=&quot;https://docs.snapshot.page/guides/vote-for-a-proposal&quot;&gt;the official steps&lt;/a&gt; on the Snapshot Docs that we &lt;a href=&quot;https://github.com/bonustrack/snapshot-docs/pull/1&quot;&gt;contributed to their GitHub&lt;/a&gt; recently.&lt;/p&gt;
+
+&lt;p&gt;Do Your Octopus Research #DYOR&lt;/p&gt;</content><author><name></name></author><summary type="html">Tomorrow is the month we’ve all been waiting for and it’s almost #OCTOBRRR!</summary></entry><entry><title type="html">Brace Yourselves, OCTObrrr is coming…</title><link href="http://localhost:4000/blog/octobrrr" rel="alternate" type="text/html" title="Brace Yourselves, OCTObrrr is coming..." /><published>2020-09-25T16:00:00+10:00</published><updated>2020-09-25T16:00:00+10:00</updated><id>http://localhost:4000/blog/octobrrr</id><content type="html" xml:base="http://localhost:4000/blog/octobrrr">&lt;p&gt;OctoFi is a community driven project that relies on grassroots promotion from a passionate community of octonauts. Since day one, we’ve been very fortunate to have struck a chord with a cohort of early adopters.&lt;/p&gt;
 
 &lt;p&gt;We’ve committed to setting a strong community-driven precedent, from going to DAO votes for &lt;a href=&quot;https://snapshot.page/#/octofi/proposal/QmUTqc1mXiVkZ4xTnJCBK3ExNHwQkxCZGrkx5D9EA83iBZ&quot;&gt;liquidity provisions&lt;/a&gt;, to having the community decide on &lt;a href=&quot;https://snapshot.page/#/octofi/proposal/QmPiv1s8wC3m6DbmR8PHbiMBu4VgxTneTqn2qKdReoAnHm&quot;&gt;what features should be added&lt;/a&gt; to Aquafarm.&lt;/p&gt;
 
@@ -672,53 +697,4 @@ OIP-[consecutive number] Title of your Proposal&lt;/li&gt;
       &lt;p&gt;&lt;a href=&quot;https://github.com/octofi/octofi-yield-smart-contract/blob/master/contracts/Octo_Yield.sol&quot;&gt;github.com/octofi/octofi-yield-smart-contract/blob/master/contracts/Octo_Yield.sol&lt;/a&gt; &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
-&lt;/div&gt;</content><author><name></name></author><summary type="html">Smart contract security is paramount for any decentralized application that holds or controls the flow of users’ hard-earned funds.</summary></entry><entry><title type="html">Public Testing of OctoFi DEX for Bonding Curve</title><link href="http://localhost:4000/blog/dex-test" rel="alternate" type="text/html" title="Public Testing of OctoFi DEX for Bonding Curve" /><published>2020-09-07T10:00:00+10:00</published><updated>2020-09-07T10:00:00+10:00</updated><id>http://localhost:4000/blog/dex-test</id><content type="html" xml:base="http://localhost:4000/blog/dex-test">&lt;p&gt;We have completed public testing of our DEX in preparation for our upcoming bonding curve sale. Please find the outcome below, which can serve well as a tutorial for those interested in participating.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Step 1:&lt;/strong&gt; Go to &lt;a href=&quot;https://buy.octo.fi&quot;&gt;buy.octo.fi&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/7-1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Step 2:&lt;/strong&gt; Click on “Connect Wallet” in the top right corner and connect with your favourite wallet&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/7-2.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Step 3:&lt;/strong&gt; Now as you are connected to our DEX, you have to access your Wallet with “My Wallet”&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/7-3.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Step 4:&lt;/strong&gt; Unlock your USDC by clicking on the small 🔒 (padlock icon) and confirm via Metamask prompt.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/7-4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Step 5:&lt;/strong&gt; Go back to the main frontend and set your market order (or limited order if you are able to wait until the order is filled) - Buy OCTO and you are done&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/7-5.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;All trades are visible over etherscan “DEX trades” (Octonerd fact: we are utilizing 0x Protocol).&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://etherscan.io/token/0x7240aC91f01233BaAf8b064248E80feaA5912BA3#tokenTrade&quot;&gt;etherscan.io/token/0x7240aC91f01233BaAf8b064248E80feaA5912BA3#tokenTrade&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/7-6.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;We have tested everything and set a high standard, as we plan to do so with all of our products. To check the first successful trade transactions go to: &lt;a href=&quot;https://etherscan.io/tx/0x54ca4bdccf90950817c145e96e1d6400197d698805e8b2ec65b87ab26a2413e7&quot;&gt;etherscan.io/tx/0x54ca4bdccf90950817c145e96e1d6400197d698805e8b2ec65b87ab26a2413e7&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;bonding-curve-summary&quot;&gt;Bonding Curve Summary&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Allocation of 125,000 OCTO for bonding curve sale&lt;/li&gt;
-  &lt;li&gt;Equates to 15.625% of total supply with 800,000 hard cap&lt;/li&gt;
-  &lt;li&gt;Starting 14 September 2020 at 00:00 UTC&lt;/li&gt;
-  &lt;li&gt;Ending when allocation sold out&lt;/li&gt;
-  &lt;li&gt;Initial price of $0.18&lt;/li&gt;
-  &lt;li&gt;Accepting USDC&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;All official announcements will be made on our blog first and foremost. Following completion of the bonding curve, we will announce official commencement for the interest program &lt;a href=&quot;https://earn.octo.fi&quot;&gt;earn.octo.fi&lt;/a&gt; with our &lt;a href=&quot;/project/aquafarm&quot;&gt;Aquafarm&lt;/a&gt;. The program will run perpetually until the interest program allocation is exhausted.&lt;/p&gt;
-
-&lt;p&gt;In the leadup to the launch of the interest program we will publish official tutorials and user guides on the blog for those interested in participating.&lt;/p&gt;
-
-&lt;p class=&quot;subtitle&quot;&gt;&lt;a href=&quot;https://twitter.com/octofinance/status/1305329689804681217?s=20&quot;&gt;🎉 Public sale complete&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Full details of the Octoken bonding curve distribution and decentralized exchange allocation of the OCTO governance token are &lt;a href=&quot;/project/token&quot;&gt;available here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Best wishes from your Octonauts in the OctoLab.&lt;/p&gt;</content><author><name></name></author><summary type="html">We have completed public testing of our DEX in preparation for our upcoming bonding curve sale. Please find the outcome below, which can serve well as a tutorial for those interested in participating.</summary></entry></feed>
+&lt;/div&gt;</content><author><name></name></author><summary type="html">Smart contract security is paramount for any decentralized application that holds or controls the flow of users’ hard-earned funds.</summary></entry></feed>
