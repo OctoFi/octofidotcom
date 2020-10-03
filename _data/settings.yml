@@ -8,13 +8,13 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'Roadmap'
-      url: '/'
-    - title: 'Start_Here'
+    - title: 'Docs'
       url: 'https://docs.octo.fi'
-    - title: 'Community'
-      url: 'https://t.me/OctoFiCommunity'
-    - title: 'Github'
+    - title: 'Governance'
+      url: 'https://dao.octo.fi'
+    - title: 'Interest'
+      url: 'https://earn.octo.fi/octo_interest.html'
+    - title: 'GitHub'
       url: 'https://github.com/octofi'
     - title: 'Blog'
       url: '/blog/'

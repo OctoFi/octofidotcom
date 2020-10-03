@@ -1,4 +1,43 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-09-30T18:40:52+10:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">octofidotcom</title><subtitle>Website for OctoFi: Decentralized Finance Tentacles. Hosted on Github Pages.</subtitle><entry><title type="html">Aquafarm and CEX votes closed, CM Reward voting open!</title><link href="http://localhost:4000/blog/vote-2" rel="alternate" type="text/html" title="Aquafarm and CEX votes closed, CM Reward voting open!" /><published>2020-09-30T11:00:00+10:00</published><updated>2020-09-30T11:00:00+10:00</updated><id>http://localhost:4000/blog/vote-2</id><content type="html" xml:base="http://localhost:4000/blog/vote-2">&lt;p&gt;Tomorrow is the month we’ve all been waiting for and it’s almost #OCTOBRRR!&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-10-03T15:26:22+10:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">octofidotcom</title><subtitle>Website for OctoFi: Decentralized Finance Tentacles. Hosted on Github Pages.</subtitle><entry><title type="html">The month of OCTOBRRR is finally here!</title><link href="http://localhost:4000/blog/octobrrr-is-here" rel="alternate" type="text/html" title="The month of OCTOBRRR is finally here!" /><published>2020-10-01T23:00:00+10:00</published><updated>2020-10-01T23:00:00+10:00</updated><id>http://localhost:4000/blog/octobrrr-is-here</id><content type="html" xml:base="http://localhost:4000/blog/octobrrr-is-here">&lt;p&gt;The long awaited month of &lt;strong&gt;$OCTO #BRRR&lt;/strong&gt; is upon us! Let’s take a look at what October has in store for octonauts.&lt;/p&gt;
+
+&lt;p&gt;First of all, we were &lt;a href=&quot;https://www.producthunt.com/posts/octofi&quot;&gt;FEATURED on Product Hunt&lt;/a&gt;, meaning we’ve made it to the home page! And then we ended up getting #5 Product of the Day!! If you like what we’re doing, you’re welcome to upvote.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.producthunt.com/posts/octofi?utm_source=badge-featured&amp;amp;utm_medium=badge&amp;amp;utm_souce=badge-octofi&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=269073&amp;amp;theme=light&quot; alt=&quot;OctoFi - DeFi dashboard for decentralized finance tentacles | Product Hunt&quot; style=&quot;width: 250px; height: 54px;&quot; width=&quot;250&quot; height=&quot;54&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Why PH? Well… we’ve just dropped a brand new product! We deployed our DeFi Dashboard for decentralized finance &lt;s&gt;oracles&lt;/s&gt; tentacles to &lt;a href=&quot;https://app.octo.fi&quot;&gt;app.octo.fi&lt;/a&gt;. We appreciate your patience with this initial release, and please keep in mind it’s a work in progress . We are still squashing bugs, completing the rollout of new features, and creating a wonderful experience that octonauts can get used to!&lt;/p&gt;
+
+&lt;p&gt;We want to help you track your DeFi portfolio, find new investment opportunities, buy and sell directly, and wrap your tentacles around a sea of gains. Keep it simple. Bring salt and pepper to the table.&lt;/p&gt;
+
+&lt;p&gt;After we’ve finalised the dashboard, we’ll turn our focus to building &lt;a href=&quot;https://docs.octo.fi/docs/tentacles/&quot;&gt;Tentacles&lt;/a&gt;. The new dapp will serve as homebase for our incentivised oracle platform too!&lt;/p&gt;
+
+&lt;p&gt;If you’ve spent any time on Twitter, you’ve probably noticed our first ever Non-Fungible Tentacle (NFT) doing the rounds (&lt;a href=&quot;https://twitter.com/octofinance/status/1311543556637483008?s=20&quot;&gt;don’t forget to enter the giveaway&lt;/a&gt;). Every OctoFi NFT will be limited to a minting of eight, and we are doing eight giveaways throughout October.&lt;/p&gt;
+
+&lt;p&gt;The community recently &lt;a href=&quot;https://snapshot.page/#/octofi/proposal/QmcTFXc7U8114JVCRrBmCTzkrTzqi5RKtk16wrKksLcfjY&quot;&gt;voted to allocate 20,000 USDC&lt;/a&gt; toward CEX listings. We’ve been in contact with quite a few and have taken care to complete applications with the reputable ones. OIP-7 allows you to vote on which exchange you’d like to launch with first.&lt;/p&gt;
+
+&lt;p&gt;October’s schedule is packed full with updates to &lt;a href=&quot;https://app.octo.fi&quot;&gt;app.octo.fi&lt;/a&gt; and we will be publishing a bunch of new blog posts exploring the features and future plans. All these new additions will go toward improving our documentation site too.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;DeFi Dasboard Roadmap (OctoFest)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Adding Lending (Compound, Cream, Aave, Maker)&lt;/li&gt;
+  &lt;li&gt;Adding TokenSet&lt;/li&gt;
+  &lt;li&gt;Adding PoolTogether&lt;/li&gt;
+  &lt;li&gt;Top Gainers &amp;amp; Losers&lt;/li&gt;
+  &lt;li&gt;Adding liquidity to Uniswap with OCTO incentives&lt;/li&gt;
+  &lt;li&gt;More… This is just the beginning!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;If you’re wondering what these additional features are, you can take a look at the &lt;a href=&quot;https://github.com/octofi/octofi-app-aquafarm&quot;&gt;GitHub repo for the new dapp&lt;/a&gt;. There’s a brief list of what’s coming, along with mention of OctoMask, something else we’ll be unveiling this month.&lt;/p&gt;
+
+&lt;p&gt;As always, we are committed to accountability and will be releasing the 3rd &lt;a href=&quot;https://docs.octo.fi/docs/aquarium/&quot;&gt;Aquarium transparency report&lt;/a&gt;. There’s also plans for an AMA so that we can answer all your burning questions.&lt;/p&gt;
+
+&lt;p&gt;There’s plenty more planned but only so much time to blog about it. So stay tuned, check in on Tentavision every so often at &lt;a href=&quot;https://tv.octo.fi&quot;&gt;tv.octo.fi&lt;/a&gt;, and look forward to us sharing our plans for the rest of 2020 towards the end of the month.&lt;/p&gt;
+
+&lt;p&gt;In the meantime, we’re gonna be making some noise and stretching our tentacles out far and wide. So if any frentacles come asking about the ocotpus, give them this:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/octobrrr.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;PS. None of this is Finantacle Advice. Do Your Octopus Research #DYOR.&lt;/em&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">The long awaited month of $OCTO #BRRR is upon us! Let’s take a look at what October has in store for octonauts.</summary></entry><entry><title type="html">Aquafarm and CEX votes closed, CM Reward voting open!</title><link href="http://localhost:4000/blog/vote-2" rel="alternate" type="text/html" title="Aquafarm and CEX votes closed, CM Reward voting open!" /><published>2020-09-30T11:00:00+10:00</published><updated>2020-09-30T11:00:00+10:00</updated><id>http://localhost:4000/blog/vote-2</id><content type="html" xml:base="http://localhost:4000/blog/vote-2">&lt;p&gt;Tomorrow is the month we’ve all been waiting for and it’s almost #OCTOBRRR!&lt;/p&gt;
 
 &lt;p&gt;The following community governance votes just came to a close. Click through to see the results:&lt;/p&gt;
 
@@ -595,106 +634,4 @@ OIP-[consecutive number] Title of your Proposal&lt;/li&gt;
 
 &lt;p&gt;&lt;em&gt;This document does not constitute nor imply a final technical specification of OCTO. Information presented in this transparency report, technical or otherwise, is meant to outline general ideas, designs and use-cases and is subject to change with or without notice. For the latest up-to-date technical specifications, check out the updates and documentations on the official website www.octo.fi. The graphs, charts and other visual aids are provided for informational purposes only. None of these graphs, charts or visual aids can and of themselves be used to make investment decisions. No representation is made that these will assist any person in making investment decisions and no graph, chart or other visual aid can capture all factors and variables required in making such decisions.&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;While this transparency report was compiled with the greatest care possible, it cannot be guaranteed that all information is complete or accurate. The information contained in this document may include, or incorporate by reference, forward-looking statements, which would include any statements that are not statements of historical fact. No representations or warranties are made as to the accuracy of such forward-looking statements. Any projections, forecasts and estimates contained in this document are necessarily speculative in nature and are based upon certain assumptions. These forward-looking statements may turn out to be wrong and can be affected by inaccurate assumptions or by known or unknown risks, uncertainties and other factors, most of which are beyond control. It can be expected that some or all of such forward-looking assumptions will not materialize or will vary significantly from actual results. For any questions on a specific subject covered in this document, please contact us on &lt;a href=&quot;mailto:hello@octo.fi&quot;&gt;hello@octo.fi&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">In an effort to provide full transparency for the actions of OctoFi, since the token deployment on 17 August 2020, we are providing the following comprehensive details on token holdings and use of tokens to date.</summary></entry><entry><title type="html">Smart Contract Security Audit</title><link href="http://localhost:4000/blog/security-audit" rel="alternate" type="text/html" title="Smart Contract Security Audit" /><published>2020-09-09T10:00:00+10:00</published><updated>2020-09-09T10:00:00+10:00</updated><id>http://localhost:4000/blog/security-audit</id><content type="html" xml:base="http://localhost:4000/blog/security-audit">&lt;p&gt;Smart contract security is paramount for any decentralized application that holds or controls the flow of users’ hard-earned funds.&lt;/p&gt;
-
-&lt;p&gt;While we at OctoFi have written our code with care and prioritized security, software bugs are an inevitable fact of life for even the most diligent of development teams.&lt;/p&gt;
-
-&lt;p&gt;Undergoing a security audit by a highly respected and thorough third party is of the utmost importance to ensuring our smart contracts run as designed. It also gives our users the confidence needed to deposit any amount of their cryptocurrency into the OctoFi Ecosystem.&lt;/p&gt;
-
-&lt;p&gt;This is why we are pleased to announce that the OctoFi smart contracts on the Ethereum blockchain are currently undergoing some security audits and two reports can already be perused.&lt;/p&gt;
-
-&lt;h2 id=&quot;procedure&quot;&gt;Procedure&lt;/h2&gt;
-
-&lt;p&gt;In the audit process, the following crucial features of the code are considered:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Whether the code conforms to the specification.&lt;/li&gt;
-  &lt;li&gt;Whether the code meets best coding practices.&lt;/li&gt;
-  &lt;li&gt;Whether the code is secure.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;The audit was done according to the following procedure:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Automated analysis:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Scan of project’s code base with Automated Scanner (Mythril, Slither, Solhint, HoneyBadger)&lt;/li&gt;
-  &lt;li&gt;Manually verification (reject or confirm) all the issues found by tools (SWC-Registry, Overflow)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Manual audit:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Inspection of the code and revert the initial algorithms of the protocol and then compare them with the specification&lt;/li&gt;
-  &lt;li&gt;Manually analyze the code for security vulnerabilities&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Report:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Reflect all the gathered information in a report&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;results&quot;&gt;Results&lt;/h2&gt;
-
-&lt;h3 id=&quot;octo-token-erc20-based-on-ethereum&quot;&gt;OCTO Token (ERC20) based on Ethereum&lt;/h3&gt;
-
-&lt;p&gt;Source: GitHub&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; Etherscan&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;MythX (Tool by ConsenSys)&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Findings: 3 (LOW)&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://github.com/octofi/octofi-smart-contract-audits/raw/master/octo-token/MythX_Audit_OCTO_Token_Contract.pdf&quot;&gt;Download Audit&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;Securify&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Findings: 2 (LOW)&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://github.com/octofi/octofi-smart-contract-audits/raw/master/octo-token/Securify_Audit_OCTO_Token_Contract.pdf&quot;&gt;Download Audit&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;octo-yield-smart-contract-based-on-ethereum&quot;&gt;OCTO Yield Smart Contract based on Ethereum&lt;/h3&gt;
-
-&lt;p&gt;Source: GitHub&lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;MythX (Tool by ConsenSys)&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Findings: 1 (LOW) 1 (MEDIUM)&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://github.com/octofi/octofi-smart-contract-audits/raw/master/octo-yield/MythX_Audit_OCTO_Yield_Contract.pdf&quot;&gt;Download Audit&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;Securify&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Findings: 13 (LOW)&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://github.com/octofi/octofi-smart-contract-audits/raw/master/octo-yield/Securify_Audit_OCTO_Yield_Contract.pdf&quot;&gt;Download Audit&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;summary&quot;&gt;Summary&lt;/h2&gt;
-
-&lt;p&gt;A majority of the code was standard and copied from widely-used and reviewed contracts and as a result, a lot of the code was reviewed before. It correctly implemented widely-used and reviewed contracts for safe mathematical operations.&lt;/p&gt;
-
-&lt;p&gt;The audit identified no major security vulnerabilities, at the moment of audit. A majority of the functions were self-explanatory, and standard documentation tags (such as @dev, @param, and @returns) were included.&lt;/p&gt;
-
-&lt;p&gt;The libraries used are based on OpenZepplin codebase, such as Roles, IERC20, SafeMath, SafeERC20 etc.&lt;/p&gt;
-
-&lt;h2 id=&quot;disclaimer&quot;&gt;Disclaimer&lt;/h2&gt;
-
-&lt;p&gt;&lt;em&gt;The audit does not give any warranties on the security of the code. One audit cannot be considered enough. It’s always recommended proceeding with several independent audits and a public bug bounty program to ensure the security of the code. Besides, security audit is not an investment advice.&lt;/em&gt;&lt;/p&gt;
-
-&lt;div class=&quot;footnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;https://github.com/octofi/octofi-erc20-smart-contract/blob/master/contracts/OCTO_Token.sol&quot;&gt;github.com/octofi/octofi-erc20-smart-contract/blob/master/contracts/OCTO_Token.sol&lt;/a&gt; &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:2&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;https://etherscan.io/address/0x7240aC91f01233BaAf8b064248E80feaA5912BA3#code&quot;&gt;etherscan.io/address/0x7240aC91f01233BaAf8b064248E80feaA5912BA3#code&lt;/a&gt; &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:3&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;https://github.com/octofi/octofi-yield-smart-contract/blob/master/contracts/Octo_Yield.sol&quot;&gt;github.com/octofi/octofi-yield-smart-contract/blob/master/contracts/Octo_Yield.sol&lt;/a&gt; &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;</content><author><name></name></author><summary type="html">Smart contract security is paramount for any decentralized application that holds or controls the flow of users’ hard-earned funds.</summary></entry></feed>
+&lt;p&gt;&lt;em&gt;While this transparency report was compiled with the greatest care possible, it cannot be guaranteed that all information is complete or accurate. The information contained in this document may include, or incorporate by reference, forward-looking statements, which would include any statements that are not statements of historical fact. No representations or warranties are made as to the accuracy of such forward-looking statements. Any projections, forecasts and estimates contained in this document are necessarily speculative in nature and are based upon certain assumptions. These forward-looking statements may turn out to be wrong and can be affected by inaccurate assumptions or by known or unknown risks, uncertainties and other factors, most of which are beyond control. It can be expected that some or all of such forward-looking assumptions will not materialize or will vary significantly from actual results. For any questions on a specific subject covered in this document, please contact us on &lt;a href=&quot;mailto:hello@octo.fi&quot;&gt;hello@octo.fi&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">In an effort to provide full transparency for the actions of OctoFi, since the token deployment on 17 August 2020, we are providing the following comprehensive details on token holdings and use of tokens to date.</summary></entry></feed>

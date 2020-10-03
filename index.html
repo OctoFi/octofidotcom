@@ -1,6 +1,6 @@
 ---
 layout: default
-overtitle: <p class="subtitle"><a href="/blog/octobrrr">🐙 OCTOBRRR is coming...</a></p>
+overtitle: <p class="subtitle"><a href="https://www.producthunt.com/posts/octofi">😻 Upvote on Product Hunt!</a></p>
 title: Decentralized Finance Tentacles
 description: A next-gen open source platform for decentralized finance <s>oracles</s> tentacles.
 featured_image: /images/social.jpg
@@ -19,7 +19,7 @@ featured_image: /images/social.jpg
 				<h1>{{ page.title }}</h1>
 				<p class="intro subtitle--light">
 				{{ page.description }}
-				<a href="" class="hero__cta button--fill contact-trigger js-contact">Launch Dapps</a>
+				<a href="https://app.octo.fi" class="hero__cta button--fill contact-trigger">Launch Dapp</a>
 				</p>
 			</div>
 			<div class="title">
@@ -30,7 +30,7 @@ featured_image: /images/social.jpg
 	<section class="hero">
 		<div class="wrap">
 				<div class="wrap-three grid logo-up">
-					<button class="btn-img"><a href="https://uniswap.info/token/0x7240ac91f01233baaf8b064248e80feaa5912ba3"><img src="/images/uniswap.png"></a></button><button class="btn-img"><a href="https://www.coingecko.com/en/coins/octofi"><img src="/images/coingecko.png"></a></button><button class="btn-img"><a href="https://www.stateofthedapps.com/dapps/octofi"><img src="/images/sod.png"></a></button><button class="btn-img"><a href="https://blockfolio.com/coin/OCTO"><img src="/images/blockfolio.png"></a></button><button class="btn-img"><a href="https://coinmarketcap.com/currencies/octofi/"><img src="/images/coinmarketcap.png"></a></button><button class="btn-img"><a href="https://trustwallet.com"><img src="/images/trustwallet.png"></a></button><button class="btn-img"><a href="https://www.livecoinwatch.com/price/OctoFi-OCTO"><img src="/images/livecoinwatch.png"></a></button><button class="btn-img"><a href="https://www.myetherwallet.com/"><img src="/images/mew.png"></a></button><button class="btn-img"><a href="https://coinpaprika.com/coin/octo-octofi/"><img src="/images/coinpaprika.png"></a></button><button class="btn-img"><a href="https://delta.app/en/crypto/octo*/octofi"><img src="/images/delta.png"></a></button>
+					<button class="btn-img"><a href="https://uniswap.info/token/0x7240ac91f01233baaf8b064248e80feaa5912ba3"><img src="/images/uniswap.png"></a></button><button class="btn-img"><a href="https://www.coingecko.com/en/coins/octofi"><img src="/images/coingecko.png"></a></button><button class="btn-img"><a href="https://nomics.com/assets/octo-octofi"><img src="/images/nomics.png"></a></button><button class="btn-img"><a href="https://blockfolio.com/coin/OCTO"><img src="/images/blockfolio.png"></a></button><button class="btn-img"><a href="https://coinmarketcap.com/currencies/octofi/"><img src="/images/coinmarketcap.png"></a></button><button class="btn-img"><a href="https://trustwallet.com"><img src="/images/trustwallet.png"></a></button><button class="btn-img"><a href="https://www.livecoinwatch.com/price/OctoFi-OCTO"><img src="/images/livecoinwatch.png"></a></button><button class="btn-img"><a href="https://www.myetherwallet.com/"><img src="/images/mew.png"></a></button><button class="btn-img"><a href="https://coinpaprika.com/coin/octo-octofi/"><img src="/images/coinpaprika.png"></a></button><button class="btn-img"><a href="https://delta.app/en/crypto/octo*/octofi"><img src="/images/delta.png"></a></button>
 				</div>
 		</div>
 	</section>
@@ -43,8 +43,11 @@ featured_image: /images/social.jpg
 			{% if project.accent_color %}{% capture accent_color %}{{ project.accent_color }}{% endcapture %}{% endif %}
 
 			<article class="project__preview">
+				{% if project.external_url %}
+				<h3 class="project__title"><a href="{{ project.external_url }}" style="--accent: {{ accent_color }}">{{ project.title }}</a></h3>
+				{% else %}
 				<h3 class="project__title"><a href="{{ project.url | relative_url }}" style="--accent: {{ accent_color }}">{{ project.title }}</a></h3>
-
+				{% endif %}
 				<div class="project__images owl-carousel" style="--accent: {{ accent_color }}">
 					{% for image in project.gallery_images %}
 					<a href="{{ project.url | relative_url }}"><img src="{{ '/images/projects/' | relative_url}}{{ image }}" alt="" class="project__image"></a>
@@ -55,8 +58,13 @@ featured_image: /images/social.jpg
 					<p class="project__subtitle subtitle--light">{{ project.subtitle }}</p>
 					<p class="project__description --small">
 						{{ project.description }}
+						{% if project.external_url %}
+						<a href="{{ project.external_url }}" class="project__link button--text --right"
+							style="color: {{ accent_color }}; --color-var: {{ accent_color }}" target="blank">Learn More</a>
+						{% else %}
 						<a href="{{ project.url | relative_url }}" class="project__link button--text --right"
-							style="color: {{ accent_color }}; --color-var: {{ accent_color }}">Project Links</a>
+							style="color: {{ accent_color }}; --color-var: {{ accent_color }}">Learn More</a>
+						{% endif %}
 					</p>
 				</div>
 			</article>
