@@ -1,6 +1,6 @@
 ---
 title: The month of OCTOBRRR is finally here!
-date: 2020-10-01 13:00:00
+date: 2020-10-03 00:00:00
 description: Let's celebrate the month of the octopus and welcome the arrival of our DeFi dashboard. 
 featured_image: '/images/17.jpg'
 ---
