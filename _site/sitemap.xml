@@ -70,7 +70,11 @@
 </url>
 <url>
 <loc>http://localhost:4000/blog/octobrrr-is-here</loc>
-<lastmod>2020-10-01T23:00:00+10:00</lastmod>
+<lastmod>2020-10-03T10:00:00+10:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/blog/aquafarm</loc>
+<lastmod>2020-10-07T00:30:00+11:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/project/token</loc>

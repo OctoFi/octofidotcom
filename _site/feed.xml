@@ -1,4 +1,106 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-10-04T00:07:56+10:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">octofidotcom</title><subtitle>Website for OctoFi: Decentralized Finance Tentacles. Hosted on Github Pages.</subtitle><entry><title type="html">The month of OCTOBRRR is finally here!</title><link href="http://localhost:4000/blog/octobrrr-is-here" rel="alternate" type="text/html" title="The month of OCTOBRRR is finally here!" /><published>2020-10-01T23:00:00+10:00</published><updated>2020-10-01T23:00:00+10:00</updated><id>http://localhost:4000/blog/octobrrr-is-here</id><content type="html" xml:base="http://localhost:4000/blog/octobrrr-is-here">&lt;p&gt;The long awaited month of &lt;strong&gt;$OCTO #BRRR&lt;/strong&gt; is upon us! Let’s take a look at what October has in store for octonauts.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-10-07T00:58:39+11:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">octofidotcom</title><subtitle>Website for OctoFi: Decentralized Finance Tentacles. Hosted on Github Pages.</subtitle><entry><title type="html">Introducing Aquafarm: our brand new interface for all things OCTO</title><link href="http://localhost:4000/blog/aquafarm" rel="alternate" type="text/html" title="Introducing Aquafarm&amp;#58; our brand new interface for all things OCTO" /><published>2020-10-07T00:30:00+11:00</published><updated>2020-10-07T00:30:00+11:00</updated><id>http://localhost:4000/blog/aquafarm</id><content type="html" xml:base="http://localhost:4000/blog/aquafarm">&lt;p&gt;OCTOBRRR is humming along nicely as planned, our DeFi Dashboard is live at &lt;a href=&quot;https://app.octo.fi&quot;&gt;app.octo.fi&lt;/a&gt;, and it’s soon to be so much more…&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Track your portfolio, find new investment opportunities, buy and sell directly, and in future, interface with &lt;s&gt;oracles&lt;/s&gt; &lt;a href=&quot;https://docs.octo.fi/docs/tentacles/&quot;&gt;tentacles&lt;/a&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;There’s loads of updates on the way and exclusive incentives for OCTO governance token holders.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;center&gt;&lt;a href=&quot;https://www.producthunt.com/posts/octofi?utm_source=badge-featured&amp;amp;utm_medium=badge&amp;amp;utm_souce=badge-octofi&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=269073&amp;amp;theme=light&quot; alt=&quot;OctoFi - DeFi dashboard for decentralized finance tentacles | Product Hunt&quot; style=&quot;width: 250px; height: 54px;&quot; width=&quot;250&quot; height=&quot;54&quot; /&gt;&lt;/a&gt;&lt;/center&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Our &lt;a href=&quot;https://www.producthunt.com/posts/octofi&quot;&gt;Product Hunt (PH) launch&lt;/a&gt; went incredibly well thanks to the support of &lt;a href=&quot;https://t.me/OctoFiCommunity&quot;&gt;our amazing community&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;We couldn’t help but include this video embed on PH after EllioTrades (no affiliation) mentioned us on his YouTube channel. 😂&lt;/p&gt;
+
+&lt;div class=&quot;video-wrap full-width&quot;&gt;
+  &lt;iframe src=&quot;https://www.youtube-nocookie.com/embed/qWCng2WlJlQ?controls=0&amp;amp;start=1737&quot; width=&quot;640&quot; height=&quot;360&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;We were pleasantly suprised to not only be FEATURED on the home page, but also achieving #5 Product of the Day!&lt;/p&gt;
+
+&lt;p&gt;You’re still welcome to upvote if you like… The more upvotes we get, the better visibility we enjoy.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;center&gt;&lt;a href=&quot;https://www.producthunt.com/posts/octofi?utm_source=badge-top-post-badge&amp;amp;utm_medium=badge&amp;amp;utm_souce=badge-octofi&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://api.producthunt.com/widgets/embed-image/v1/top-post-badge.svg?post_id=269073&amp;amp;theme=light&amp;amp;period=daily&quot; alt=&quot;OctoFi - DeFi dashboard for decentralized finance tentacles | Product Hunt&quot; style=&quot;width: 250px; height: 54px;&quot; width=&quot;250&quot; height=&quot;54&quot; /&gt;&lt;/a&gt;&lt;/center&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;After such a warm welcome for our initial release, we’re excited to dive into the Aquafarm with you.&lt;/p&gt;
+
+&lt;p&gt;Here’s a quick rundown on the platform’s current features, what we’re working on now, and what’s planned for the future.&lt;/p&gt;
+
+&lt;h2 id=&quot;aquafarm&quot;&gt;Aquafarm&lt;/h2&gt;
+
+&lt;p&gt;First thing you’ll see when visiting &lt;a href=&quot;https://app.octo.fi&quot;&gt;app.octo.fi&lt;/a&gt; is the login page to connect your wallet.&lt;/p&gt;
+
+&lt;div class=&quot;gallery full-width&quot; data-columns=&quot;1&quot;&gt;&lt;img src=&quot;/images/app-mobile.png
+	&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;We allow you to connect with many of the popular wallets, including MetaMask, Ledger, Trezor, and thanks to Wallet Connect, everyone’s favourite mobile wallets too.&lt;/p&gt;
+
+&lt;h3 id=&quot;dashboard&quot;&gt;Dashboard&lt;/h3&gt;
+
+&lt;p&gt;Once connected, you’ll arrive at the dashboard where you get a simple overview of your account and its performance.&lt;/p&gt;
+
+&lt;div class=&quot;gallery full-width&quot; data-columns=&quot;1&quot;&gt;&lt;img src=&quot;/images/dashboard.png
+	&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;Keep track of the assets in your wallet, deposits, debts, and the different DeFi platforms you’ve interacted with.&lt;/p&gt;
+
+&lt;h3 id=&quot;invest&quot;&gt;Invest&lt;/h3&gt;
+
+&lt;p&gt;By clicking through to the Invest tab, you’ll be presented with thousands of investment opportunities.&lt;/p&gt;
+
+&lt;div class=&quot;gallery full-width&quot; data-columns=&quot;1&quot;&gt;&lt;img src=&quot;/images/invest-add.png
+	&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;You can discover many different pools to participate in as a liquidity provider, or click on “Invest” and add your own.&lt;/p&gt;
+
+&lt;h3 id=&quot;exchange&quot;&gt;Exchange&lt;/h3&gt;
+
+&lt;p&gt;The final tab we’re announcing with this release is the Exchange, which provides easy access to Uniswap protocol.&lt;/p&gt;
+
+&lt;div class=&quot;gallery full-width&quot; data-columns=&quot;1&quot;&gt;&lt;img src=&quot;/images/exchange.png
+	&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;If you are looking for our Interest Program, you can find the &lt;a href=&quot;https://docs.octo.fi/docs/aquafarm/interest-program/&quot;&gt;full details here&lt;/a&gt;, and it will soon be integrated with the new dapp.&lt;/p&gt;
+
+&lt;h2 id=&quot;whats-next&quot;&gt;What’s next?&lt;/h2&gt;
+
+&lt;p&gt;OCTOBRRR is just getting started, here’s what we’re currenty working on bringing to Aquafarm:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;History tab to display all of your Wallet transactions&lt;/li&gt;
+  &lt;li&gt;Implementing TokenSet into the investment opportunies&lt;/li&gt;
+  &lt;li&gt;Integrating our &lt;a href=&quot;https://snapshot.page&quot;&gt;Snapshot.page&lt;/a&gt; governance into the UI&lt;/li&gt;
+  &lt;li&gt;Dark / light mode for those DeFi late nights&lt;/li&gt;
+  &lt;li&gt;Explore tab&lt;/li&gt;
+  &lt;li&gt;First Beta version of Oracle aggregation (tentacles) as crypto market overview and price feed&lt;/li&gt;
+  &lt;li&gt;Fiat on-ramp into DeFi&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;We will also soon release our roadmap for &lt;strong&gt;Octomask,&lt;/strong&gt; the one and only browser plugin for ALL DeFi investment opportunities.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;OctoMask will have you covered, whether on Ethereum, Binance Smart Chain, Tron, EOS, Bitcoin DefiChain, and we’ll continue adding new chains (let’s make it to 8, the most octomized number of all 😂).&lt;/p&gt;
+
+&lt;h3 id=&quot;get-involved&quot;&gt;Get involved&lt;/h3&gt;
+
+&lt;p&gt;Aquafarm is &lt;strong&gt;completely open source&lt;/strong&gt; and is a &lt;strong&gt;work in progress.&lt;/strong&gt; We invite you to follow along as we &lt;strong&gt;‘work in public’&lt;/strong&gt; on its rollout.&lt;/p&gt;
+
+&lt;p&gt;You can get involved by grabbing yourself some &lt;a href=&quot;https://uniswap.octo.fi&quot;&gt;$OCTO&lt;/a&gt;, participating in &lt;a href=&quot;https://dao.octo.fi&quot;&gt;governance&lt;/a&gt; (gasless and absolutely free), and providing feedback as part of our &lt;a href=&quot;https://t.me/OctoFiCommunity&quot;&gt;thriving community&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Oh, and don’t forget to save our poster (below)…&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/octobrrr.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;PS. None of this is Finantacle Advice. Do Your Octopus Research #DYOR.&lt;/em&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">OCTOBRRR is humming along nicely as planned, our DeFi Dashboard is live at app.octo.fi, and it’s soon to be so much more…</summary></entry><entry><title type="html">The month of OCTOBRRR is finally here!</title><link href="http://localhost:4000/blog/octobrrr-is-here" rel="alternate" type="text/html" title="The month of OCTOBRRR is finally here!" /><published>2020-10-03T10:00:00+10:00</published><updated>2020-10-03T10:00:00+10:00</updated><id>http://localhost:4000/blog/octobrrr-is-here</id><content type="html" xml:base="http://localhost:4000/blog/octobrrr-is-here">&lt;p&gt;The long awaited month of &lt;strong&gt;$OCTO #BRRR&lt;/strong&gt; is upon us! Let’s take a look at what October has in store for octonauts.&lt;/p&gt;
 
 &lt;p&gt;First of all, we were &lt;a href=&quot;https://www.producthunt.com/posts/octofi&quot;&gt;FEATURED on Product Hunt&lt;/a&gt;, meaning we’ve made it to the home page! And then we ended up getting #5 Product of the Day!! If you like what we’re doing, you’re welcome to upvote.&lt;/p&gt;
 
@@ -562,76 +664,4 @@ OIP-[consecutive number] Title of your Proposal&lt;/li&gt;
 
 &lt;p&gt;Full details of the Octoken bonding curve distribution and decentralized exchange allocation of the OCTO governance token are &lt;a href=&quot;/project/token&quot;&gt;available here&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;Best wishes from Dr Octavius.&lt;/p&gt;</content><author><name></name></author><summary type="html">This tutorial explains how buy $OCTO by participating in our bonding curve sale on 14 September 2020 at 00:00 UTC.</summary></entry><entry><title type="html">Aquarium 001 (Transparency Report)</title><link href="http://localhost:4000/blog/aquarium-one" rel="alternate" type="text/html" title="Aquarium 001 (Transparency Report)" /><published>2020-09-13T10:00:00+10:00</published><updated>2020-09-13T10:00:00+10:00</updated><id>http://localhost:4000/blog/aquarium-one</id><content type="html" xml:base="http://localhost:4000/blog/aquarium-one">&lt;p&gt;In an effort to provide full transparency for the actions of OctoFi, since the token deployment on 17 August 2020, we are providing the following comprehensive details on token holdings and use of tokens to date.&lt;/p&gt;
-
-&lt;p&gt;Since deployment, we have completed several actions and moved a few tokens from the deployer address, which we want to keep transparent. We will also provide transparency reports on a monthly basis going forward. To that end, this is our first transparency report, and covers the period from first deployment on August 17 through September 11, 2020.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Use of tokens to date&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;The total 800,000 OCTO supply is allocated as follows:&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Bonding curve:&lt;/strong&gt; 125,000 OCTO for public sale commencing 14 September 2020 at 00:00 UTC as per the &lt;a href=&quot;/project/token&quot;&gt;details here.&lt;/a&gt; Holder: &lt;a href=&quot;https://etherscan.io/address/0xD06777d9b02F677214073cC3C5338904CBa7894a&quot;&gt;0xD06777d9b02F677214073cC3C5338904CBa7894a&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Interest program:&lt;/strong&gt; 200,000 OCTO split equally between interest yielding contract and airdrop, both reserved for private and public sale investors &lt;a href=&quot;/blog/interest-pool&quot;&gt;as shown&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Action: 200,000 OCTO&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;FROM: Deployer Wallet (&lt;a href=&quot;https://etherscan.io/address/0xD06777d9b02F677214073cC3C5338904CBa7894a&quot;&gt;0xD06777d9b02F677214073cC3C5338904CBa7894a&lt;/a&gt;)&lt;/p&gt;
-
-&lt;p&gt;TO: Yield Wallet (&lt;a href=&quot;https://etherscan.io/address/0xb51D93791E19D8CF1fDF1851AA97e7695A9135c0&quot;&gt;0xb51D93791E19D8CF1fDF1851AA97e7695A9135c0&lt;/a&gt;)&lt;/p&gt;
-
-&lt;p&gt;Tx: &lt;a href=&quot;https://etherscan.io/tx/0x4276dd25f6e24c9959c4beda09a5f487772019d2c94fd516947562bf3d2d202e&quot;&gt;0x4276dd25f6e24c9959c4beda09a5f487772019d2c94fd516947562bf3d2d202e&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Action (Testing): 50 OCTO&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;FROM: Deployer Wallet (&lt;a href=&quot;https://etherscan.io/address/0xD06777d9b02F677214073cC3C5338904CBa7894a&quot;&gt;0xD06777d9b02F677214073cC3C5338904CBa7894a&lt;/a&gt;)&lt;/p&gt;
-
-&lt;p&gt;TO: Account (&lt;a href=&quot;https://etherscan.io/address/0x73F29805198cCE93015bC960F47885CF6268ce85&quot;&gt;0x73F29805198cCE93015bC960F47885CF6268ce85&lt;/a&gt;)&lt;/p&gt;
-
-&lt;p&gt;Tx:
-&lt;a href=&quot;https://etherscan.io/tx/0xedcf1d415d4983860d0d22aea8dc7094f36c5e39ef95af0359fcd6370325f153&quot;&gt;0xedcf1d415d4983860d0d22aea8dc7094f36c5e39ef95af0359fcd6370325f153&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Early backers:&lt;/strong&gt; 200,000 OCTO among small strategic cohort gathered during inception to ensure best possible deployment and transition. Holder: &lt;a href=&quot;https://etherscan.io/address/0xD06777d9b02F677214073cC3C5338904CBa7894a&quot;&gt;0xD06777d9b02F677214073cC3C5338904CBa7894a&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Project reserve:&lt;/strong&gt; 275,000 OCTO assigned to transparent project fund for allocation by governance token holders pending decisions made on subsequent DAO proposals.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Action: 20 OCTO&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Uniswap Pair creation&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://uniswap.info/token/0x7240ac91f01233baaf8b064248e80feaa5912ba3&quot;&gt;uniswap.info/token/0x7240ac91f01233baaf8b064248e80feaa5912ba3&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;USDC/OCTO: &lt;a href=&quot;https://uniswap.info/pair/0x1b87fde6af5396165fdadf7f532784622a824abf&quot;&gt;uniswap.info/pair/0x1b87fde6af5396165fdadf7f532784622a824abf&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;WETH/OCTO: &lt;a href=&quot;https://uniswap.info/pair/0xd7cfbcadaaf6475321cfcf3884f15a93400be658&quot;&gt;uniswap.info/pair/0xd7cfbcadaaf6475321cfcf3884f15a93400be658&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;We have not sold and have no plans to sell tokens on the secondary market at this time, and reiterate our commitment that in advance of any selling of tokens, we will publicly share a structured selling plan with the community.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Upcoming transparency report coverage:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Batches Sold and associated Ethereum addresses&lt;/li&gt;
-  &lt;li&gt;Burned Tokens from unsold batches&lt;/li&gt;
-  &lt;li&gt;Allocation from funds associated with interest program, project fund, early investors, liquidity&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;After our bonding curve we will launch our DAO voting on &lt;strong&gt;snapshot.page&lt;/strong&gt;, instead of Aragon because of the current gas situation on ethereum main-net. Snapshot is an off-chain gasless multi-governance client with easy to verify and hard to contest results. Once &lt;a href=&quot;https://github.com/bonustrack/snapshot-spaces/pull/18&quot;&gt;our pull request has been merged&lt;/a&gt;, we will redirect the dao.octo.fi domain to &lt;a href=&quot;https://snapshot.page/#/octofi&quot;&gt;snapshot.page/#/octofi&lt;/a&gt; and later provide instructions on using the platform.&lt;/p&gt;
-
-&lt;p&gt;Also we are happy to now be verified on etherscan and looking forward to the decentralized autonomous future of the OctoFi project.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://etherscan.io/token/0x7240aC91f01233BaAf8b064248E80feaA5912BA3&quot;&gt;etherscan.io/token/0x7240aC91f01233BaAf8b064248E80feaA5912BA3&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;We keep constantly developing for our community and are happy to share in the next few days the results. As you know we keep everything open source, even the frontend code (most projects just publish the smart contracts) and are GitHub Pages hosted at the moment, because we are looking into P2P hosting without any centralized servers.&lt;/p&gt;
-
-&lt;p&gt;Check out our DeFi Oracle work: &lt;a href=&quot;https://github.com/octofi/tentacle&quot;&gt;github.com/octofi/tentacle&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;And other work so far: &lt;a href=&quot;https://github.com/octofi?tab=repositories&quot;&gt;github.com/octofi?tab=repositories&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Best greetings from your Octonauts&lt;/p&gt;
-
-&lt;p&gt;DISCLAIMER&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;This transparency report does not constitute nor imply a prospectus of any sort. No wording contained herein should be construed as a solicitation for investment. Accordingly, this transparency report does not pertain in any way to an offering of securities in any jurisdiction worldwide whatsoever. Rather, this transparency report constitutes a description of the development and distribution of OCTO. Do not trade or invest in any tokens, companies or entities based solely upon this information. Any investment involves substantial risks, including, but not limited to, pricing volatility, inadequate liquidity, and the potential complete loss of principal. Investors should conduct independent due diligence, with assistance from professional financial, legal and tax experts, on topics discussed in this document and develop a stand-alone judgment of the relevant markets prior to making any investment decision.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;This document does not constitute nor imply a final technical specification of OCTO. Information presented in this transparency report, technical or otherwise, is meant to outline general ideas, designs and use-cases and is subject to change with or without notice. For the latest up-to-date technical specifications, check out the updates and documentations on the official website www.octo.fi. The graphs, charts and other visual aids are provided for informational purposes only. None of these graphs, charts or visual aids can and of themselves be used to make investment decisions. No representation is made that these will assist any person in making investment decisions and no graph, chart or other visual aid can capture all factors and variables required in making such decisions.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;While this transparency report was compiled with the greatest care possible, it cannot be guaranteed that all information is complete or accurate. The information contained in this document may include, or incorporate by reference, forward-looking statements, which would include any statements that are not statements of historical fact. No representations or warranties are made as to the accuracy of such forward-looking statements. Any projections, forecasts and estimates contained in this document are necessarily speculative in nature and are based upon certain assumptions. These forward-looking statements may turn out to be wrong and can be affected by inaccurate assumptions or by known or unknown risks, uncertainties and other factors, most of which are beyond control. It can be expected that some or all of such forward-looking assumptions will not materialize or will vary significantly from actual results. For any questions on a specific subject covered in this document, please contact us on &lt;a href=&quot;mailto:hello@octo.fi&quot;&gt;hello@octo.fi&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">In an effort to provide full transparency for the actions of OctoFi, since the token deployment on 17 August 2020, we are providing the following comprehensive details on token holdings and use of tokens to date.</summary></entry></feed>
+&lt;p&gt;Best wishes from Dr Octavius.&lt;/p&gt;</content><author><name></name></author><summary type="html">This tutorial explains how buy $OCTO by participating in our bonding curve sale on 14 September 2020 at 00:00 UTC.</summary></entry></feed>
