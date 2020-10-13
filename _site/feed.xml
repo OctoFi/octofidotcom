@@ -1,4 +1,64 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-10-10T19:44:48+11:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">octofidotcom</title><subtitle>Website for OctoFi: Decentralized Finance Tentacles. Hosted on Github Pages.</subtitle><entry><title type="html">Aquarium 003 (Transparency Report)</title><link href="http://localhost:4000/blog/aquarium-three" rel="alternate" type="text/html" title="Aquarium 003 (Transparency Report)" /><published>2020-10-10T11:00:00+11:00</published><updated>2020-10-10T11:00:00+11:00</updated><id>http://localhost:4000/blog/aquarium-three</id><content type="html" xml:base="http://localhost:4000/blog/aquarium-three">&lt;p&gt;&lt;a href=&quot;https://docs.octo.fi/docs/aquarium/t003/&quot;&gt;&lt;em&gt;Originally published on docs.octo.fi&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-10-13T20:01:21+11:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">octofidotcom</title><subtitle>Website for OctoFi: Decentralized Finance Tentacles. Hosted on Github Pages.</subtitle><entry><title type="html">Memes, Merch, Streams, Updates, Listings, and More!</title><link href="http://localhost:4000/blog/octobrrr-update" rel="alternate" type="text/html" title="Memes, Merch, Streams, Updates, Listings, and More!" /><published>2020-10-13T11:00:00+11:00</published><updated>2020-10-13T11:00:00+11:00</updated><id>http://localhost:4000/blog/octobrrr-update</id><content type="html" xml:base="http://localhost:4000/blog/octobrrr-update">&lt;p&gt;Here’s something new. Quick and to the point updates, packed full of the good stuff. Let’s get right into it…&lt;/p&gt;
+
+&lt;h4 id=&quot;aquafarm-latest-release-01500&quot;&gt;Aquafarm Latest Release 01.50.0&lt;/h4&gt;
+
+&lt;p&gt;Restricted access to OCTO holders only, dark / light mode switch, change wallet connection and logout buttons, prepare TokenSet integration, Octobase and History preparation, various npm package updates.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.octo.fi/docs/changelog/#01500-october-12-2020&quot;&gt;Learn more »&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;oip-9-lock-project-reserve&quot;&gt;OIP-9 Lock Project Reserve&lt;/h4&gt;
+
+&lt;p&gt;Voting is now open to decide on how we can make OctoFi ‘rug-pull proof’ by implementing a solution and giving the community peace of mind.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://snapshot.page/#/octofi/proposal/QmS5eSLxrPa8XjihaPwYLXvy8BGBf7UrbXsK2UujdrrUrL&quot;&gt;Learn more »&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;sablier-integration&quot;&gt;Sablier Integration&lt;/h4&gt;
+
+&lt;p&gt;Now you can stream $OCTO in real time from any address to another. We’ve put the integration to good use by streaming the community founder reward to @pepethefirst.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://app.sablier.finance/stream/763&quot;&gt;Learn more »&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;3-trending-on-product-hunt-for-crypto&quot;&gt;#3 Trending on Product Hunt for Crypto&lt;/h4&gt;
+
+&lt;p&gt;We’ve been well received by the PH community, having already made it to #5 Product of the Day when we launched our dashboard, but things just keep getting better!&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/octofinance/status/1315527630595092480?s=20&quot;&gt;Learn more »&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;hotbit-listed-octo&quot;&gt;Hotbit Listed OCTO&lt;/h4&gt;
+
+&lt;p&gt;As a special gift to the community, to get things rolling and dip our tentacles into the deep blue CeFi, the team pooled together some personal funds to get listed along with a comprehensive promo package.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/Hotbit_news/status/1315607873632702464?s=20&quot;&gt;Learn more »&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;aquarium-transparency-report-003&quot;&gt;Aquarium Transparency Report 003&lt;/h4&gt;
+
+&lt;p&gt;As always we file detailed reports of all transactional activity relating to project funds on our documentation site.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.octo.fi/docs/aquarium/t003/&quot;&gt;Learn more »&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;dedicated-memes-website&quot;&gt;Dedicated Memes Website&lt;/h4&gt;
+
+&lt;p&gt;We have been so impressed with the community’s memes that we wanted to collect them and put them on display. We’ve also been playing around with the idea of making our memes into NFTs and directing any proceeds from their sale back into the community.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://memes.octo.fi&quot;&gt;Learn more »&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;decentralized-fashion-tentacles&quot;&gt;Decentralized Fashion Tentacles&lt;/h4&gt;
+
+&lt;p&gt;Merchandise is coming for DeFi, tentacles and all. The store isn’t yet accepting orders, but we are in discussions with an active octonaut to take it on and make it completely community-run. You’ll be able to pay with ETH, USDC, and of course OCTO. The store is also decentralized, running on IPFS with the purposebuilt platform from Origin Protocol.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://shop.octo.fi&quot;&gt;Learn more »&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;kleros-tokens-curated-list-inclusion&quot;&gt;Kleros Tokens Curated List Inclusion&lt;/h4&gt;
+
+&lt;p&gt;If you are not sure what Kleros is all about, we highly recommend you &lt;a href=&quot;http://blog.kleros.io/erc20-becomes-part-of-the-token/&quot;&gt;read this article of theirs&lt;/a&gt; to understand what opportunities this inclusion opens up for OCTO in future.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/klerosT2CR/status/1315661960235618310?s=20&quot;&gt;Learn more »&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;more-updates-soon&quot;&gt;More updates soon…&lt;/h4&gt;
+
+&lt;p&gt;&lt;em&gt;Your frentacle,&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Dr Octavius.&lt;/em&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Here’s something new. Quick and to the point updates, packed full of the good stuff. Let’s get right into it…</summary></entry><entry><title type="html">Aquarium 003 (Transparency Report)</title><link href="http://localhost:4000/blog/aquarium-three" rel="alternate" type="text/html" title="Aquarium 003 (Transparency Report)" /><published>2020-10-10T11:00:00+11:00</published><updated>2020-10-10T11:00:00+11:00</updated><id>http://localhost:4000/blog/aquarium-three</id><content type="html" xml:base="http://localhost:4000/blog/aquarium-three">&lt;p&gt;&lt;a href=&quot;https://docs.octo.fi/docs/aquarium/t003/&quot;&gt;&lt;em&gt;Originally published on docs.octo.fi&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;We want to keep going with our aquarium transparency reports in an effort to provide full transparency for the actions of OctoFi.&lt;/p&gt;
 
@@ -650,90 +710,4 @@
 
 &lt;p&gt;&lt;a href=&quot;https://github.com/octofi?tab=repositories&quot;&gt;github.com/octofi?tab=repositories&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;See you at OCTOber Fest!&lt;/p&gt;</content><author><name></name></author><summary type="html">What a busy day!</summary></entry><entry><title type="html">How To Use Snapshot &amp;amp; Create Proposals</title><link href="http://localhost:4000/blog/snapshot-tutorial" rel="alternate" type="text/html" title="How To Use Snapshot &amp; Create Proposals" /><published>2020-09-14T09:00:00+10:00</published><updated>2020-09-14T09:00:00+10:00</updated><id>http://localhost:4000/blog/snapshot-tutorial</id><content type="html" xml:base="http://localhost:4000/blog/snapshot-tutorial">&lt;p&gt;Hey Octonauts,&lt;/p&gt;
-
-&lt;p&gt;If we’ve reached that stage of OctoFi and you are reading this, then we are  doing great, and proud to announce integration with Snapshot:&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://dao.octo.fi&quot;&gt;dao.octo.fi&lt;/a&gt; –&amp;gt; &lt;a href=&quot;https://snapshot.page/#/octofi&quot;&gt;snapshot.page/#/octofi&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Openness and transparency are central to OctoFi’s mission in the delivery of decentralized finance &lt;s&gt;oracles&lt;/s&gt; tentacles, and an accessible governance tool such as Snapshot is an essential component.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/12-1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;The primary use-case afforded by project supporters will be the foundational governance decisions. During early stages, OCTO governance tokens shall be used for the following:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Participating in voting to settle governance decisions&lt;/li&gt;
-  &lt;li&gt;Verifying data tentacles and support systems with staking&lt;/li&gt;
-  &lt;li&gt;Interest Program (Octo Yield)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;how-to-use-snapshot-as-proposal-creator&quot;&gt;How to use Snapshot as proposal creator&lt;/h4&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Go to &lt;a href=&quot;https://dao.octo.fi&quot;&gt;dao.octo.fi&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Click on the button in the right corner “Connect wallet”&lt;/li&gt;
-  &lt;li&gt;Connect with one of the three wallet providers, where you hold $OCTO&lt;/li&gt;
-  &lt;li&gt;Click on the button “New proposal” at the main page &lt;a href=&quot;https://snapshot.page/#/octofi&quot;&gt;snapshot.page/#/octofi&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Fill out the field Title:
-OIP-[consecutive number] Title of your Proposal&lt;/li&gt;
-  &lt;li&gt;Fill out the biggest field and tell the community about your idea or question, go into every detail. Don’t forget plans about how to execute the idea or question, and funding, if needed.&lt;/li&gt;
-  &lt;li&gt;Place the voting options&lt;/li&gt;
-  &lt;li&gt;Now go to the “Actions” box&lt;/li&gt;
-  &lt;li&gt;Select the start date&lt;/li&gt;
-  &lt;li&gt;Select the end date (Remember to give enough time for voting)&lt;/li&gt;
-  &lt;li&gt;Fill out the Snapshot block number (now it’s getting a bit crazy, read more about that number in the next section)&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;strong&gt;Snapshot block number&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;This number is important to lock the state of community members who are able to vote.&lt;/p&gt;
-
-&lt;p&gt;Means if you come around a nice proposal and the block number is in the past and you don’t own any $OCTO yet or before the block number, you can’t vote.&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;H = h + ((t1 — t0) / a)&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;Where:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;H&lt;/code&gt; = target block height&lt;/li&gt;
-  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;h&lt;/code&gt; = current block height&lt;/li&gt;
-  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;t0&lt;/code&gt; = current timestamp (in seconds)&lt;/li&gt;
-  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;t1&lt;/code&gt; = target timestamp (in seconds)&lt;/li&gt;
-  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;a&lt;/code&gt; = average time to solve a block (in seconds)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Easy right ?&lt;/p&gt;
-
-&lt;p&gt;Or…&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;last_block_number + ((future_time - time_now) / block_time)&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;So, for example, using a &lt;a href=&quot;https://www.epochconverter.com&quot;&gt;current epoch time&lt;/a&gt; of 1481214124, the epoch time of 1482537600 for midnight Christmas Eve, and the last block of 2771338:&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;2771338 + ((1482537600 - 1481214124) / 14) = 2865872&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;Or just look at &lt;a href=&quot;https://etherscan.io/blocks&quot;&gt;etherscan.io/blocks&lt;/a&gt; and use the last block number ;-)&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Click on “Publish” and create the proposal&lt;/li&gt;
-  &lt;li&gt;Sign the message via your wallet and done&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h4 id=&quot;how-to-use-snapshot-for-voting&quot;&gt;How to use Snapshot for voting&lt;/h4&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Go to &lt;a href=&quot;https://dao.octo.fi&quot;&gt;dao.octo.fi&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Click on the button in the right corner “Connect wallet”&lt;/li&gt;
-  &lt;li&gt;Connect with one of the three wallet provider, where you hold $OCTO&lt;/li&gt;
-  &lt;li&gt;Click on the option you want to vote for&lt;/li&gt;
-  &lt;li&gt;Sign the message via your wallet and done&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;To test your voting capabilities, let’s start with a simple question.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://snapshot.page/#/octofi/proposal/QmWHHTcf4tF4XvJSyaZzL5BmhV2xwoFvBh5rBoqGWXvGvi&quot;&gt;&lt;em&gt;Who was Satoshi Nakamoto?&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Best wishes,&lt;/p&gt;
-
-&lt;p&gt;Dr Octavius.&lt;/p&gt;</content><author><name></name></author><summary type="html">Hey Octonauts,</summary></entry></feed>
+&lt;p&gt;See you at OCTOber Fest!&lt;/p&gt;</content><author><name></name></author><summary type="html">What a busy day!</summary></entry></feed>
