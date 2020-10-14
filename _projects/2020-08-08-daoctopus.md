@@ -1,6 +1,6 @@
 ---
 title: DAOctopus ✅
-subtitle: Decentralized autonomous octopus community governance. 
+subtitle: Decentralized autonomous octopus community governance at <a href="https://dao.octo.fi" target="_blank">dao.octo.fi</a>
 date: 2020-08-08 00:00:00
 description: <img src="https://progress-bar.dev/100/?width=600" alt=""></a><br>Off-chain gasless multi-governance for OCTO token holder community voting with Snapshot.
 featured_image: project-daoctopus.jpg
