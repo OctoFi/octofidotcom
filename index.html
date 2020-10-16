@@ -1,8 +1,8 @@
 ---
 layout: default
-overtitle: <p class="subtitle"><a href="https://www.producthunt.com/posts/octofi">😻 Upvote on Product Hunt!</a></p>
+overtitle: <p class="subtitle"><a href="https://www.producthunt.com/posts/octofi">😻 Trending on Product Hunt!</a></p>
 title: Decentralized Finance Tentacles
-description: A next-gen open source platform for decentralized finance <s>oracles</s> tentacles.
+description: An open source platform for aggregating thousands of investment opportunities.
 featured_image: /images/social.jpg
 ---
 
@@ -19,7 +19,7 @@ featured_image: /images/social.jpg
 				<h1>{{ page.title }}</h1>
 				<p class="intro subtitle--light">
 				{{ page.description }}
-				<a href="https://app.octo.fi" class="hero__cta button--fill contact-trigger">Launch Dapp</a>
+				<a href="https://app.octo.fi" class="hero__cta button--fill contact-trigger">Dashboard</a>
 				</p>
 			</div>
 			<div class="title">
@@ -49,9 +49,15 @@ featured_image: /images/social.jpg
 				<h3 class="project__title"><a href="{{ project.url | relative_url }}" style="--accent: {{ accent_color }}">{{ project.title }}</a></h3>
 				{% endif %}
 				<div class="project__images owl-carousel" style="--accent: {{ accent_color }}">
+					{% if project.external_url %}
+					{% for image in project.gallery_images %}
+					<a href="{{ project.external_url }}"><img src="{{ '/images/projects/' | relative_url}}{{ image }}" alt="" class="project__image"></a>
+					{% endfor %}
+					{% else %}
 					{% for image in project.gallery_images %}
 					<a href="{{ project.url | relative_url }}"><img src="{{ '/images/projects/' | relative_url}}{{ image }}" alt="" class="project__image"></a>
 					{% endfor %}
+					{% endif %}
 				</div>
 
 				<div class="project__content grid" style="border-color: {{ accent_color }}">

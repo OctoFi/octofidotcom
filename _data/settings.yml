@@ -8,12 +8,12 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'Roadmap'
-      url: '/'
     - title: 'Docs'
       url: 'https://docs.octo.fi'
-    - title: 'Govern'
+    - title: 'Votes'
       url: 'https://dao.octo.fi'
+    - title: 'Memes'
+      url: 'https://memes.octo.fi'
     - title: 'Code'
       url: 'https://github.com/octofi'
     - title: 'Blog'
