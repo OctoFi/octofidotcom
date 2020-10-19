@@ -85,6 +85,10 @@
 <lastmod>2020-10-13T11:00:00+11:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/blog/aquafarm-brrr</loc>
+<lastmod>2020-10-19T11:00:00+11:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/project/aquafarm</loc>
 <lastmod>2020-08-08T22:00:00+10:00</lastmod>
 </url>
@@ -103,5 +107,8 @@
 </url>
 <url>
 <loc>http://localhost:4000/blog/page-3/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/blog/page-4/</loc>
 </url>
 </urlset>

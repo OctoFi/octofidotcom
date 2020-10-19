@@ -1,4 +1,105 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-10-16T12:53:12+11:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">octofidotcom</title><subtitle>Website for OctoFi: Decentralized Finance Tentacles. Hosted on Github Pages.</subtitle><entry><title type="html">Memes, Merch, Streams, Updates, Listings, and More!</title><link href="http://localhost:4000/blog/octobrrr-update" rel="alternate" type="text/html" title="Memes, Merch, Streams, Updates, Listings, and More!" /><published>2020-10-13T11:00:00+11:00</published><updated>2020-10-13T11:00:00+11:00</updated><id>http://localhost:4000/blog/octobrrr-update</id><content type="html" xml:base="http://localhost:4000/blog/octobrrr-update">&lt;p&gt;Here’s something new. Quick and to the point updates, packed full of the good stuff. Let’s get right into it…&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-10-19T13:14:36+11:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">octofidotcom</title><subtitle>Website for OctoFi: Decentralized Finance Tentacles. Hosted on Github Pages.</subtitle><entry><title type="html">Tentacles, the War on Rugs, and our biggest Aquafarm release yet!</title><link href="http://localhost:4000/blog/aquafarm-brrr" rel="alternate" type="text/html" title="Tentacles, the War on Rugs, and our biggest Aquafarm release yet!" /><published>2020-10-19T11:00:00+11:00</published><updated>2020-10-19T11:00:00+11:00</updated><id>http://localhost:4000/blog/aquafarm-brrr</id><content type="html" xml:base="http://localhost:4000/blog/aquafarm-brrr">&lt;p&gt;Our blog is evolving to become the home of three things:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Research&lt;/li&gt;
+  &lt;li&gt;Tutorials&lt;/li&gt;
+  &lt;li&gt;Recap-topuses&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;When it comes to recaps like this one, we do a quick news roundup of what’s happened recently, including new integrations, product updates, and community governance outcomes.&lt;/p&gt;
+
+&lt;p&gt;If you want to stay up to the minute with the latest, we’ve setup a few short links especially for you:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://news.octo.fi&quot;&gt;news.octo.fi&lt;/a&gt;: Our Telegram Channel is where we make announcements as they happen, and we also share most of them on Twitter.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://log.octo.fi&quot;&gt;log.octo.fi&lt;/a&gt;: The Changelog on our docs website provides a simple overview of all of our latest software updates.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://tg.octo.fi&quot;&gt;tg.octo.fi&lt;/a&gt;: Our Telegram Group is filled with an amazing and active community of octonauts.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;tentacles&quot;&gt;Tentacles&lt;/h3&gt;
+
+&lt;p&gt;There’s quite alot of interest in what we mean by ‘Tentacles’ and it can be summed up pretty nicely in a single meme.&lt;/p&gt;
+
+&lt;script async=&quot;&quot; src=&quot;https://telegram.org/js/telegram-widget.js?12&quot; data-telegram-post=&quot;OctoFiNews/90&quot; data-width=&quot;100%&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;But more on that later…&lt;/p&gt;
+
+&lt;h3 id=&quot;make-america-eight-again-ma8a&quot;&gt;Make America Eight Again #MA8A&lt;/h3&gt;
+
+&lt;p&gt;With the upcoming election we figured we may as well have a little bit of OC’POTUS fun.&lt;/p&gt;
+
+&lt;script async=&quot;&quot; src=&quot;https://telegram.org/js/telegram-widget.js?12&quot; data-telegram-post=&quot;OctoFiNews/91&quot; data-width=&quot;100%&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;Because eight is better than great.&lt;/p&gt;
+
+&lt;p&gt;The tentacles are taking over the White House and our latest NFT giveway will be drawn October 22.&lt;/p&gt;
+
+&lt;h3 id=&quot;coinbase-page&quot;&gt;Coinbase page&lt;/h3&gt;
+
+&lt;p&gt;Now you can stay up to date with the octopus directly from coinbase.&lt;/p&gt;
+
+&lt;script async=&quot;&quot; src=&quot;https://telegram.org/js/telegram-widget.js?12&quot; data-telegram-post=&quot;OctoFiNews/96&quot; data-width=&quot;100%&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;Just one of many integrations made possible by our recent inclusion with Kleros.&lt;/p&gt;
+
+&lt;h3 id=&quot;war-on-rugs&quot;&gt;War on Rugs&lt;/h3&gt;
+
+&lt;script async=&quot;&quot; src=&quot;https://telegram.org/js/telegram-widget.js?12&quot; data-telegram-post=&quot;OctoFiNews/101&quot; data-width=&quot;100%&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;OctoFi has been rug-pull proofed.&lt;/p&gt;
+
+&lt;p&gt;We locked approximately $2.3 million with our friends at Team Finance following their audit:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;200,000 OCTO from Project Reserve &lt;a href=&quot;https://etherscan.io/tx/0x8f68ec1d2a52e331236d3aa84a8e9fac1286863014ca314d89e14c5beb5a58f1&quot;&gt;locked for 1 year&lt;/a&gt;, with &lt;a href=&quot;https://app.sablier.finance/stream/867&quot;&gt;25,000 streamed back&lt;/a&gt; in real-time to project over 6 months.&lt;/li&gt;
+  &lt;li&gt;Approx $300,000 &lt;a href=&quot;https://etherscan.io/tx/0x9c8c2b731982bf50f3e3392c67feb836c7a1cc5a358da0c43680bcbebecde0ca&quot;&gt;OCTO-USDC&lt;/a&gt; and &lt;a href=&quot;https://etherscan.io/tx/0x55dff4582036ca59af465bbceeac6663a70ce5dea31f94ea4d335456d62632a7&quot;&gt;OCTO-ETH&lt;/a&gt; Uniswap liquidity locked for 1 year.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;niktopus-patentacles&quot;&gt;Niktopus Patentacles&lt;/h3&gt;
+
+&lt;p&gt;After &lt;a href=&quot;https://twitter.com/cointradernik&quot;&gt;Nik Patel&lt;/a&gt; reached out to us recently on Twitter, we created an OIP to vote on whether the project reserve should fund one of his in-depth coin reports.&lt;/p&gt;
+
+&lt;script async=&quot;&quot; src=&quot;https://telegram.org/js/telegram-widget.js?12&quot; data-telegram-post=&quot;OctoFiNews/102&quot; data-width=&quot;100%&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;As per the &lt;a href=&quot;https://snapshot.page/#/octofi/proposal/QmQZepxr99SYbKypx1azdEQkYNegmTPa5gPL7hzNRUoD1V&quot;&gt;OIP-8 proposal&lt;/a&gt; our community voted unanimously to proceed and offer to pay 100% OCTO, which Nik gladly accepted.&lt;/p&gt;
+
+&lt;p&gt;Looking forward to his 81,000+ followers learning about OctoFi.&lt;/p&gt;
+
+&lt;h3 id=&quot;aquafarm-0160-release&quot;&gt;Aquafarm 01.60 Release&lt;/h3&gt;
+
+&lt;p&gt;This is our biggest update to &lt;a href=&quot;https://app.octo.fi&quot;&gt;app.octo.fi&lt;/a&gt; yet, with loads of new features, and some key components in place for our upcoming Tentacles beta.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Added Explore Tab (DeFi investment opportunities)&lt;/li&gt;
+  &lt;li&gt;Explore: Top 5 Gainer Tokens (24h)&lt;/li&gt;
+  &lt;li&gt;Explore: Top 5 Loser Tokens (24h)&lt;/li&gt;
+  &lt;li&gt;Explore: Trending on Coingecko&lt;/li&gt;
+  &lt;li&gt;Explore: Pools&lt;/li&gt;
+  &lt;li&gt;Explore: TokenSets&lt;/li&gt;
+  &lt;li&gt;Added History Tab (Still some display bugs, sorry)&lt;/li&gt;
+  &lt;li&gt;Added Market Tab (Preparation for Octo Oracles Tentacles)&lt;/li&gt;
+  &lt;li&gt;Added Buy Crypto Tab (Fiat on-ramp)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;script async=&quot;&quot; src=&quot;https://telegram.org/js/telegram-widget.js?12&quot; data-telegram-post=&quot;OctoFiNews/111&quot; data-width=&quot;100%&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;Check it out at &lt;a href=&quot;https://app.octo.fi&quot;&gt;app.octo.fi&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;smart-contract-and-dapp-audits&quot;&gt;Smart Contract and DApp Audits&lt;/h3&gt;
+
+&lt;p&gt;Final thing to mention in this recap-topus is &lt;a href=&quot;https://snapshot.page/#/octofi/proposal/QmWE84o4yfHd2h1cM4gar6z6PkbBsFeo3Zppbqngu1msnJ&quot;&gt;OIP-10 Audit for OctoFi DApp and Smart Contracts&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Voting is open until October 29 and as a community we can select our preferred audit firm to complete the work.&lt;/p&gt;
+
+&lt;p&gt;Details on pricing etc are provided to help you make your decision.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Until next time, come hang out with &lt;a href=&quot;https://tg.octo.fi&quot;&gt;our community on Telegram&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Your frentacle,&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Dr Octavius.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://tg.octo.fi&quot; class=&quot;button--fill&quot;&gt;Discuss on Telegram&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Our blog is evolving to become the home of three things:</summary></entry><entry><title type="html">Memes, Merch, Streams, Updates, Listings, and More!</title><link href="http://localhost:4000/blog/octobrrr-update" rel="alternate" type="text/html" title="Memes, Merch, Streams, Updates, Listings, and More!" /><published>2020-10-13T11:00:00+11:00</published><updated>2020-10-13T11:00:00+11:00</updated><id>http://localhost:4000/blog/octobrrr-update</id><content type="html" xml:base="http://localhost:4000/blog/octobrrr-update">&lt;p&gt;Here’s something new. Quick and to the point updates, packed full of the good stuff. Let’s get right into it…&lt;/p&gt;
 
 &lt;h4 id=&quot;aquafarm-latest-release-01500&quot;&gt;Aquafarm Latest Release 01.50.0&lt;/h4&gt;
 
@@ -629,85 +730,4 @@
 
 &lt;p&gt;&lt;strong&gt;Reminder:&lt;/strong&gt; Any OCTO leftover in yield contract following Interest Program is returned to Project Reserve, to be allocated to future initiatives decided on by community through governance voting.&lt;/p&gt;
 
-&lt;p&gt;Wrap those tentacles tight!&lt;/p&gt;</content><author><name></name></author><summary type="html">Why limit your yield farming to the land when the earth’s surface is 70% water? Use earn.octo.fi to wrap your tentacles around a sea of gains.</summary></entry><entry><title type="html">Aquarium 002 (Post Public Sale Transparency)</title><link href="http://localhost:4000/blog/aquarium-two" rel="alternate" type="text/html" title="Aquarium 002 (Post Public Sale Transparency)" /><published>2020-09-14T20:00:00+10:00</published><updated>2020-09-14T20:00:00+10:00</updated><id>http://localhost:4000/blog/aquarium-two</id><content type="html" xml:base="http://localhost:4000/blog/aquarium-two">&lt;p&gt;What a busy day!&lt;/p&gt;
-
-&lt;p&gt;First of all a huge thanks to everyone who participated in our public sale. While there were a few challenges along the way, the bonding curve distribution was completed successfully, and the project is onto the next phase.&lt;/p&gt;
-
-&lt;p&gt;This post serves to &lt;a href=&quot;https://twitter.com/octofinance/status/1305329689804681217?s=20&quot;&gt;formalise the tweet thread&lt;/a&gt; we sent out following the &lt;a href=&quot;/project/token&quot;&gt;Octoken project&lt;/a&gt; and provides a summary of which &lt;a href=&quot;/blog/roadmap&quot;&gt;roadmap items&lt;/a&gt; we are working to deliver next.&lt;/p&gt;
-
-&lt;h4 id=&quot;token-distributions&quot;&gt;Token Distributions&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;~125,000 $OCTO&lt;/strong&gt; allocated to public sale have been distributed among &lt;a href=&quot;https://etherscan.io/token/0x7240ac91f01233baaf8b064248e80feaa5912ba3#balances&quot;&gt;holders as shown here&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;~275,000 $OCTO&lt;/strong&gt; remaining in deployer address allocated to &lt;a href=&quot;https://etherscan.io/token/0x7240aC91f01233BaAf8b064248E80feaA5912BA3?a=0xd06777d9b02f677214073cc3c5338904cba7894a&quot;&gt;Project Reserve as shown here&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;~200,000 $OCTO&lt;/strong&gt; transferred to yield address for Aquafarm &lt;a href=&quot;https://etherscan.io/tx/0x4276dd25f6e24c9959c4beda09a5f487772019d2c94fd516947562bf3d2d202e&quot;&gt;Interest Program as as shown here&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;~200,000 $OCTO&lt;/strong&gt; disbursed to Early Backers including team and strategic cohort &lt;a href=&quot;https://etherscan.io/token/tokenholderchart/0x7240ac91f01233baaf8b064248e80feaa5912ba3&quot;&gt;as shown here with distribution diagram&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;You will notice that the two largest holders equate to 56.97% of the total 800k supply. These combined holdings actually belong to the community in the form of:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Project Reserve:&lt;/strong&gt; budget allocation that community will spend based on governance proposals and voting &lt;a href=&quot;https://octo.fi/blog/project-reserve&quot;&gt;as detailed here&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Interest Program:&lt;/strong&gt; allocated to interest yielding contract split evenly between runtime payouts and airdrop rewards &lt;a href=&quot;https://octo.fi/blog/interest-pool&quot;&gt;as explained in detail here&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Community governance is a major focus for the OctoFi project and as such we will be encouraging proposals and voting ASAP, but more on that later.&lt;/p&gt;
-
-&lt;h4 id=&quot;liquidity-provision&quot;&gt;Liquidity Provision&lt;/h4&gt;
-
-&lt;p&gt;There has been a flood of enquiries regarding when we would be taking care of liquidity provision and the short answer is: as soon as we are able, well rested, and ready to continue diligently.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Uniswap Pairs&lt;/strong&gt; have been created prior to the token distribution and the offical links are as follows (do not follow any other UniSwap related links to trade $OCTO):&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Token: &lt;a href=&quot;https://uniswap.info/token/0x7240ac91f01233baaf8b064248e80feaa5912ba3&quot;&gt;uniswap.info/token/0x7240ac91f01233baaf8b064248e80feaa5912ba3&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;USDC/OCTO: &lt;a href=&quot;https://uniswap.info/pair/0x1b87fde6af5396165fdadf7f532784622a824abf&quot;&gt;uniswap.info/pair/0x1b87fde6af5396165fdadf7f532784622a824abf&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;ETH/OCTO: &lt;a href=&quot;https://uniswap.info/pair/0xd7cfbcadaaf6475321cfcf3884f15a93400be658&quot;&gt;uniswap.info/pair/0xd7cfbcadaaf6475321cfcf3884f15a93400be658&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;We understand the excitement regarding liquidity provision, and respect the importance, but above all else, as a two person team (8 limbs total) our main priorities are consistency and integrity.&lt;/p&gt;
-
-&lt;p&gt;Until we can completely hand over project to our community of token holders, we are taking extra care, and as you can imagine, the workload has been plentiful.&lt;/p&gt;
-
-&lt;h4 id=&quot;community-governance&quot;&gt;Community Governance&lt;/h4&gt;
-
-&lt;p&gt;We were recently delighted to have our pull request on Snapshot.Page merged and deployed, in order to have our very own “off-chain gasless multi-governance client with easy to verify and hard to contest results.”&lt;/p&gt;
-
-&lt;p&gt;Our governance interface is now live at &lt;a href=&quot;https://snapshot.page/#/octofi&quot;&gt;snapshot.page/#/octofi&lt;/a&gt; and we have since redirected our &lt;a href=&quot;https://dao.octo.fi&quot;&gt;dao.octo.fi&lt;/a&gt; subdomain from Aragon to Snapshot.&lt;/p&gt;
-
-&lt;p&gt;We wrote up a tutorial on &lt;a href=&quot;https://octo.fi/blog/snapshot-tutorial&quot;&gt;how to use Snapshot&lt;/a&gt; and create proposals, and after noticing no official instructions on Snapshot docs, repurposed ours.&lt;/p&gt;
-
-&lt;p&gt;We are really excited to have such awesome tools at our disposal and to show our appreciation, we &lt;a href=&quot;https://github.com/bonustrack/snapshot-docs/pull/1&quot;&gt;submitted a pull request&lt;/a&gt; to GitHub with our default version of the instructions.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/13-1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;You might notice we made a spelling mistake submitting this PR, but soon fixed it lol. Keep an eye out for the first proposals, where we would like help deciding the following:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Which community-run Telegram group is hangout of choice for the community, and deploy it to OctoFi’s website as a Trollbox (fun!).&lt;/li&gt;
-  &lt;li&gt;Details on who we should arrange for comprehensive security audits of OctoFi smart contracts etc.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;yield-farming&quot;&gt;Yield Farming&lt;/h4&gt;
-
-&lt;p&gt;Interest Program on Aquafarm is ready to go and will be officially announced with a tutorial very soon. You simply visit &lt;a href=&quot;https://earn.octo.fi&quot;&gt;earn.octo.fi&lt;/a&gt; to participate, an &lt;a href=&quot;/project/aquafarm&quot;&gt;overview is provided here&lt;/a&gt;, and the finer details are just around the corner.&lt;/p&gt;
-
-&lt;p&gt;To stay up to date with our roadmap, approximate delivery dates, progress of completion, and a maintained copy of our music festival style roadmap, keep an eye on &lt;a href=&quot;https://octo.fi/blog/roadmap&quot;&gt;octo.fi/blog/roadmap&lt;/a&gt; as we update it regularly, along with date of last change.&lt;/p&gt;
-
-&lt;h4 id=&quot;summary&quot;&gt;Summary&lt;/h4&gt;
-
-&lt;p&gt;Despite being a small team, we’ve got loads planned for all you tentacle lovers and will be keeping this website up to date. We’d rather you hear it hear first, rather than on social media… Because this site can actually be community owned, and as mentioned, is open source and welcoming contributions (no deleting the shooting octopi plz).&lt;/p&gt;
-
-&lt;p&gt;If anyone does want to contribute something, like a tutorial, or a useful resource, please &lt;a href=&quot;https://github.com/octofi/octofidotcom/issues&quot;&gt;open an issue here&lt;/a&gt; to discuss.&lt;/p&gt;
-
-&lt;p&gt;And finally, as of &lt;a href=&quot;/blog/roadmap&quot;&gt;today’s roadmap update&lt;/a&gt;, what’s ahead looks something like this:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;/project/aquafarm&quot;&gt;Aquafarm&lt;/a&gt; - 15 Sep 20&lt;/li&gt;
-  &lt;li&gt;DEX/CEX - 15 Sep 20&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://dao.octo.fi&quot;&gt;DAOctopus&lt;/a&gt; - 15 Sep 20&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://github.com/octofi?tab=repositories&quot;&gt;github.com/octofi?tab=repositories&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;See you at OCTOber Fest!&lt;/p&gt;</content><author><name></name></author><summary type="html">What a busy day!</summary></entry></feed>
+&lt;p&gt;Wrap those tentacles tight!&lt;/p&gt;</content><author><name></name></author><summary type="html">Why limit your yield farming to the land when the earth’s surface is 70% water? Use earn.octo.fi to wrap your tentacles around a sea of gains.</summary></entry></feed>
