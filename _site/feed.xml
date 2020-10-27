@@ -1,4 +1,141 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-10-23T13:59:38+11:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">octofidotcom</title><subtitle>Website for OctoFi: Decentralized Finance Tentacles. Hosted on Github Pages.</subtitle><entry><title type="html">Deep Dive into the Future, our Development Roadmap is here!</title><link href="http://localhost:4000/blog/dev-roadmap" rel="alternate" type="text/html" title="Deep Dive into the Future, our Development Roadmap is here!" /><published>2020-10-23T13:55:00+11:00</published><updated>2020-10-23T13:55:00+11:00</updated><id>http://localhost:4000/blog/dev-roadmap</id><content type="html" xml:base="http://localhost:4000/blog/dev-roadmap">&lt;p&gt;Hey Octonauts,&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-10-27T16:39:51+11:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">octofidotcom</title><subtitle>Website for OctoFi: Decentralized Finance Tentacles. Hosted on Github Pages.</subtitle><entry><title type="html">Interest Program Recap and Rewards Claiming Tutorial</title><link href="http://localhost:4000/blog/interest-program-recap" rel="alternate" type="text/html" title="Interest Program Recap and Rewards Claiming Tutorial" /><published>2020-10-27T16:30:00+11:00</published><updated>2020-10-27T16:30:00+11:00</updated><id>http://localhost:4000/blog/interest-program-recap</id><content type="html" xml:base="http://localhost:4000/blog/interest-program-recap">&lt;p&gt;Early OCTO holders will remember our flagship interest program, designed to benefit the octonauts who supported us in the first month before OCTOBRRR started.&lt;/p&gt;
+
+&lt;p&gt;Those who took the risk of locking at least 100 of their precious OCTO for at least 6 months are being handsomely rewarded.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Interest Program deposits CLOSED on 30 September 2020 at 08:08:08 UTC&lt;/em&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;who-can-claim&quot;&gt;&lt;strong&gt;Who can claim:&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;p&gt;As promised in our &lt;a href=&quot;https://octo.fi/blog/interest-pool&quot;&gt;interest program announcement&lt;/a&gt;, those who met the requirements will receive an airdrop over 100 OCTO.&lt;/p&gt;
+
+&lt;p&gt;The following addresses are eligible when unlock date arrives:&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Beneficiary&lt;/th&gt;
+      &lt;th&gt;Unlock&lt;br /&gt; Date&lt;/th&gt;
+      &lt;th&gt;Amount&lt;br /&gt; locked&lt;br /&gt; (OCTO)&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;a href=&quot;https://etherscan.io/tx/0xb84ea8f395f8cb6e9c723ba7d5c4f606adacab3c9da9d5de1a5c9d10890b6396#eventlog&quot;&gt;0x7360…C720&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;03/28/2021&lt;/td&gt;
+      &lt;td&gt;100&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;a href=&quot;https://etherscan.io/tx/0x6e1b92dc4a0472f7c2da12e317dbe5db5694d03407d410c9b4ced758518e16f6#eventlog&quot;&gt;0xb04E…1937&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;03/27/2021&lt;/td&gt;
+      &lt;td&gt;100&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;a href=&quot;https://etherscan.io/tx/0x6a53f54ab0afe9ef4a6a1f8cf5bfbb4b3a544bfbed6f3bd5471572462dfc8b43#eventlog&quot;&gt;0xeF0e…Ee00&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;03/27/2021&lt;/td&gt;
+      &lt;td&gt;100&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;a href=&quot;https://etherscan.io/tx/0x3d0118c2e8c3e33547e8ca394a32937442e5e2379f1ed960c906a398383d338b#eventlog&quot;&gt;0xD2Ab…3Ac9&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;03/27/2021&lt;/td&gt;
+      &lt;td&gt;123&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;a href=&quot;https://etherscan.io/tx/0xa7e8fd8da46ece45b8e649f2114484c464a5053a409ab27e901034406551b4dd#eventlog&quot;&gt;0x4eB6…30Db&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;03/27/2021&lt;/td&gt;
+      &lt;td&gt;100&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;a href=&quot;https://etherscan.io/tx/0x4ee64cf0c50b7f0bf6164dfe269f4949839856d7f25f16ea0c0205ed8b954125#eventlog&quot;&gt;0x7eaF…21EF&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;03/24/2021&lt;/td&gt;
+      &lt;td&gt;100&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;a href=&quot;https://etherscan.io/tx/0x9220e1022716a2aaa42f8159eee336a2c78f9da0e61bd8a934b1583d7aae013c#eventlog&quot;&gt;0xC357…E63C&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;03/24/2021&lt;/td&gt;
+      &lt;td&gt;400&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;a href=&quot;https://etherscan.io/tx/0x9bef976c5591153e7509bbe5250975e5587d77c05e1bc809b17b803c2e618d23#eventlog&quot;&gt;0x6014…4bE9&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;03/24/2021&lt;/td&gt;
+      &lt;td&gt;150&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;a href=&quot;https://etherscan.io/tx/0x912014c1affc8a9834bc1cea6f04912add90115e4bdc31bb0ccea296528c90d3#eventlog&quot;&gt;0x3F89…a719&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;03/23/2021&lt;/td&gt;
+      &lt;td&gt;2123&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;a href=&quot;https://etherscan.io/tx/0xac521533611182b0e539a15c5ce8d247511c24094ee6666fe150e3be7c2a5574#eventlog&quot;&gt;0xAD6C…4AE2&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;03/22/2021&lt;/td&gt;
+      &lt;td&gt;101&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;a href=&quot;https://etherscan.io/tx/0x55b45eb7db1923cff29dafbc8dd1f039ca7d57d1d2cc253c26e732aa44c3f1ad#eventlog&quot;&gt;0x2b15…9158&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;03/22/2021&lt;/td&gt;
+      &lt;td&gt;100&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;a href=&quot;https://etherscan.io/tx/0x1fd8192127525f97b062d1525fe35a84a3bc67530974876936f90c597773bf84#eventlog&quot;&gt;0x464F…8AF6&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;03/21/2021&lt;/td&gt;
+      &lt;td&gt;101&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;a href=&quot;https://etherscan.io/tx/0x2f26a2f38018ddd93057418fe56dbbeda63375043f5c876534c6fb9a9b8b137d#eventlog&quot;&gt;0x64F4…c9fB&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;03/21/2021&lt;/td&gt;
+      &lt;td&gt;100&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;a href=&quot;https://etherscan.io/tx/0x544ddfea4ca9b38e2dcad70054d0b1459e8aa74353685bff064d945952529954#eventlog&quot;&gt;0x9cEE…b3b1&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;03/21/2021&lt;/td&gt;
+      &lt;td&gt;101&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;a href=&quot;https://etherscan.io/tx/0x1388b321406678196357c068d4225d0955716d0d7224343ccaefaa928e9ac6a3#eventlog&quot;&gt;0x160e…C39f&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;03/19/2021&lt;/td&gt;
+      &lt;td&gt;100&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;a href=&quot;https://etherscan.io/tx/0x71f9ddd1d68ec074521df5daae10ca59b2d6e68f6761f30a1160e20cddd1b5d9#eventlog&quot;&gt;0x207F…F183&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;03/17/2021&lt;/td&gt;
+      &lt;td&gt;340&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;If one of the above addresses is yours, or you locked a lower amount and want to withdraw your balance after the locking period is over, you can check time remaining until the withdraw is possible.&lt;/p&gt;
+
+&lt;h4 id=&quot;how-to-check-withdraw-date&quot;&gt;&lt;strong&gt;How to check withdraw date:&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Go to &lt;a href=&quot;https://docs.octo.fi/docs/aquarium/i001/&quot;&gt;this link&lt;/a&gt;, search for your address, and COPY lockbox number&lt;/li&gt;
+  &lt;li&gt;Go to &lt;a href=&quot;https://etherscan.io/address/0x0a4e9f69f5b2e1e661da9ed98956f928200ea4ba#readContract&quot;&gt;this link&lt;/a&gt; and scroll to input field “4. lockBoxStructs”&lt;/li&gt;
+  &lt;li&gt;PASTE your lockbox number into the input field and press “Query”&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/tuts/1603737083804.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;COPY number from “releaseTime” and go to &lt;a href=&quot;https://www.unixtimestamp.com/&quot;&gt;this website&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;PASTE the number into the field “Enter a timestamp”&lt;/li&gt;
+  &lt;li&gt;You will get the exact time withdrawal is possible&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;how-to-withdraw-after-locking&quot;&gt;&lt;strong&gt;How to withdraw after locking:&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Go to &lt;a href=&quot;https://docs.octo.fi/docs/aquarium/i001/&quot;&gt;this link&lt;/a&gt;, search for your address, and COPY lockbox number&lt;/li&gt;
+  &lt;li&gt;Go to &lt;a href=&quot;https://etherscan.io/address/0x0a4e9f69f5b2e1e661da9ed98956f928200ea4ba#writeContract&quot;&gt;this link&lt;/a&gt; and press “Connect to Web3” to connect your wallet&lt;/li&gt;
+  &lt;li&gt;Scroll down page to input field “12. withdraw”&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/tuts/1603737269415.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;PASTE your lockbox number into the input field and press “Write”&lt;/li&gt;
+  &lt;li&gt;Accept the transaction in your wallet and you’re complete&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;If you need support, please get in touch via our &lt;a href=&quot;https://t.me/OctoFiCommunity&quot;&gt;Telegram community&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html">Early OCTO holders will remember our flagship interest program, designed to benefit the octonauts who supported us in the first month before OCTOBRRR started.</summary></entry><entry><title type="html">Deep Dive into the Future, our Development Roadmap is here!</title><link href="http://localhost:4000/blog/dev-roadmap" rel="alternate" type="text/html" title="Deep Dive into the Future, our Development Roadmap is here!" /><published>2020-10-23T13:55:00+11:00</published><updated>2020-10-23T13:55:00+11:00</updated><id>http://localhost:4000/blog/dev-roadmap</id><content type="html" xml:base="http://localhost:4000/blog/dev-roadmap">&lt;p&gt;Hey Octonauts,&lt;/p&gt;
 
 &lt;p&gt;Welcome to our first product development roadmap, providing you with an overview of our long term vision.&lt;/p&gt;
 
@@ -669,92 +806,4 @@ with completed design (Basic and Advanced Trading)&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://snapshot.page/#/octofi/proposal/QmUTqc1mXiVkZ4xTnJCBK3ExNHwQkxCZGrkx5D9EA83iBZ&quot;&gt;OIP-4 Adding of Uniswap liquidity&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Do Your Octopus Research #DYOR&lt;/p&gt;</content><author><name></name></author><summary type="html">The first batch of community governance porposals are ready for your votes. Simply go to dao.octo.fi, check the proposals, and have your say.</summary></entry><entry><title type="html">Simple Breakdown of the OctoFi Project Roadmap</title><link href="http://localhost:4000/blog/roadmap" rel="alternate" type="text/html" title="Simple Breakdown of the OctoFi Project Roadmap" /><published>2020-09-17T10:03:00+10:00</published><updated>2020-09-17T10:03:00+10:00</updated><id>http://localhost:4000/blog/roadmap</id><content type="html" xml:base="http://localhost:4000/blog/roadmap">&lt;p&gt;&lt;em&gt;Last updated 17 Sep 20&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Open source software projects with distributed teams are complex beasts with many dependencies, asynchronous communications, and endless moving parts.&lt;/p&gt;
-
-&lt;p&gt;In order to clearly demonstrate what’s planned for &lt;a href=&quot;/&quot;&gt;OctoFi&lt;/a&gt;, we’ve decided to provide a simple breakdown of the project roadmap, and set a precedent for clarity and transparency.&lt;/p&gt;
-
-&lt;h2 id=&quot;portfolio&quot;&gt;Portfolio&lt;/h2&gt;
-
-&lt;p&gt;The &lt;a href=&quot;/&quot;&gt;homepage&lt;/a&gt; serves as a roadmap of sorts, with a series of projects that encompass the OctoFi ecosystem and its rollout. But in between major milestones such as &lt;a href=&quot;/project/token&quot;&gt;Octoken&lt;/a&gt;, &lt;a href=&quot;/project/aquafarm&quot;&gt;Aquafarm&lt;/a&gt;, and &lt;a href=&quot;/project/tentacles&quot;&gt;Tentacles&lt;/a&gt;, there are smaller but equally important deliverables.&lt;/p&gt;
-
-&lt;p&gt;This post aims to demonstrate what lies ahead (at time of writing) and very simply distill relevant information into different formats. This should hopefully ensure that the community remain on the same page as development, get involved with DAO at our &lt;a href=&quot;https://dao.octo.fi&quot;&gt;Snapshot Page&lt;/a&gt;, and that everything of importance is captured clearly and concisely.&lt;/p&gt;
-
-&lt;h2 id=&quot;roadmap&quot;&gt;Roadmap&lt;/h2&gt;
-
-&lt;p&gt;The below table is a very simple roadmap. Further information and links available further down the page.&lt;/p&gt;
-
-&lt;p&gt;Please note the progress bars are estimations made by us devevelopers upon each commit we push to the GitHub repositories.&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Project&lt;/th&gt;
-      &lt;th&gt;Progress&lt;/th&gt;
-      &lt;th&gt;Release&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Octoken&lt;/td&gt;
-      &lt;td&gt;&lt;img src=&quot;https://progress-bar.dev/100/?width=200&quot; alt=&quot;100% complete&quot; /&gt;&lt;/td&gt;
-      &lt;td&gt;ACTIVE&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;DAOctopus&lt;/td&gt;
-      &lt;td&gt;&lt;img src=&quot;https://progress-bar.dev/100/?width=200&quot; alt=&quot;100% complete&quot; /&gt;&lt;/td&gt;
-      &lt;td&gt;ACTIVE&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;DEX/CEX&lt;/td&gt;
-      &lt;td&gt;&lt;img src=&quot;https://progress-bar.dev/70/?width=200&quot; alt=&quot;70% complete&quot; /&gt;&lt;/td&gt;
-      &lt;td&gt;ACTIVE&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Aquafarm&lt;/td&gt;
-      &lt;td&gt;&lt;img src=&quot;https://progress-bar.dev/60/?width=200&quot; alt=&quot;60% complete&quot; /&gt;&lt;/td&gt;
-      &lt;td&gt;ACTIVE&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Aquarium&lt;/td&gt;
-      &lt;td&gt;&lt;img src=&quot;https://progress-bar.dev/60/?width=200&quot; alt=&quot;60% complete&quot; /&gt;&lt;/td&gt;
-      &lt;td&gt;IN PROGRESS&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Tentacles&lt;/td&gt;
-      &lt;td&gt;&lt;img src=&quot;https://progress-bar.dev/40/?width=200&quot; alt=&quot;40% complete&quot; /&gt;&lt;/td&gt;
-      &lt;td&gt;IN PROGRESS&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;&lt;strong&gt;Octoken:&lt;/strong&gt; Bonding curve sale for the $OCTO governance token took place on 14 September 2020 at 00:00 UTC &lt;a href=&quot;/project/token&quot;&gt;as explained here&lt;/a&gt; at &lt;a href=&quot;https://buy.octo.fi&quot;&gt;buy.octo.fi&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;Aquafarm:&lt;/strong&gt; Interest program rewarding $OCTO governance token holders locking their octokens for &lt;a href=&quot;/project/aquafarm&quot;&gt;runtimes detailed here&lt;/a&gt; will operate at &lt;a href=&quot;https://earn.octo.fi&quot;&gt;earn.octo.fi&lt;/a&gt; from 15 September 2020&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;DEX/CEX:&lt;/strong&gt; Decentralized and centralized exchange listings will occur on an ongoing basis from 15 September 2020 and beyond as enquiries are made&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;DAOctopus:&lt;/strong&gt; Community governance voting and other transparency measures will commence on our Snapshot Page at &lt;a href=&quot;https://dao.octo.fi&quot;&gt;dao.octo.fi&lt;/a&gt; from 15 September 2020&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;Aquarium:&lt;/strong&gt; Detailed transparency report will be published on 03 October 2020 and cover topics such as use of funds, bonding curve sale results, project reserve funding, and more&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;Tentacles:&lt;/strong&gt; Our core &lt;s&gt;oracle&lt;/s&gt; &lt;a href=&quot;/project/tentacles&quot;&gt;tentacle project&lt;/a&gt; for the DeFi ecosystem, will go into alpha release on 01 November 2020 and is feedback submission is open to $OCTO governance token holders&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p class=&quot;subtitle&quot;&gt;&lt;a href=&quot;https://twitter.com/octofinance/status/1305329689804681217?s=20&quot;&gt;🎉 Public sale complete&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://buy.octo.fi&quot;&gt;buy.octo.fi&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;If you’d share the below festival style poster of our roadmap in messages and on social media, it would be greatly appreciated.&lt;/p&gt;</content><author><name></name></author><summary type="html">Last updated 17 Sep 20</summary></entry></feed>
+&lt;p&gt;Do Your Octopus Research #DYOR&lt;/p&gt;</content><author><name></name></author><summary type="html">The first batch of community governance porposals are ready for your votes. Simply go to dao.octo.fi, check the proposals, and have your say.</summary></entry></feed>
