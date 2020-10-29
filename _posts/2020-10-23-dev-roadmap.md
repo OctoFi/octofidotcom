@@ -15,7 +15,7 @@ So far it has been an amazing journey during the last 30 days of development (ye
 
 - Feature allowing access to OCTO holders only
 - History tab to display all of your wallet's transactions
-- TokenSet integration with investment opportunities (by end of month)
+- TokenSet integration with investment opportunities
 - Integrating our Snapshot.Page governance into UI (by end of month)
 - Dark / light mode for those DeFi late nights
 - Explore tab
@@ -65,7 +65,7 @@ That's why we are dedicated to actually building real value for our holders.
 #### Q4 \#NoCexNovember (Main Features)
 
 - First release of our frontend mockups for the upcoming  interface 
-- Aquafarm Update with TokenSets, Snapshot.Page aggregation, oracle beta (end of OCTOBRRR)
+- Aquafarm Update with TokenSets, Snapshot.Page aggregation, oracle beta
 - Lending and Borrowing aggregation for Compound and Aave
 - Fundamental development for final app.octo.fi platform release 
 
