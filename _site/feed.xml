@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-10-27T16:39:51+11:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">octofidotcom</title><subtitle>Website for OctoFi: Decentralized Finance Tentacles. Hosted on Github Pages.</subtitle><entry><title type="html">Interest Program Recap and Rewards Claiming Tutorial</title><link href="http://localhost:4000/blog/interest-program-recap" rel="alternate" type="text/html" title="Interest Program Recap and Rewards Claiming Tutorial" /><published>2020-10-27T16:30:00+11:00</published><updated>2020-10-27T16:30:00+11:00</updated><id>http://localhost:4000/blog/interest-program-recap</id><content type="html" xml:base="http://localhost:4000/blog/interest-program-recap">&lt;p&gt;Early OCTO holders will remember our flagship interest program, designed to benefit the octonauts who supported us in the first month before OCTOBRRR started.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-10-30T12:33:16+11:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">octofidotcom</title><subtitle>Website for OctoFi: Decentralized Finance Tentacles. Hosted on Github Pages.</subtitle><entry><title type="html">Interest Program Recap and Rewards Claiming Tutorial</title><link href="http://localhost:4000/blog/interest-program-recap" rel="alternate" type="text/html" title="Interest Program Recap and Rewards Claiming Tutorial" /><published>2020-10-27T16:30:00+11:00</published><updated>2020-10-27T16:30:00+11:00</updated><id>http://localhost:4000/blog/interest-program-recap</id><content type="html" xml:base="http://localhost:4000/blog/interest-program-recap">&lt;p&gt;Early OCTO holders will remember our flagship interest program, designed to benefit the octonauts who supported us in the first month before OCTOBRRR started.&lt;/p&gt;
 
 &lt;p&gt;Those who took the risk of locking at least 100 of their precious OCTO for at least 6 months are being handsomely rewarded.&lt;/p&gt;
 
@@ -146,7 +146,7 @@
 &lt;ul&gt;
   &lt;li&gt;Feature allowing access to OCTO holders only&lt;/li&gt;
   &lt;li&gt;History tab to display all of your wallet’s transactions&lt;/li&gt;
-  &lt;li&gt;TokenSet integration with investment opportunities (by end of month)&lt;/li&gt;
+  &lt;li&gt;TokenSet integration with investment opportunities&lt;/li&gt;
   &lt;li&gt;Integrating our Snapshot.Page governance into UI (by end of month)&lt;/li&gt;
   &lt;li&gt;Dark / light mode for those DeFi late nights&lt;/li&gt;
   &lt;li&gt;Explore tab&lt;/li&gt;
@@ -200,7 +200,7 @@
 
 &lt;ul&gt;
   &lt;li&gt;First release of our frontend mockups for the upcoming  interface&lt;/li&gt;
-  &lt;li&gt;Aquafarm Update with TokenSets, Snapshot.Page aggregation, oracle beta (end of OCTOBRRR)&lt;/li&gt;
+  &lt;li&gt;Aquafarm Update with TokenSets, Snapshot.Page aggregation, oracle beta&lt;/li&gt;
   &lt;li&gt;Lending and Borrowing aggregation for Compound and Aave&lt;/li&gt;
   &lt;li&gt;Fundamental development for final app.octo.fi platform release&lt;/li&gt;
 &lt;/ul&gt;
