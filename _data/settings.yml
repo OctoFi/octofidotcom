@@ -8,18 +8,18 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: '0x72...2ba3'
-      url: 'https://etherscan.io/token/0x7240ac91f01233baaf8b064248e80feaa5912ba3'
-    - title: 'Docs'
-      url: 'https://docs.octo.fi'
-    - title: 'News'
-      url: 'https://t.me/s/OctoFiNews'
-    - title: 'Telegram'
-      url: 'https://t.me/OctoFiCommunity'
-    - title: 'Code'
+    - title: 'Roadmap'
+      url: 'https://todo.octo.fi'
+    - title: 'Community'
+      url: 'https://t.me/OctoFiCommunity'  
+    - title: 'Github'
       url: 'https://github.com/octofi'
+    - title: 'Help'
+      url: 'https://help.octo.fi'
     - title: 'Blog'
       url: '/blog/'
+    - title: 'News'
+      url: 'https://t.me/s/OctoFiNews'  
 
 footer_settings:
   logo_image: 
