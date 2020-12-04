@@ -1,7 +1,7 @@
 ---
 title: So Much Happened During Our Month Without CEX
 date: 2020-12-04 00:00:00
-description: In this recaptops, we revisit what happened at the end of OCTOBRRR, all of No CEX November, and what's in store for DEXember.
+description: In this recaptopus, we revisit what happened at the end of OCTOBRRR, all of No CEX November, and what's in store for DEXember.
 featured_image: '/images/20.jpg'
 ---
 
