@@ -1,6 +1,6 @@
 ---
 title: An Early deXmas Gift and Our First Ever Fee Distribution
-date: 2020-12-16 00:00:00
+date: 2020-12-16 08:08:08
 description: Found an early deXmas gift of 8 USDC land in your wallet? Let's discuss what it's all about as Dexember reaches the midway point.
 featured_image: '/images/24.jpg'
 ---
