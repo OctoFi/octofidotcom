@@ -8,18 +8,18 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'Intro'
-      url: 'https://101.octo.fi'
+    - title: 'Docs'
+      url: 'https://docs.octo.fi'
     - title: 'Roadmap'
       url: 'https://todo.octo.fi'
     - title: 'Chat'
       url: 'https://t.me/OctoFiCommunity'  
     - title: 'Code'
       url: 'https://github.com/octofi'
-    - title: 'Docs'
-      url: 'https://docs.octo.fi'
     - title: 'Help'
       url: 'https://help.octo.fi'
+    - title: 'Blog'
+      url: 'https://blog.octo.fi'
     - title: 'News'
       url: 'https://t.me/s/OctoFiNews'  
 
