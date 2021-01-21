@@ -12,16 +12,12 @@ menu_settings:
       url: 'https://docs.octo.fi'
     - title: 'Roadmap'
       url: 'https://todo.octo.fi'
-    - title: 'Chat'
-      url: 'https://t.me/OctoFiCommunity'  
-    - title: 'Code'
+    - title: 'Community'
+      url: 'https://den.octo.fi'  
+    - title: 'Telegram'
+      url: 'https://tg.octo.fi'
+    - title: 'GitHub'
       url: 'https://github.com/octofi'
-    - title: 'Help'
-      url: 'https://help.octo.fi'
-    - title: 'Blog'
-      url: 'https://blog.octo.fi'
-    - title: 'News'
-      url: 'https://t.me/s/OctoFiNews'  
 
 footer_settings:
   logo_image: 
