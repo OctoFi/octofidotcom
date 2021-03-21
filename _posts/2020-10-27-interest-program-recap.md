@@ -13,7 +13,7 @@ Those who took the risk of locking at least 100 of their precious OCTO for at le
 
 #### **Who can claim:** 
 
-As promised in our [interest program announcement](https://octo.fi/blog/interest-pool), those who met the requirements will receive an airdrop over 100 OCTO.
+As promised in our [interest program announcement](/blog/interest-pool), those who met the requirements will receive an airdrop over 100 OCTO.
 
 The following addresses are eligible when unlock date arrives:
 
@@ -61,7 +61,7 @@ If one of the above addresses is yours, or you locked a lower amount and want to
 - PASTE your lockbox number into the input field and press "Write"
 - Accept the transaction in your wallet and you're complete 
 
-If you need support, please get in touch via our [Telegram community](https://t.me/OctoFiCommunity).
+If you need support, please get in touch via our [Telegram community](https://t.me/OctoFi).
 
 [1]: https://etherscan.io/tx/0xb84ea8f395f8cb6e9c723ba7d5c4f606adacab3c9da9d5de1a5c9d10890b6396#eventlog
 [2]: https://etherscan.io/tx/0x6e1b92dc4a0472f7c2da12e317dbe5db5694d03407d410c9b4ced758518e16f6#eventlog
@@ -79,7 +79,7 @@ If you need support, please get in touch via our [Telegram community](https://t.
 [14]: https://etherscan.io/tx/0x544ddfea4ca9b38e2dcad70054d0b1459e8aa74353685bff064d945952529954#eventlog
 [15]: https://etherscan.io/tx/0x1388b321406678196357c068d4225d0955716d0d7224343ccaefaa928e9ac6a3#eventlog
 [16]: https://etherscan.io/tx/0x71f9ddd1d68ec074521df5daae10ca59b2d6e68f6761f30a1160e20cddd1b5d9#eventlog
-[17]: https://docs.octo.fi/docs/aquarium/i001/
+[17]: https://den.octo.fi/d/43-interest-program-001
 [18]: https://etherscan.io/address/0x0a4e9f69f5b2e1e661da9ed98956f928200ea4ba#readContract
 [19]: https://www.unixtimestamp.com/ 
 [20]: https://etherscan.io/address/0x0a4e9f69f5b2e1e661da9ed98956f928200ea4ba#writeContract
